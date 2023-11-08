@@ -1,0 +1,3263 @@
+{
+  "rules" : {
+    "code" : "प्रतिशत लेबलेबल की लम्बाई 4 तथा 10 अक्षर के बीच होना चाहिए",
+    "custom" : {
+      "usernameAllowLetters" : ""
+    },
+    "length" : "",
+    "range" : "the %label%age does not match the value range",
+    "integer" : "",
+    "required" : "",
+    "url" : "प्रतिशत लेबलेबल का प्रारूप अवैध है",
+    "number" : "",
+    "password" : "प्रतिशत लेबलेबल",
+    "phone" : "प्रतिशत लेबलेबल का प्रारूप अवैध है",
+    "equals" : "",
+    "telphone" : "प्रतिशत लेबलेबल का प्रारूप अवैध है",
+    "idcard" : "प्रतिशत योग्य",
+    "rangeNumber" : "",
+    "email" : "प्रतिशत लेबलेबल का प्रारूप अवैध है"
+  },
+  "Kwun-B22L" : "PhiCleaner™ E22L",
+  "Kwun-B62G" : "",
+  "Kwun-B22H" : "PhiCleaner™ E22H",
+  "learnMore" : "अधिक सिखाएँ",
+  "solution" : {
+    "autonomousAstonishingCapability" : "",
+    "IndustrialCommercialRoofs" : "",
+    "cleanRevolutionContinuousProfit" : "शुद्ध क्रांति, नियमित पैसा बनाते हैं.",
+    "MaxCleanlinessMiniCosts" : "improve cleaning efficiency, reduce cleaning costs, and ensure that the power plant is as clean as new, making cleaning infinitely possible.",
+    "aiVisualHighPrecisionAlignment" : "ai दृश्य, उच्च सुधार",
+    "zhongxinInternational" : "smic अंतर्राष्ट्रीय",
+    "LearnAboutIndustryApplications" : "",
+    "multiInterfaceEcosystem" : "",
+    "Fishlight" : "",
+    "autonomousCleaningEndlessSharing" : "स्वयं स्वयं शुद्ध और अन्तिम साझेदारी है।",
+    "reliableQuality" : "",
+    "southernPowerGrid" : "दक्षिण पावर ग्रीडcomment",
+    "InfrastructureServicesDesc" : "",
+    "autonomousCleaningUnattended" : "self cleaning, unmanned.",
+    "standardizedServices" : "",
+    "sustainedClean" : "",
+    "CleaningTraining" : "",
+    "FollowUs" : "follow us",
+    "cleanRevolutionConqueringTheGlobe" : "",
+    "perfectClean" : "",
+    "easyCleaning" : "easy cleaning",
+    "SaveMoneyAndEffort" : "",
+    "allWalksOfLifeThousandsOfHouseholds" : "विविध उद्योग और घराना",
+    "cleanRevolutionLeadingWithSolarEnergy" : "",
+    "contactUs" : "",
+    "MakeCleaningAHabitAndEarnPower" : "एक सामान्य साफ करने और पर्याप्त विद्युति उत्पादन के लिए प्राप्त करें",
+    "InfrastructureServices" : "क्वुन जियानchina. kgm ® सेवा",
+    "cuttingEdgeTechnologyEnsuringCleaningQuality" : "",
+    "practicalSolutionsRealWorldExperience" : "व्यवसायिक समाधान, व्यवसायिक अनुभव",
+    "HowToBuy" : "",
+    "ScenarioTrainingDesc" : "",
+    "CleaningService" : "क्वान्ज ® सेवा",
+    "watchTheVideo" : "वीडियो देखें",
+    "floatingPowerStation" : "",
+    "CarportPhotovoltaic" : "कार शेल फोटो वोल्टाइक",
+    "huaweiTechnology" : "",
+    "CleaningTrainingDesc" : "",
+    "FishlightDesc" : "प्रभावित रूप साफ मिट्टी, कठोर स्टेन्स को हटाएं, पावर उत्पन्न को बढ़ाएं, और शुद्ध करने के कार्यक्षमता के नया अनु",
+    "email" : "",
+    "PhotovoltaicCleaningAtYourFingertips" : "फोटो वोल्टेक साफ करने के लिए सिर्फ तकनीक साझेदारी पर आराम रखता है",
+    "CareFor25YearsWithCleanEdges" : "clean border mud belt, caring for the power plant for 25 years",
+    "ScenarioTraining" : "name ® ट्रेन",
+    "SuperCostEffective" : "अलट्रा उच्च कोस्ट-प्रभाव, प्रभावित रूप से मनुष्य पावर सहेजने क्षमताओं को उपयोग करते हैं, और पावर उत्पन्न को अधि",
+    "CleaningServiceDesc" : "provide high-quality cleaning services in a standardized cleaning mode, and accept customer power station cleaning orders at a fair price.",
+    "AccomplishTheImpossibleTask" : "",
+    "WhyChooseKwunPhi" : "मान्स्टर संकेत क्यों चुनें",
+    "RecentlyUpdated" : "",
+    "BecomePartner" : "साझेदार बना रहा है",
+    "ExploreMore" : "explore more",
+    "easyClean" : "",
+    "contactPhone" : "",
+    "datangGeneration" : ""
+  },
+  "helpMeChoose" : {
+    "SelectOne" : "कृपया विकल्पों में से एक चुनें",
+    "result" : {
+      "compare" : "",
+      "InPreSale" : "पूर्व विक्रेत प्रगति में है",
+      "TheBestRobotForYou" : "आपके लिए सबसे उपयुक्त क्वून ® हाँ (_y)",
+      "TestResults" : "परीक्षा परिणाम",
+      "Reselect" : "फिर चुनें"
+    },
+    "ViewResults" : "",
+    "qu" : {
+      "EfficientOrConvenient" : "क्या आप अधिक प्रकार या उपयोगी बनाना चाहते हैं?",
+      "ImportantScenes" : "",
+      "PVModulesInclinationAngle" : "",
+      "EfficientOrConvenientAnswer" : {
+        "EfficientType" : "",
+        "LightweightType" : "हल्का"
+      },
+      "ImportantScenesAnswer" : {
+        "mountain" : "",
+        "shingled" : "लैमिनेट टाइल",
+        "floating" : "",
+        "houseRoof" : "",
+        "pool" : "माछा प्रकाश",
+        "solarTracker" : "ट्रैकिंग क्रैकेट",
+        "commercialAndIndustrialRoofing" : "औद्योगिक और व्यापारिक छत",
+        "ground" : "भूमि",
+        "farmland" : "vietnam. kgm"
+      },
+      "PVModulesInclinationAngleAnswer" : {
+        "LessThanTenDegrees" : "≤10°",
+        "LessThanThirtyFiveDegrees" : "≤35°",
+        "LessThanFifteenDegrees" : "≤15°"
+      }
+    },
+    "Next" : "",
+    "Previous" : "",
+    "PleaseSelectAtLeastOneOption" : "",
+    "SelectMultiple" : ""
+  },
+  "recruitment" : {
+    "dignifiedWork" : "डिजिनिटरी काम",
+    "blendingThePowerOfScienceAndBeautyIntoTheHumanSpirit" : "विज्ञान की शक्ति और सुंदर्यता को मनुष्य आत्मा में एकत्रित करें",
+    "weAreDedicatedTo" : "हमारे लिए ज़िम्मेदार हैं",
+    "changeTheWorldTogetherWithGuaiChong" : "",
+    "birthOfNewIndustries" : "",
+    "findTheRightTeamForYou" : "आपके लिए सही टीम ढूंढें",
+    "learnMore" : "अधिक सिखाएँ",
+    "convergenceOfSocialInnovation" : "सामाजिक आवृत्तिकरण बलों को एकत्रित कर रहा है",
+    "innovateAndCreateAgain" : "पुनरावृत्ति और पुनरावृत्ति",
+    "teamIntroduction" : "team introduction",
+    "inTheRightPositionYourImaginationWillShineBrightly" : "",
+    "enhancedResourceValue" : "संसाधन मूल्य बढ़ाया जा रहा है",
+    "jobList" : [ {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "इंटरनेट टीम",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "जानकारी प्रबंधन टीम",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "विक्रेता सेवा टीम के बाद",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "वैश्विक टीम",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    }, {
+      "jobName" : "",
+      "jobDesc1" : "",
+      "jobDesc2" : "दीवार पर चौथा स्थान, समुद्र, भूमि और हवा के पार, स्वप्न प्राप्त करने के लिए गिनतीय तकनीकों को लेता है। यह विचित्र प्राप्त करने के लिए विचित्र प्राप्त इस अंत में, केफीआई अविश्वसनीय विकास करेगा और उच्च गुणवत्ता वाल मोबाइल रोबोट उत्पन्न करेगा, जिसे हमारे हाथों में \"भविष्",
+      "jobDescTitle" : ""
+    } ],
+    "applyNowHrKwunphiCom" : "",
+    "improvedEfficiency" : "क्रियाशीलता सुधारें",
+    "makingTheEarthGreener" : "पृथ्वी को हरा"
+  },
+  "terms" : {
+    "TermsOfUse" : "गुणवत्ता असुरक्षा क्लास"
+  },
+  "nav.downloads" : "डाउनलोड केंद्र",
+  "kwunq" : {
+    "processes" : {
+      "process" : {
+        "ScourSyncWash" : "scor synchronous wash",
+        "SolventSoak" : "साप समाधान करें",
+        "SolventSpray" : ""
+      },
+      "solvent" : {
+        "KwunJNo2" : "",
+        "KwunJNo1" : "",
+        "KwunJNo0" : ""
+      },
+      "stain" : {
+        "Dust" : "",
+        "WetGuano" : "wet guano",
+        "Rust" : "",
+        "DryGuano" : "",
+        "Slurry" : "",
+        "LeadAshes" : "",
+        "OilPollution" : "तेल प्रदूषण",
+        "Paint" : "पेंट",
+        "FlyAsh" : "name"
+      },
+      "cleanlinessGrade" : {
+        "scp4" : "scp 4",
+        "scp3" : ""
+      }
+    },
+    "messages" : {
+      "inputCleaningTask" : "कृपया कुल मासिक साफ करने के मात्रा भरें (mw)",
+      "tooLongCleanDays" : "साफ करने का अवधि ३० दिन बढ़ाया है",
+      "selectModel" : "",
+      "notSupportCleanway" : ""
+    },
+    "label" : {
+      "personSubsidy" : "व्यक्तिगत सहभागी सदस्यता",
+      "forCleaning" : "",
+      "laborKwunQuantity" : "",
+      "personManagementExpense" : "व्यक्तिगत प्रबंधन खर्च",
+      "fixedParam" : "",
+      "vehicleFixedParam" : "",
+      "situationEfficiency" : "स्केन मिलाने के क्रियाशीलता",
+      "fuelConsumption" : "",
+      "vehicleMaintenanceCost" : "",
+      "forOwner" : "",
+      "PVStationCapacity" : "",
+      "vehiclePrice" : "",
+      "cleaningTask" : "",
+      "personQuantity" : "व्यक्तिगत की संख्या",
+      "price" : "प्रकल्प प्लस",
+      "model" : "",
+      "selectModel" : "",
+      "laborKwunRatio" : "",
+      "perMW" : "",
+      "cleanway" : "साफ करने विधि",
+      "model2" : "मॉडल",
+      "cost" : "",
+      "kwunMaintenanceCost" : "",
+      "vehicleTravelCost" : "",
+      "cleanCycle" : "साफ करने की संख्या",
+      "monthlyTotalCost" : "",
+      "personBasicSalary" : "",
+      "costPerMW" : "",
+      "comSituationEfficiency" : "",
+      "userFilling" : "प्रयोक्ता वस्तुओं में भरा है",
+      "solvent" : "objectclass",
+      "kwunQuantity" : "",
+      "workdayTotalCost" : "",
+      "vehicleQuantity" : "",
+      "cleanDays" : ""
+    },
+    "situation" : {
+      "ciRoofingTiling" : "औद्योगिक और व्यापारिक छत (फ्लैट/बीपीवी)",
+      "ciRoofingManualAccess" : "औद्योगिक तथा व्यापारिक छत (बहुत चैनल)",
+      "mountain" : "स्लोपिंग लैंड",
+      "floating" : "",
+      "houseRoof" : "",
+      "pool" : "माछा प्रकाश",
+      "ground" : "भूमि",
+      "farmland" : "vietnam. kgm",
+      "ciRoofing" : "औद्योगिक और व्यापारिक छत",
+      "ciRoofingBypass" : ""
+    },
+    "cleanway" : {
+      "laborSpraying" : "",
+      "dryBrush" : "name",
+      "rinseWithWater" : "",
+      "sprayer" : "",
+      "raining" : "बरसातweather forecast"
+    },
+    "stain" : {
+      "oilPollution" : "तेल प्रदूषण",
+      "rust" : "रूस्ट",
+      "guano" : "",
+      "leadAshes" : "",
+      "paint" : "",
+      "flyAsh" : "तीव्र धूलीweather forecast",
+      "slurry" : "सेमेंट चेस्ट",
+      "wetGuano" : "",
+      "dryGuano" : "name",
+      "dust" : "डिर्ट"
+    }
+  },
+  "contact" : {
+    "contactUs" : "",
+    "SubscribetoUs" : "",
+    "Address" : "पता",
+    "purchase" : "",
+    "Subscribe" : "",
+    "label" : {
+      "submit" : "भेजें",
+      "phone" : "",
+      "telphone" : "संपर्क संख्या",
+      "name" : "",
+      "questions" : "वर्णन",
+      "company" : "company name",
+      "email" : "मेलबाक्स"
+    },
+    "ServiceCalls" : "service phone",
+    "SalesChannel" : "चैनल सहभाग के विक्रेता",
+    "ClickHere" : "यहाँ क्लिक करें",
+    "service" : "",
+    "recruit" : "श्रेष्ठ पुनरावृत्ति",
+    "vendor" : "supplier cooperation",
+    "MediaCooperation" : "",
+    "placeholder" : {
+      "phone" : "",
+      "telphone" : "",
+      "name" : "",
+      "questions" : "",
+      "company" : "",
+      "email" : "कृपया अपना इमेल पता भरें"
+    },
+    "TechnicianPhone" : "तकनीकी व्यक्तिगत",
+    "EnterEmail" : "कृपया अपना इमेल पता भरें",
+    "Business" : ""
+  },
+  "comparison" : {
+    "QuickNavBar" : "",
+    "HideSameProperty" : ""
+  },
+  "productSpecs" : {
+    "HotSellingAccessories" : "",
+    "downloadResource" : {
+      "quickGuide" : "",
+      "instructionManual" : "",
+      "beforeUse" : ""
+    },
+    "Kwun-B12T" : {
+      "productDescList" : [ "", "बैटरी जीवन: 5 घंटा", "", "कोण धुमानी: ≤ 10 °", "ड्री ब्रुस कोण: ≤ 15 °", "शरीर आकार * (रोलिंग ब्रुस से बाहर) 550 * 390 * 230mm", "" ],
+      "capabilities" : "",
+      "shape" : {
+        "rollerBrushLength" : "",
+        "bodyWeightWithoutRoller" : "19.70kg",
+        "rollerWeightDetachable" : "d- प्रकार 5. 7kg&4. 9kg",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "1 Series Small Angle Standard",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "बैटरी को हर 4. 5 घंटा बदलें"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "केवान ®- b12t",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "ड्री ब्रुस 40mm/पानी धूम 20mm",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥400",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "ChooseYouNeed" : "",
+    "Kwun-B32L" : {
+      "productDescList" : [ "क्रियाशीलता साफ कर रहा है (वर्ग मीटर/घंटा): ≥ 600m ²/ h", "", "", "कोण धुमानी: ≤ 10 °", "ड्री ब्रुस कोण: ≤ 15 °", "", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 80kg" ],
+      "capabilities" : "PhiCleaner™ E32L एक पोर्टेबल निम्न कोण पानी धुए ब्रूस साफ करने के संयोजन रोबोट है, मुख्य रूप संस्थापित और व्यापारिक छतों के लिए विकास किया गया है और पावर स्टेशन के ट्रैकिंग है. इसके प विचित्र स्वच्छ स्वच्छ तकनीक की उपयोग हर जगह प्रदर्शित होती है - सुरक्षित और मित्र, स्पष्ट सीमा और नया रूप से ",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.80kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "3 series small angle standard",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "4 घंटा",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : ""
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "genericname",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "156666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥600",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "160 rpm",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B22L" : {
+      "productDescList" : [ "cleaning efficiency (square meters/hour): ≥ 400m ²/ h", "", "", "कोण धुमानी: ≤ 10 °", "ड्री ब्रुस कोण: ≤ 15 °", "", "" ],
+      "capabilities" : "",
+      "shape" : {
+        "rollerBrushLength" : "",
+        "bodyWeightWithoutRoller" : "19.70kg",
+        "rollerWeightDetachable" : "d- प्रकार 5. 7kg&4. 9kg",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "बैटरी को हर 4. 5 घंटा बदलें"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "PhiCleaner™ E22L",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "116666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "ड्री ब्रुस 40mm/पानी धूम 20mm",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥400",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B62G" : {
+      "productDescList" : [ "", "", "", "", "ड्री ब्रुस कोण: ≤ 20 °", "शरीर आकार * (रोलिंग ब्रुस से छोड़कर): 650 * 560 * 250mm", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 85kg" ],
+      "capabilities" : "",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.80kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "बैटरी को हर 4. 5 घंटा बदलें"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "रिमोट नियंत्रण",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "ड्री ब्रुस 40mm/पानी धूम 20mm",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥1200",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B32H" : {
+      "productDescList" : [ "क्रियाशीलता साफ कर रहा है (वर्ग मीटर/घंटा): ≥ 650m ²/ h", "", "", "कोण धुमानी: ≤ 10 °", "ड्री ब्रुस कोण: ≤ 15 °", "", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 85kg" ],
+      "capabilities" : "",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.85kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "3 series small angle standard",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "4 घंटा",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : ""
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "188666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "160 rpm",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B22H" : {
+      "productDescList" : [ "", "", "", "कोण धुमानी: ≤ 10 °", "ड्री ब्रुस कोण: ≤ 15 °", "", "" ],
+      "capabilities" : "",
+      "shape" : {
+        "rollerBrushLength" : "",
+        "bodyWeightWithoutRoller" : "19.75kg",
+        "rollerWeightDetachable" : "d- प्रकार 5. 7kg&4. 9kg",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "बैटरी को हर 4. 5 घंटा बदलें"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "क्रियाशीलता साफ कर रहा है ≥ 450m ²/ h battery life 4.5 hours, charging time 3 hours, washing angle ≤ 15 °, dry brushing angle ≤ 10 °, body size (excluding rolling brush) 585 * 560 * 250mm, body weight (excluding rolling brush) 19.75kg",
+      "productVersion" : "PhiCleaner™ E22H",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "132666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "ड्री ब्रुस 40mm/पानी धूम 20mm",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥450",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : "पावर उत्पन्न हीरो, पावर कंपनियों के लिए एक होना चाहिए"
+    },
+    "security" : {
+      "specs" : {
+        "fallProtection" : "fall protection",
+        "antiSlip" : "",
+        "seamlessSafety" : "safe without hidden cracks",
+        "positioningAccuracy" : "",
+        "positioningMethod" : "",
+        "antiTheftLocationTerminal" : "",
+        "protectionLevel" : "",
+        "operationModes" : "कार्य मोड",
+        "steeringDirection" : "steering direction"
+      },
+      "title" : "सुरक्षा"
+    },
+    "Specifications" : "प्रोडेक्ट विशिष्टीकरण पैरामीटर्स",
+    "specsDataInterpretation" : {
+      "shape" : "फूजलेज का भार और आकार डाटा क्योंकि सामग्री प्रदान करनेवालों में परिवर्तनों के कारण थोड़ा भिन्न हो सकता है",
+      "standardParameters" : "",
+      "lifeAndEndurance" : "",
+      "FinalInterpretation" : "शेन्चेन के पीएफ को ., लिटीएफ. के पास डाटा का अनुवाद करने के लिए अंतिम अधिकार है"
+    },
+    "manipulation" : {
+      "specs" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "unmanned operation of approach bridge",
+        "remoteControl" : "रिमोट नियंत्रण",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "एक व्यक्ति नियंत्रण की अधिकतम संख्या",
+        "realTimeLogView" : "real time viewing of logs",
+        "softwareMaintenanceUpgrade" : "",
+        "ratedBrushSpeed" : "rated rolling speed",
+        "droneDeployment" : "ड्रॉन पुनरावृत्ति और पुनरावृत्ति",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "title" : "हैंडलिंग"
+    },
+    "RecommendedWorkingConditions" : "कार्य परिस्थिति (सूखा ब्रुशिंग/पानी धुना)",
+    "shape" : {
+      "specs" : {
+        "bodyWeightWithoutRoller" : "",
+        "rollerWaterCombination" : "रोलर ब्रुस पानी वितरक संयोजन *",
+        "rollerWeightDetachable" : "रोलर ब्रुश भार * (अलग कर सकता है)",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "",
+        "rollerLength" : ""
+      },
+      "title" : "दृश्य पैरामीटर्स"
+    },
+    "Kwun-B11T" : {
+      "productDescList" : [ "", "बैटरी जीवन: 5 घंटा", "", "washing angle: ≤ 5 °", "", "शरीर आकार * (रोलिंग ब्रुस से बाहर) 550 * 390 * 230mm", "" ],
+      "capabilities" : "name bringing strange insect value to millions of household users - safety, friendliness, and cleanliness.",
+      "shape" : {
+        "rollerBrushLength" : "",
+        "bodyWeightWithoutRoller" : "19.75kg",
+        "rollerWeightDetachable" : "d- प्रकार 5. 7kg&4. 9kg",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "बैटरी को हर 4. 5 घंटा बदलें"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "क्रियाशीलता साफ कर रहा है ≥ 450m ²/ h. . बैटरी जीवन 4.5 घंटे, चार्ज करने का समय 3 घंटा, कोण ≤ 15 °, सूखा ब्रुस कोण ≤ 10 ° है. शरीर आकार (रोलिंग ब्रुस से बाहर) 585 * 560 * 250mm, शरीर भार (रोलिंग ब्रुस से बाहर) 19.75kg",
+      "productVersion" : "केवान ®- b11t",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "ड्री ब्रुस 40mm/पानी धूम 20mm",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥450",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "ProductSpecifications" : "उत्पादन विशिष्टीकरण",
+    "lifeAndEndurance" : {
+      "specs" : {
+        "designLife" : "design life",
+        "warrantyPeriod" : "वारेंटी अवधि",
+        "chargingTime" : "चार्जिंग समय",
+        "enduranceTime" : "बैटरी जीवन",
+        "batteryCapacity" : "",
+        "8HourEnduranceMethod" : "8 घंटी बैटरी जीवन मोड"
+      },
+      "title" : ""
+    },
+    "technology" : {
+      "specs" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "title" : ""
+    },
+    "PackingListComparison" : "packaging list comparison",
+    "Kwun-B11L" : {
+      "productDescList" : [ "", "बैटरी जीवन: 5 घंटा", "", "washing angle: ≤ 5 °", "", "शरीर आकार * (रोलिंग ब्रुस से बाहर) 550 * 390 * 230mm", "" ],
+      "capabilities" : "name bringing strange insect value to millions of household users - safety, friendliness, and cleanliness.",
+      "shape" : {
+        "rollerBrushLength" : "641*180*130mm",
+        "bodyWeightWithoutRoller" : "14.15kg",
+        "rollerWeightDetachable" : "",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "550*390*230mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "replace the battery every 5 hours"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "स्वच्छ ब्रूसिंग 0-10 °/पानी धूम 0-5 °",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "10°",
+        "wetPVPanelAngle" : "5°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥200",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B63G" : {
+      "productDescList" : [ "", "", "", "", "ड्री ब्रुस कोण: ≤ 20 °", "शरीर आकार * (रोलिंग ब्रुस से छोड़कर): 650 * 560 * 250mm", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 85kg" ],
+      "capabilities" : "PhiCleaner™ E63G is the first portable medium angle water wash dry brush integrated cleaning robot, which can easily achieve a single person cleaning workload of 2mw in eight hours. शुद्ध कंपनियों के लिए विशेष रूप से डिजाइन किया गया, 5 लोगों के मौलिक शुद्धी टीम को 2 लोगों पर कम कर दिया गया है, महत्वपूर्ण क्षमता कम कर रहा है। यह बड़े स्",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.80kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "4 घंटा",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : ""
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "PhiCleaner™ E63G",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "रिमोट नियंत्रण",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "20°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥1200",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "160 rpm",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B37L" : {
+      "productDescList" : [ "क्रियाशीलता साफ कर रहा है (वर्ग मीटर/घंटा): ≥ 600m ²/ h", "", "", "", "ड्री ब्रुस कोण: ≤ 20 °", "शरीर आकार * (रोलिंग ब्रुस से छोड़कर): 650 * 560 * 250mm", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 85kg" ],
+      "capabilities" : "PhiCleaner™ E37L प्रथम पोर्टेबल उच्च कोण पानी धुएं, सुकाएं, तथा ब्रूसिंग साफ करने के लिए एकंग्रेड शुद्ध रोबोट है, विशिष्ट रूप से प्रभावी अधिकतम करने के लिए डिजाइन किया गया है और मनुष्य-मशीन सहयोग को कम करने के  केंद्रित पृथ्वी पावर प्लेट्स के लिए विशेष रूप से डिजाइन किया गया. यह एक इपोक बनाने वाला उत्पादन है जो बड़ी जमीन केंद्रीकरण किया गया पावर प्रतिष्ठान के लिए सबसे अच्छा शुद्धी",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.85kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "3 श्रेणी बड़ा कोण उच्च पावर",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "4 घंटा",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : ""
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "35°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "160 rpm",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : "शुद्ध ओवरलार, रेतील तूफान का शत्रु"
+    },
+    "Kwun-B33H" : {
+      "productDescList" : [ "क्रियाशीलता साफ कर रहा है (वर्ग मीटर/घंटा): ≥ 650m ²/ h", "", "", "", "ड्री ब्रुस कोण: ≤ 20 °", "शरीर आकार * (रोलिंग ब्रुस से छोड़कर): 650 * 560 * 250mm", "" ],
+      "capabilities" : "",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "25.75kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "650*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "3 श्रेणी मध्य कोण उच्च अंत",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : ""
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "genericname",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "≤ 10m चीन के भीतर",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "246666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "20°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "160 rpm",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : "संस्करणता का राजा, अन्तिम साझेदारी"
+    },
+    "Kwun-B33F" : {
+      "productDescList" : [ "क्रियाशीलता साफ कर रहा है (वर्ग मीटर/घंटा): ≥ 600m ²/ h", "", "", "", "ड्री ब्रुस कोण: ≤ 20 °", "शरीर आकार * (रोलिंग ब्रुस से छोड़कर): 650 * 560 * 250mm", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 85kg" ],
+      "capabilities" : "",
+      "shape" : {
+        "rollerBrushLength" : "",
+        "bodyWeightWithoutRoller" : "19.70kg",
+        "rollerWeightDetachable" : "d- प्रकार 5. 7kg&4. 9kg",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "बैटरी को हर 4. 5 घंटा बदलें"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "क्रियाशीलता साफ कर रहा है ≥ 600m ²/ h बैटरी जीवन 4.5 घंटे, चार्ज करने का समय 3 घंटा, धुने कोण ≤ 15 °, सूखा ब्रूस कोण ≤ 10 °, शरीर आकार (रोलिंग ब्रूस से बाहर) 585 * 560 * 250mm, शरीर भार",
+      "productVersion" : "",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "रिमोट नियंत्रण",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "ड्री ब्रुस 40mm/पानी धूम 20mm",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥600",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    },
+    "Kwun-B37H" : {
+      "productDescList" : [ "क्रियाशीलता साफ कर रहा है (वर्ग मीटर/घंटा): ≥ 650m ²/ h", "", "", "", "ड्री ब्रुस कोण: ≤ 20 °", "शरीर आकार * (रोलिंग ब्रुस से छोड़कर): 650 * 560 * 250mm", "शरीर भार * (रोलिंग ब्रुस से बाहर) 23. 85kg" ],
+      "capabilities" : "",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "25.75kg",
+        "rollerWaterCombination" : "type b 8.3kg",
+        "rollerWeightDetachable" : "type b 7.2kg",
+        "bodySizeWithoutRoller" : "650*560*250mm",
+        "rollerLength" : "b- प्रकार 1285mm"
+      },
+      "introduce" : "3 श्रेणी बड़ा कोण उच्च पावर",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : ""
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "genericname",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "≤ 10m चीन के भीतर",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "20°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : "स्वच्छ ब्रुस 62-74km/h, बलवान हवा/पानी धुए 29-38km/h, बलवान हवा"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "160 rpm",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : "शुद्ध ओवरलार, रेतील तूफान का शत्रु"
+    },
+    "standardParameters" : {
+      "specs" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "फोटो वोल्टेक मोड्यूल कोण",
+        "EnvironmentalTemperature" : "ambient temperature",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "",
+        "PVModuleSpacing" : "splicing interval of photovoltaic modules",
+        "dryPVPanelAngle" : "",
+        "wetPVPanelAngle" : "पानी धुए फोटो वोल्टाइक मोड्यूल शीर्षक कोण",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "title" : ""
+    },
+    "abilityToClean" : {
+      "specs" : {
+        "cleaningEfficiency" : "",
+        "dustAccumulation" : "",
+        "dryBirdDroppings" : "",
+        "buoyancy" : "फ्लोट तथा सिंक (एडेसिव बल ≤ 10 ^ - 6n)"
+      },
+      "title" : ""
+    },
+    "Kwun-π1" : {
+      "productDescList" : [ "", "बैटरी जीवन: 5 घंटा", "", "कोण धुमानी: ≤ 10 °", "ड्री ब्रुस कोण: ≤ 15 °", "शरीर आकार * (रोलिंग ब्रुस से बाहर) 550 * 390 * 230mm", "" ],
+      "capabilities" : "",
+      "shape" : {
+        "rollerBrushLength" : "641*180*130mm",
+        "bodyWeightWithoutRoller" : "14.15kg",
+        "rollerWeightDetachable" : "",
+        "rollerBrushesNumber" : "",
+        "bodySizeWithoutRoller" : "550*390*230mm"
+      },
+      "introduce" : "",
+      "lifeAndEndurance" : {
+        "designLife" : "",
+        "warrantyPeriod" : "1 साल या 2400 घंटा (जिसे पहले आता है)",
+        "chargingTime" : "",
+        "enduranceTime" : "",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "replace the battery every 5 hours"
+      },
+      "technology" : {
+        "visionNavigation" : "",
+        "aiPlatform" : "",
+        "pathPlanning" : "",
+        "otaPlatform" : "",
+        "operatingSystem" : ""
+      },
+      "productDesc" : "",
+      "productVersion" : "केवान ®- पी1",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "ai दृश्य सेमान्टिक्स",
+        "antiTheftLocationTerminal" : "कुछ नहीं",
+        "protectionLevel" : "",
+        "operationModes" : "स्वचालित होमवर्क, मोबाइल अनुप्रयोग प्रबंधन",
+        "steeringDirection" : ""
+      },
+      "turningMethod" : "",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "",
+        "PVPanelAngle" : "स्वच्छ ब्रूसिंग 0-10 °/पानी धूम 0-5 °",
+        "EnvironmentalTemperature" : "",
+        "PVModuleHeightDifference" : "",
+        "Rainfall" : "पानी धुने के लिए आवश्यकता है",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "10°",
+        "wetPVPanelAngle" : "5°",
+        "PVModuleSurfaceTemperature" : "",
+        "WindForce" : ""
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥200",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "",
+        "unmannedOperationOnRamps" : "",
+        "remoteControl" : "",
+        "suggestedMaxControllableOnSlopes" : "",
+        "suggestedMaxControllableOnRoofs" : "",
+        "nightOperation" : "",
+        "maxControllablePerPerson" : "",
+        "realTimeLogView" : "",
+        "softwareMaintenanceUpgrade" : "ओटीए अद्यतन",
+        "ratedBrushSpeed" : "",
+        "droneDeployment" : "",
+        "additionalRFRemoteController" : "",
+        "resumeAfterPowerLoss" : ""
+      },
+      "Nickname" : ""
+    }
+  },
+  "appIntro" : {
+    "downloadAppDesc08" : "",
+    "downloadAppDesc09" : "",
+    "downloadApp" : "बुद्धिमान साफ करने के लिए ai केवून अनुप्रयोग डाउनलोड करें",
+    "downloadAppDesc06" : "",
+    "downloadAppDesc07" : "",
+    "downloadAppDesc04" : "",
+    "downloadAppDesc05" : "",
+    "downloadAppDesc02" : "",
+    "downloadAppDesc03" : "",
+    "downloadAppDesc01" : "दूरस्थ सीमाओं में ब्रेकिंग, एपीपी के पास वैश्विक रिमोट नियंत्रण है, सभी अपने अंगुल्ली टिप्स पर",
+    "downloadAppDesc10" : ""
+  },
+  "purchaseNow" : "",
+  "nav.news" : "indonesia. kgm",
+  "productSellPrice" : "",
+  "Kwun-B37L" : "",
+  "Kwun-B33H" : "genericname",
+  "Kwun-B33F" : "",
+  "Kwun-B37H" : "",
+  "nav.service" : "",
+  "kwun" : {
+    "PVQualityAdvocate" : "शुद्ध फोटो वोल्टाइक गुणवत्ता के लिए व्यवस्थापित करें",
+    "findTheRightKwunForYou" : "मुझे नहीं पता कि कौन क्वून ® तुम्हारे लिए सबसे उत्तम?",
+    "highEnergyHighEfficiency" : "",
+    "whichKwunIsRightForYou" : "",
+    "accessories" : "",
+    "serviceAndSupport" : "",
+    "excellentCleaningEffect" : "",
+    "quizToCompareParametersAndFindRightKwun" : "",
+    "customizableOptions" : "",
+    "remoteControlCubeBatteryAndMoreAccessories" : "remote control, water cube, battery, and more accessories",
+    "solutionForDifferentPowerStations" : "क्या यह एक व्यापारिक छत है, उत्प्लावन पावर प्लेट, या उच्च पावर प्लेट है, वहाँ हमेशा एक क्वून है ® आपके लिए योग्य",
+    "exploreMore" : "explore more",
+    "extendedFunction" : "",
+    "newArrivals" : "नया सिफारिमेंडेशन",
+    "highStandardCleaningQuality" : "",
+    "productSupport" : "",
+    "viewFullComparison" : "पूरा तुलना देखें",
+    "quickView" : "",
+    "takeTheTest" : "",
+    "aftersalesSupport" : "विक्रेता के बाद आधिकारिक सेवा स्वीकार करें, और ऑनलाइन ग्राहक सेवा अपने प्रश्नों को जवाब देगा",
+    "greatValueForMoney" : "high cost-effectiveness",
+    "downloadOfficialSoftwareAndManuals" : ""
+  },
+  "pages.home" : "",
+  "Kwun-π1" : "",
+  "aboutUs" : {
+    "milestoneList" : [ {
+      "label" : "",
+      "content" : "वेचोंग कंपनी का स्थापना"
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "सेप्टेंबर 21, 2019",
+      "content" : ""
+    }, {
+      "label" : "डिसेंबर 3, 2019",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "may 31, 2020",
+      "content" : "strange insect's first appearance to receive shenzhen vice mayor nie xinping's visit"
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "डिसेंबर 19, 2021",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : "विचित्र संकेत क्वून ® प्रथम 100 सीरी उत्पादकों के एकाइ विक्रिया"
+    }, {
+      "label" : "ऑगस्ट 16, 2022",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : "वेचोंग को \"राष्ट्रीय हाइल्टेक्स इंटरप्राइज़ के रूप में प्रमाणपत्रित किया गया है\""
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : "वेचोंग एक नया स्थान में स्थानान्तरित हुआ और वेचोंग बिल्डिंग में स्थानित हुआ, इंजिनियरी, उत्पादन, विक्रेता और अन्य वि"
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : ""
+    }, {
+      "label" : "",
+      "content" : ""
+    } ],
+    "aboutUs" : "",
+    "vision" : "vision",
+    "ReverenceForNature" : "",
+    "valuesVision" : "",
+    "InnovativeTechnology" : "",
+    "values" : "मान",
+    "milestones" : "",
+    "introduction" : "introduction to monster insects",
+    "Global" : [ {
+      "localeName" : "सियटल - युनाइटेड स्टेट्स"
+    }, {
+      "localeName" : "मुन्च जर्मनीcity name (optional, probably does not need a translation)"
+    }, {
+      "localeName" : ""
+    }, {
+      "localeName" : "टोक्यो - जापान"
+    } ],
+    "GlobalPresence" : "",
+    "desc" : {
+      "desc1" : "",
+      "desc2" : "मान्स्टर का पहला व्यापारिक उत्पाद - क्वून ®， यह दुनिया के पहिले फोटो वोल्टोवोल्टेक मॉड्यूल है जो दृश्य स्थिति पर आधारित स्वचालित शुद्धिकरण रोबोट है. उसके सुरुआत से बाद यह अपने सुरक्षा, बहुत स्केनिरियो, अर्थव्यवस्था, बुद्धिमान 40 देशों से अधिक प्रशंसा किया गया है।",
+      "desc3" : "वेचोन्ग फोटो वोल्टाइक साफ करने के गुणवत्ता के लिए एक व्यवस्थापक है, और फोटो वोल्टाइक साफ करने के लिए डिजाइनname ® \"स्थिर फोटो वोल्टाइक शुद्धिकरण\" का \"शोधक\" है धन की कुंजी का \"शोधक\" है.",
+      "desc4" : "weichong has one machine vision or autonomous driving engineer for every three employees. प्रारंभिक कर्टेन वाल चलाने के नियंत्रण तकनीक से, प्रारंभिक कर्टेन वाल चलाने के नियंत्रण तकनीक से, फोटो वोल्टेकिक अनुप् ® टीम के प्रोफेशनल प्रबंधन तंत्र, और फिर उद्योग के अनुप्रयोगों के लिए... मान्स्टर इंजिनियर्स कभी अपने मौलिक इच्छा को भूल नहीं जाने के लिए इप"
+    }
+  },
+  "pvModule" : {
+    "type" : {
+      "HALF" : "आधा टुकड़ा",
+      "ONE_THIRD" : "",
+      "FULL" : "पूरा फिल्म"
+    }
+  },
+  "myrobot" : {
+    "myrobot" : "",
+    "KwunPhi-Support" : "",
+    "QueryServices" : "",
+    "MachineSerialNumber" : ""
+  },
+  "Kwun-B12T" : "",
+  "certificate" : {
+    "all" : "",
+    "certificate" : "",
+    "label" : {
+      "RED" : "",
+      "LowTemp" : "कम तापमान परीक्षण",
+      "HighTemp" : "उच्च तापमान पता लगाना",
+      "Microcrack" : "क्रिप्टिक प्रमाणपत्र",
+      "IP65" : "",
+      "FCC" : "",
+      "TransportBySea" : "मेरिन परीक्षण",
+      "LVD" : "",
+      "RoHS" : "",
+      "AirTransport" : ""
+    }
+  },
+  "video" : {
+    "videoList" : [ {
+      "videoList" : [ {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : "एक व्यक्ति, दो क्वून ®"
+      } ],
+      "title" : ""
+    }, {
+      "videoList" : [ {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      } ],
+      "title" : "2 श्रेणी"
+    }, {
+      "videoList" : [ {
+        "desc" : "efficient, convenient, safe, and clean"
+      }, {
+        "desc" : "पूरी स्वचालित, व्यक्तिगत नियंत्रण के लिए कोई जरूरत नहीं"
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      } ],
+      "title" : ""
+    }, {
+      "videoList" : [ {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : "बी10x: मल्टी क्वून ® अनुसरण और संपर्क तकनीक"
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : ""
+      }, {
+        "desc" : "बी30x: ब्रॉडबैंड पावर तकनीक"
+      } ],
+      "title" : ""
+    } ]
+  },
+  "Kwun-B32L" : "genericname",
+  "kwunCare" : {
+    "condition1" : "",
+    "condition2" : "the cumulative maintenance cost is within the 25 % market price of this model.",
+    "ReplacementPlan" : "",
+    "MachinePurchaseNotYetOneYearOld" : "मशीन एक साल से कम खरीद करता है",
+    "condition7" : "यदि आप वेचोन तकनीक इंजिनियर से सम्पर्क करने के लिए उत्पादक के बाद सुधार करने से पहले, कृपया हमारे 24 घंटे ग्राहक सेवा हॉटलाइन को ",
+    "condition3" : "यदि तुम्हारा मशीन उच्च परिस्थितियों को मिले, तो आप निर्दिष्ट समय में अनुसारित पुनरावृत्ति संभावना की संभावना कर सकते हैं, त",
+    "condition4" : "",
+    "condition5" : "मेरी सेवा इतिहास जाँच करने के लिए नीचे बटन को क्लिक करें",
+    "condition6" : "मेरे सेवा"
+  },
+  "Kwun-B32H" : "",
+  "liveFirstAid" : {
+    "condition1" : "",
+    "condition2" : "हम तेजी प्रतिक्रिया और प्रोफासिकल रिमोट मार्गदर्शन पर ध्यान देते हैं कि तुम्हें बेचाने के बाद प्रभावि",
+    "condition7" : "",
+    "condition10" : "",
+    "condition8" : "बाद विक्रेता हॉटलाइन को कॉल करें",
+    "condition11" : "",
+    "condition9" : "ऑनलाइन चैट सॉफ्टवेयर संपर्क",
+    "condition3" : "टेलिफोन सेवा: हमारे बाद विक्रेता सेवा हॉटलाइन को कोई समय सीधा संपर्क और प्रोफेशनल तकनीकी व्यक्ति के साथ सल्ल",
+    "condition4" : "communication software graphic and text services: communicate graphic and text information with our after-sales team through instant messaging software, making it convenient and fast",
+    "condition5" : "",
+    "condition12" : "हमारे बाद विक्रेता टीम तुम्हें उच्च गुणवत्ता सेवा से पूरा प्रदान करेगा, सुनिश्चित करेगा कि तुम्हारे उपकरण हमेशा काम प्रकार क",
+    "FirstAid" : "",
+    "condition6" : "अनुप्रयोग प्रक्रिया"
+  },
+  "common" : {
+    "SettlePurchase" : "शॉपिंग शुरू करें",
+    "buyIcon" : "",
+    "video" : "वीडियो",
+    "orMore" : "",
+    "picture" : ""
+  },
+  "downloads" : {
+    "menuList" : [ {
+      "subMenu" : [ {
+        "name" : "",
+        "content" : {
+          "downLoad" : [ {
+            "explain" : "",
+            "title" : "एपल डाउनलोड",
+            "version" : "1.9.20230528"
+          }, {
+            "explain" : "",
+            "title" : "",
+            "version" : "1.9.20230526"
+          } ],
+          "name" : "",
+          "desc" : ""
+        }
+      } ],
+      "title" : "अनुप्रयोग डाउनलोड"
+    }, {
+      "subMenu" : [ {
+        "name" : "उत्पादक प्रयोग करने से पहले पूर्वदृश्य",
+        "content" : {
+          "resource" : [ {
+            "name" : "उत्पादक प्रयोग करने से पहले पूर्वदृश्य",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/beforeuse/%E5%A0%92%C2%AE%20%E4%BA%A7%E5%93%81%E4%BD%BF%E7%94%A8%E5%89%8D%E9%A1%BB%E7%9F%A5.pdf"
+          } ],
+          "name" : "उत्पादक प्रयोग करने से पहले पूर्वदृश्य",
+          "desc" : "the precautions before product use can help users correctly understand the safety operation methods and precautions of the product, and reduce the safety risks caused by incorrect use of the product. इसे प्रयोक्ताओं के प्रयोग के द्वारा उत्पादन के दौरान अपघातों को प्रभावित रूप से रोक सकता है, इसलिए उनकी "
+        }
+      } ],
+      "title" : "उत्पादक प्रयोग करने से पहले पूर्वदृश्य"
+    }, {
+      "subMenu" : [ {
+        "name" : "product specification manual",
+        "content" : {
+          "downLoad" : [ ],
+          "resource" : [ {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B33H-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B32H-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B32L-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B22H-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "के- वीबी22l - उत्पादन विशिष्टीकरण मैनुअल",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B22L-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "के- वीबी11l - उत्पादन विशिष्टीकरण मैनुअल",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B11L-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          } ],
+          "supportedModels" : [ ],
+          "name" : "product specification manual",
+          "desc" : "प्रोडेक्ट विशिष्टीकरण मैनुअल उपयोक्ताओं को सही प्रयोग करने के लिए सम्पूर्ण प्रोडेक्ट जानकारी और मार्गदर्शन प्रदान करता है,  विशिष्टीकरण मैनुअल द्वारा उपयोक्ताओं के फंक्शन, कार्य सूचक, तकनीक विशिष्टीकरणों और अन्य जानकारी को गलत कार्यों से बचाने के  एक समय, विशिष्टीकरण मैनुअल भी अलग उत्पादकों के बीच तुलनात्मक जानकारी प्रदान करता है, कि इसे प्रयोक्ताओं के लिए च इस्तेमाल के दौरान, निर्दिष्टीकरण मैनुअल में सामान्य प्रश्नों की जवाबें उपयोक्ताओं को तेज से उनके संदेह क इससे भी निर्दिष्टीकरण मैनुअल सामान्य रूप से प्रोडेक्ट के लिए उपयोक्ताओं को अपने जीवन को विस्तारित करने के लिए मदद करन खरीदी करारों के लिए, विशेषताओं को प्रयोक्ताओं के अधिकारों को सुरक्षित करने के लिए भी एक भाग के रूप में सेवा कर सकते ह"
+        }
+      } ],
+      "title" : ""
+    }, {
+      "subMenu" : [ {
+        "name" : "",
+        "content" : {
+          "resource" : [ {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B33H-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B32H-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B32L-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B22H-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22L - first use quick guide",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B22L-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "के- वीबी11l - पहिले तुरंत मार्गदर्शक इस्तेमाल करें",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B11L-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          } ],
+          "name" : "",
+          "desc" : ""
+        }
+      } ],
+      "title" : "quick guide to product usage"
+    }, {
+      "subMenu" : [ {
+        "name" : "",
+        "content" : {
+          "resource" : [ {
+            "name" : "के- वीबी33h - प्रोडेट उपयोक्ता मैनुअल",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B33H-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "PhiCleaner™ E32H - product user manual",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B32H-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B32L-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B22H-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "के- वीबी22l - उत्पादन प्रयोक्ता मैनुअल",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B22L-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B11L-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          } ],
+          "name" : "",
+          "desc" : ""
+        }
+      }, {
+        "name" : "4g नेटवर्क मोड्यूल apn कॉन्फ़िगरेशन वर्णन",
+        "content" : {
+          "resource" : [ {
+            "name" : "4g नेटवर्क मोड्यूल apn कॉन्फ़िगरेशन वर्णन",
+            "url" : "https://file.kwunphi.com/kwunphi/files/4G%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9D%97APN%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E%EF%BC%88%E4%B8%AD%E8%8B%B1%E6%96%87%EF%BC%89-v1.1.pdf"
+          } ],
+          "name" : "4g नेटवर्क मोड्यूल apn कॉन्फ़िगरेशन वर्णन",
+          "desc" : ""
+        }
+      } ],
+      "title" : ""
+    }, {
+      "subMenu" : [ {
+        "name" : "",
+        "content" : {
+          "resource" : [ {
+            "name" : "",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/maintenance/%E5%A0%92%C2%AE%20%E4%BF%9D%E5%85%BB%E6%89%8B%E5%86%8C.pdf"
+          } ],
+          "name" : "",
+          "desc" : ""
+        }
+      } ],
+      "title" : ""
+    } ]
+  },
+  "design" : {
+    "FiveMajorDesignPrinciples" : "",
+    "principle" : "",
+    "KwunSupports34TypesofPhotovoltaicPanelComponents" : "",
+    "principles" : "",
+    "ComprehensiveInformationandExpandedFunctionalityofKwun" : "",
+    "principleList" : [ {
+      "summary" : "",
+      "title" : "चैनल चौड़ाई"
+    }, {
+      "summary" : "1सीमी",
+      "title" : ""
+    }, {
+      "summary" : "",
+      "title" : ""
+    }, {
+      "summary" : "",
+      "title" : "फोटो वोल्टाइक एरे के चार भाग"
+    }, {
+      "summary" : "",
+      "title" : ""
+    } ]
+  },
+  "nav.home" : "",
+  "course" : {
+    "LikesCount" : "जहिना गणना",
+    "GlobalCleanCumulative5GWatt" : "वैश्वव्यापी साफ साफ संख्यापित 5g वाट्स",
+    "PlayCount" : "प्लेबैक आवाज",
+    "2023" : "2023",
+    "courseList" : [ {
+      "courseTitle" : "understanding photovoltaic panels",
+      "desc" : ""
+    }, {
+      "courseTitle" : "केवान ® scenario support for",
+      "desc" : ""
+    }, {
+      "courseTitle" : "केवान ® correct placement of",
+      "desc" : ""
+    }, {
+      "courseTitle" : "",
+      "desc" : ""
+    }, {
+      "courseTitle" : "",
+      "desc" : ""
+    }, {
+      "courseTitle" : "क्यों क्वून ® पूर्ण रूप से धुएँ",
+      "desc" : ""
+    }, {
+      "courseTitle" : "",
+      "desc" : ""
+    }, {
+      "courseTitle" : "",
+      "desc" : ""
+    }, {
+      "courseTitle" : "",
+      "desc" : ""
+    }, {
+      "courseTitle" : "क्यों क्वून ® पूर्ण रूप से धुएँ",
+      "desc" : ""
+    } ],
+    "CourseTitle" : "",
+    "courseInfoList" : [ {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "understanding photovoltaic panels",
+      "directory" : [ {
+        "duration" : "40 minutes",
+        "title" : "introduction case, Kwun ® भाग कैसे बदलना है"
+      }, {
+        "duration" : "",
+        "title" : "introduction case, Kwun ® भाग कैसे बदलना है"
+      }, {
+        "duration" : "40 minutes",
+        "title" : "introduction case, Kwun ® भाग कैसे बदलना है"
+      } ],
+      "desc" : "understanding photovoltaic panels"
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "केवान ® scenario support for",
+      "directory" : [ ],
+      "desc" : "केवान ® scenario support for"
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "केवान ® correct placement of",
+      "directory" : [ ],
+      "desc" : "केवान ® correct placement of"
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "",
+      "directory" : [ ],
+      "desc" : ""
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "",
+      "directory" : [ ],
+      "desc" : ""
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "क्यों क्वून ® पूर्ण रूप से धुएँ",
+      "directory" : [ ],
+      "desc" : "क्यों क्वून ® पूर्ण रूप से धुएँ"
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "",
+      "directory" : [ ],
+      "desc" : ""
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "",
+      "directory" : [ ],
+      "desc" : ""
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "",
+      "directory" : [ ],
+      "desc" : ""
+    }, {
+      "comments" : [ {
+        "commentContent" : "",
+        "userName" : ""
+      } ],
+      "barrage" : [ {
+        "name" : "name"
+      }, {
+        "name" : ""
+      } ],
+      "tag" : [ {
+        "name" : ""
+      }, {
+        "name" : ""
+      }, {
+        "name" : ""
+      } ],
+      "title" : "क्यों क्वून ® पूर्ण रूप से धुएँ",
+      "directory" : [ ],
+      "desc" : "क्यों क्वून ® पूर्ण रूप से धुएँ"
+    } ],
+    "MoreAndMoreYoungTalentsQuietlyLearning" : "",
+    "SurpassingAllInPowerGenerationEfficiency" : "तुम्हारी शक्ति पीढ़ी के पीढ़ी क्रियाशीलता धूली पर चढ़ने दें",
+    "CourseDescription" : "",
+    "CourseCover" : "",
+    "PowerGenerationCodeOfTheFieldArmy" : "",
+    "detail" : {
+      "SendBarrage" : "",
+      "BarrageList" : "",
+      "comments" : "टिप्पणी",
+      "Title" : "शीर्षक",
+      "AlreadyLoaded" : "लोड किया",
+      "BarrageContent" : "बैरेज सामग्री",
+      "NumberOfResponses" : "",
+      "PlayNext" : "",
+      "ReleaseTime" : "",
+      "barrageNumber" : "",
+      "publish" : "",
+      "RecommendedVideos" : "सिफारिसेड वीडियो",
+      "ClickToView" : "",
+      "time" : "समय",
+      "PleaseLogInFirst" : ""
+    },
+    "close" : "बन्द करें",
+    "PopularTutorials" : ""
+  },
+  "company" : {
+    "Hefei" : {
+      "address" : "कमरा 422, बिल्डिंग 1, नान्यान्हू निवेशन केंद्र, सुसंग राड, हेफेई आर्थिक विकास विकास क्षेत्र, अंहू प्रांत्र",
+      "companyName" : "hefei Kwunphi co., ltd"
+    },
+    "Shenzhen" : {
+      "address" : "",
+      "companyName" : "shenzhen Kwunphi co., ltd"
+    }
+  },
+  "seo" : {
+    "images" : {
+      "kwunComprehensiveInfo" : "",
+      "product" : {
+        "kwun" : ""
+      },
+      "powerGeneration" : {
+        "cleaningData" : "",
+        "cleaningPicture" : ""
+      },
+      "bipvDesignPrinciples" : "",
+      "sustainableCleaning" : {
+        "laborKwun" : "",
+        "process" : "",
+        "levelsCostIncrease" : "",
+        "kwunjVSLabor" : "",
+        "situationEfficiency" : "",
+        "cleanliness" : ""
+      },
+      "usage" : {
+        "cleanAsNew" : "",
+        "lowCost5" : "",
+        "lowCost4" : "",
+        "lowCost3" : "",
+        "lowCost2" : "",
+        "lowCost1" : "फोटो वोल्टेक साफ करने के रोबोट, कम कास साफ करने, उच्च-प्रभावी साफ करने के लिए, ब्लूप प्रिंट साफ करने के लिए कोई आवश्यकता नहीं, औद्योगिक और व्",
+        "fullyAutonomousCleaning" : "",
+        "microcrack1" : "",
+        "microcrack2" : ""
+      },
+      "kwunq" : "",
+      "contrast" : {
+        "rail" : "",
+        "remote" : "",
+        "labor" : ""
+      },
+      "banner" : {
+        "special" : "",
+        "leader" : "",
+        "kwunq" : ""
+      },
+      "kwunAdvantage" : {
+        "advantage5" : "फोटो वोल्टेक साफ करने का रोबोट, क्वून ® always able to accurately calculate the optimal usage cost in advance, facilitating customers to carry out refined management",
+        "advantage4" : "",
+        "advantage3" : "",
+        "advantage2" : "",
+        "advantage1" : ""
+      }
+    },
+    "pages" : {
+      "myrobot" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : ""
+      },
+      "optimal" : {
+        "keywords" : "photovoltaic cleaning robot, most preferred type, optimal cost selection, photovoltaic cleaning cost calculation, photovoltaic panel cleaning cost calculation, photovoltaic panel cleaning cost",
+        "description" : ""
+      },
+      "bipvDesignPrinciples" : {
+        "keywords" : "फोटो वोल्टेक साफ करने का रोबोट, क्वून ®, बीपीवी डिजाइन प्राधान्य, बीपीवी डिजाइन प्राधान्य, बीपीवी डिजाइन प्राधान्य",
+        "description" : ""
+      },
+      "sustainableCleaning" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "certificate" : {
+        "keywords" : "फोटो वोल्टाइक साफ करने के लिए रोबोट प्रमाणपत्र प्रमाणपत्र, क्वून ® certification certificate, product certification, fcc certification, red certification, lvd certification, rohs certification, crack certification, ip65 certification, high temperature testing report, low temperature testing report, sea transportation testing report, air transportation testing report",
+        "description" : ""
+      },
+      "about" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : ""
+      },
+      "roofBridgingVideos" : {
+        "keywords" : "",
+        "description" : "औद्योगिक तथा व्यापारिक छत फोटो वोल्टाइक स्टेशन, औद्योगिक तथा व्यापारिक छत फोटो वोल्टाइक स्टेशन के लिए ब्रिजिंग स्कीम, फोटो वोल्टाइक पैनलों के लिए साइट के निर्माण वीडियो "
+      },
+      "videos" : {
+        "keywords" : "फोटो वोल्टेक साफ करने वाला रोबॉट, उत्पादन वीडियो, क्वून ®  बी30एम, क्वून ®  b30l, Kwun ®  b20l, Kwun ®  बी10l, फोटो वोल्टेक साफ करने वीडियो",
+        "description" : "",
+        "title" : ""
+      },
+      "remote" : {
+        "keywords" : "फोटो वोल्टाइक साफ करने के रोबोट, दूरस्थ परीक्षण, रोबोट की साफ करने के रिमोट मॉनीटरिंग",
+        "description" : ""
+      },
+      "kwunAdvantage" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "solution" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : ""
+      },
+      "downloads" : {
+        "keywords" : "फोटो वोल्टेक साफ करने का रोबोट, क्वून ®, download center, app download, product documentation download, ai-Kwun, product specifications, first time quick guide, product instructions before use, product user manual, 4g network module apn configuration instructions",
+        "description" : "download center, app download, product documentation download, ai-kwun, product specifications, first time quick guide, product instructions before use, product user manual, 4g network module apn configuration instructions"
+      },
+      "kwunq" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "contact" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "course" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "live" : {
+        "keywords" : "फोटो वोल्टेक साफ करने का रोबोट, क्वून ® जीवित ब्राउडकास्ट, फोटो वोल्टाइक साफ करने वाला रोबोट साफ करने वाला ब्राउडकास्ट, रोबोट साफ करने वाला रीवोल्टाइक पैनल जीवित",
+        "description" : ""
+      },
+      "news" : {
+        "keywords" : "",
+        "description" : "केपीई कंपनी से समाचार, फोटो वोल्टाइक साफ करने वाला रोबोट क्वून, प्रिम्रिम ली केक्यांग के केपीई भेटने के लिए सं केवान ®” फोटो वोल्टाइक साफ करने वाले रोबोट के कंपनी के महत्वपूर्ण सफलता में से एक हैं. यह उन्नत क्रियाशील बुद्धिमान तकनीक और दृश्यात्मक दृश्य प्रणाली उपयोग करता है कि प्रभावित रूप से सौर्य फोटो वोल्टाइक पैनलों को परीक्षा और this technologically advanced robot not only improves the efficiency of clean energy utilization, but also reduces the burden of human inspection, bringing significant economic and environmental benefits to the photovoltaic industry.",
+        "title" : ""
+      },
+      "kwunComprehensiveInfo" : {
+        "keywords" : "name ® संपूर्ण जानकारी शीट, पानी धुने, सूखा ब्रुशिंग, साफ करने कंपनी, विद्युतीय प्रायूजक द्वारा स्वयं प्रयोग",
+        "description" : ""
+      },
+      "product" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : ""
+      },
+      "purchase" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : "चैनल खरीद करें - ऑनलाइन परीक्षा ड्राइव, ऑनलाइन खरीद, घर में प्रदान, ऑफलाइन अनुभव, भण्डार"
+      },
+      "tutorialVideos" : {
+        "keywords" : "फोटो वोल्टाइक साफ करने के रोबोट, क्वून के संस्थापन पर वीडियो शिक्षा किया जा रहा है ®  बी30एम, क्वून ®  b30l, Kwun ®  b20l, Kwun ®  b10l, accessory replacement tutorial, tool usage tutorial, feature teaching video, optional features",
+        "description" : "बैटरी बदलें, सीएम कार्ड बदलें, सुक्शन कप बदलें, आल्ट्रैसोनिक सेन्सर बदलें, ड्राइव विल, ड्राइव विल, सिंक्रोनिय विल, ट्रैक संस्थापन और हटाना, रोलिंग ब्रूस मैसेन्ज, एन्टी-चेफ"
+      },
+      "home" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : "name"
+      },
+      "contrastToOthers" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "powerGeneration" : {
+        "keywords" : "",
+        "description" : ""
+      },
+      "supportedModule" : {
+        "keywords" : "फोटो वोल्टेक साफ करने का रोबोट, क्वून ®, supported photovoltaic panel components, applicable photovoltaic panel components",
+        "description" : "केवान ® बाजार में फोटो वोल्टाइक मोड्यूलों के बहुत सारे के लिए योग्य"
+      },
+      "series" : {
+        "keywords" : "",
+        "description" : "",
+        "title" : "उत्पादन क्रम"
+      },
+      "maintenance" : {
+        "keywords" : "",
+        "description" : "प्रत्येक तीन महीने या प्रत्येक 300 किलोमीटर में प्रत्येक प्रत्येक प्रत्येक प्रत्येक प्रत्येक सहा महीने या प्रत्येक 600 किलोमीटर में प्रत्येक प्रत्येक प्रत्येक प्रत्येक प्रत्येक प्रत्येक प्रत्येक प्रत"
+      }
+    }
+  },
+  "foot" : {
+    "quickStart" : "",
+    "situation.design" : "",
+    "optimalCalculation" : "",
+    "productVideos" : "",
+    "partnerPortal" : "एजेंट पोर्टल",
+    "feedback" : "",
+    "qualifications" : "अंतरप्राइज क्वालिफिकेशन",
+    "onlineMall" : "",
+    "BIPV" : "",
+    "helpMeChoose" : "मदद करें",
+    "solution" : "समाधान",
+    "record" : "粤ICP备2021034388号",
+    "hotProducts" : "प्रसिद्ध उत्पादन",
+    "productSupport" : "",
+    "ConnectWithTechnicalPersonnelViaCode" : "",
+    "KwunJServiceModel" : "",
+    "contactUs" : "",
+    "series3" : "",
+    "RetrieveTemporaryAccountAndPassword" : "अस्थायी खाता और पासवर्ड प्राप्त करें",
+    "series6" : "छह श्रेणी",
+    "kwunCarePolicyProcess" : "",
+    "kwunphi" : "",
+    "peripherals" : "पेरिफेरी",
+    "series2" : "second series",
+    "series1" : "",
+    "costCalculation" : "",
+    "situation.bipv.design" : "",
+    "termsOfUse" : "गुणवत्ता असुरक्षा क्लास",
+    "downloadCenter" : "डाउनलोड केंद्र",
+    "newsCenter" : "",
+    "RetrofitCases" : "रेनोवेशन केस",
+    "aiKwun" : "",
+    "cleaningGuide" : "क्लासिक साफ कर रहा है",
+    "allRightsReserved" : "सभी अधिकार संरक्षित",
+    "ServicePlans" : "",
+    "aboutUs" : "about us",
+    "joinUs" : "",
+    "certificate" : "",
+    "SelectLanguage" : "",
+    "officialChannel" : "",
+    "accessoriesPurchase" : "",
+    "kwunCare" : "Kwun Care",
+    "helpCenter" : "",
+    "globalPrivacyPolicy" : "",
+    "officialMerchandise" : "आधिकारिक सुरून्डिंग",
+    "supplierPortal" : "पूरक पोर्टल",
+    "RapidReplacementPolicy" : "तेज पुनरावृत्ति नीति",
+    "ContrastToOthers" : "स्पर्धितों के तुलना",
+    "remoteMachineTrial" : "remote testing",
+    "AfterServicePolicy" : "",
+    "value" : "value",
+    "marketCooperation" : "बाजार सहयोग",
+    "helpAndSupport" : "",
+    "experienceKwunphiAppNow" : "name",
+    "ServiceInformationSupport" : "",
+    "KwunClearService" : "कुन्जी तकनीकी सेवा",
+    "productComparison" : "",
+    "advantage" : "केवान ® advantages of",
+    "PowerStationServiceCasesofKwunJ" : "",
+    "ScanWithWeChatForRemoteTestingMachine" : "wechat scan remote testing machine",
+    "SustainableCleaning" : "",
+    "supportedModule" : "",
+    "latestNews" : "नवीनतम समाचार",
+    "KwunJCapableofDoing" : "कुन्जी क्या करे",
+    "SuccessCases" : "",
+    "BackToTop" : "",
+    "KwunJCompanyIntroduce" : "",
+    "onlineClassroom" : "",
+    "maintenance" : "",
+    "comprehensive" : ""
+  },
+  "situation" : {
+    "ciRoofingTiling" : "औद्योगिक और व्यापारिक छत (फ्लैट/बीपीवी)",
+    "ciRoofingManualAccess" : "औद्योगिक तथा व्यापारिक छत (बहुत चैनल)",
+    "mountain" : "स्लोपिंग लैंड",
+    "floating" : "",
+    "houseRoof" : "",
+    "pool" : "माछा प्रकाश",
+    "ground" : "भूमि",
+    "farmland" : "vietnam. kgm",
+    "ciRoofing" : "औद्योगिक और व्यापारिक छत",
+    "ciRoofingBypass" : ""
+  },
+  "policy" : {
+    "overview" : "",
+    "GlobalPrivacyPolicy" : ""
+  },
+  "news" : {
+    "LatestNews" : "",
+    "KwunPhiNewsCenter" : "मॉन्स्टर समाचार केंद्र",
+    "News" : "",
+    "newsItem" : [ {
+      "subTitle" : "premier li keqiang visits Kwunphi",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news6.jpg",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "शेन्चेन में प्रधान की परीक्षा के दौरान उन्होंने सिर्फ विद्युतिय वाहन बड़ा बाईडी को नहीं भेजा, लेकिन शेन्चेन में ज्ञात प्राधानि उन्होंने अद्भुत प्रशंसित आत्मा और शेनचेन व्यवसायों द्वारा प्रदर्शन किया हुआ आत्मा पर उच्च आशा रखा है।"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "यह शेनचेन की भेट प्रधान की ध्यान और समर्थन शेनचेन के लिए प्रतिक्रिया करता है, एक निवेदन और तकनोलिकी में काटने के किना उन्होंने शेनचेन व्यवसायों की निर्माण प्रकारों को शुद्ध ऊर्जा, नया ऊर्जा संयोजन, और आशा रखा है कि वे भविष्य में एक प्रधान भूमि खेल सकते हैं और चीनी अर्थव्यव प्रधान मंत्री की प्रोत्साहना और अपेक्षा निश्चय ही शेनचेन व्यवसायों को प्रेरणा देती है कि प्रगति के लिए सदैव प्रयोग करें, तकनोलिक नवीनतिकार प्"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "केवान ®” फोटो वोल्टाइक साफ करने वाले रोबोट के कंपनी के महत्वपूर्ण सफलता में से एक हैं. यह उन्नत क्रियाशील बुद्धिमान तकनीक और दृश्यात्मक दृश्य प्रणाली उपयोग करता है कि प्रभावित रूप से सौर्य फोटो वोल्टाइक पैनलों को परीक्षा और this technologically advanced robot not only improves the efficiency of clean energy utilization, but also reduces the burden of human inspection, bringing significant economic and environmental benefits to the photovoltaic industry."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "Kwunphi कंपनी के साथ प्रधान मंत्री ने भी byd को भी भेजा, विद्युत वाहियों के क्षेत्र में एक प्रधान व्यवसाय। during a visit to byd's production line and research and development center, the premier expressed appreciation for their continuous efforts and achievements in electric vehicle technology. उन्होंने उत्तर दिया है कि विद्युती वाहन उद्योग भविष्य स्वचालित उद्योग के लिए एक महत्वपूर्ण दिशा है, और जैसे कंपनियां बाईडी के लिए अनुशोधन और विकास नि"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "प्राध्यक्षिक परीक्षा की उच्च महत्वपूर्ण है जिसे चीनी सरकार तंत्रज्ञानिक नवीन विकास के साथ संलग्न करता है। उन्होंने उत्तर दिया कि निर्माण है कि आर्थिक विकास के लिए एक निर्माण होने वाला बल है, और हरी विकास है कि स्थिर विकास के  चीन की सुधार और खोली जाने के लिए एक प्रधान क्षेत्र के रूप में शेनचेन एक प्रदर्शन और नेतृत्व भूमि खेलना चाहिए, जो राष्ट्रीय और वैश्"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "the prime minister's visit to shenzhen this time demonstrated his recognition and encouragement of chinese technology enterprises. उसकी सुरक्षा और अपेक्षा निश्चय ही उद्योगकर्त्ताओं को आगे बढ़ने के लिए प्रेरणा देती है कि विकास और उद्योगकर्त्ता के मार्ग पर आगे चल shenzhen, a vibrant and dynamic city, will continue to play a leading role in innovation and explore a brighter future for china's technological progress and green development."
+      } ],
+      "title" : "premier li keqiang visits Kwunphi"
+    }, {
+      "subTitle" : "",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news7-1.jpg",
+        "title" : "",
+        "content" : "name ®， फोटो वोल्टाइक साफ करने के उद्योग में एक बलवान प्रतिक्रिया प्रारंभ किया. उच्च तकनीकीय सुरक्षित फोटो वोल्टाइक साफ करने के नया विचार ने लोगों को गहरी प्रेरित किया है और लोगों के दिलों में धीर से "
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      } ],
+      "title" : ""
+    }, {
+      "subTitle" : "",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news9.jpg",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      } ],
+      "title" : ""
+    }, {
+      "subTitle" : "शेन्चेन 5g टेकनोलाजी प्राप्तिक प्राप्त होने वाली एक्सिबिजेशन, मान्स्टर \"Kwun ®” प्रथम दृश्य",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi4/images/exhibition/01.jpg",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "the exhibition will continue to open for a few days, during which Kwunphi company will continue to showcase its latest technological achievements. we believe that under the leadership of Kwunphi, the photovoltaic cleaning industry will usher in a better future."
+      } ],
+      "title" : ""
+    }, {
+      "subTitle" : "name",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news8.jpg",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      } ],
+      "title" : "name"
+    }, {
+      "subTitle" : "",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "२०१२ नोवेंबर ६ में, कंपनी के पहिले मोबाइल रोबोट के लिए फोटो वोल्टेक पावर प्लेटिन्स की स्वचालित साफ करने के लिए ®， आकृतिक रूप से व्यापारिक उत्पादन प्राप्त होता है।"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news5.png",
+        "title" : "",
+        "content" : "केवान ® विश्वास के साथ बड़े फोटो वोल्टाईक साफ करने के बाजार को प्रशंसा कर रहा है, कंपनी ने प्रशंसा दिया है कि घोड़े द्वारा से प्रशंसा करने के लिए चीन के फोटो वोल्टाईक उद्योग में 3 साल से अधिक नहीं लेगा, और पूरा उद्योग \"पोस्ट फोटो वोल्टाईक इराम\" में प्रवेश करेगा। उद्योग क people naturally understand that the first factor in increasing power generation is scientific cleanliness, and \"cleaning before every good weather\" is a nuclear weapon in competition among power companies."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "कंपनी के पहले मोबाइल रोबोट फोटो वोल्टाइक पावर प्लेट्स के स्वचालित साफ करने के लिए ®， आकृतिक रूप से व्यापारिक उत्पादन प्राप्त होता है। यह कंपनी की तकनीकी और उत्पादन का विकास फोटो वोल्टाइक साफ करने के क्षेत्र में एक बड़ा ब्रेक्ट्रोन चिह्नित है, जो फोटो वोल्टाइक उद्य"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "Kwunphi firmly believes that Kwun ® उत्पादन की व्यापारिकीकरण फोटो वोल्टाइक साफ करने व्यापारिक उद्योग के सम्पूर्ण अद्यतन को प्रगति देगी. केवान ® बुद्धिमान कार्य और प्रकारिय शुद्ध करने की क्षमता फोटो वोल्टोवोल्टेकिक पावर प्लेटिनों की बहुत सारी सामग्री और पावर पैदा करने क name ® उत्पादन की व्यापारिकीकरण भी फोटो वोल्टाइक उद्योग का विकास भी बढ़ेगा, जो ज्यादा बुद्धिमान और हरी दिशा के लिए है, और चीन में शुद्ध उ"
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      } ],
+      "title" : ""
+    }, {
+      "subTitle" : "शेन्चेन 5g टेकनोलाजी प्राप्तिक प्राप्त होने वाली एक्सिबिजेशन, मान्स्टर \"Kwun ®” प्रथम दृश्य",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news4.jpg",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "प्रदर्शन में वेचोन कंपनी व्यक्तिगत रूप से प्राप्त हुई और शेन्चेन विस्तारी मार्गदर्शन नी जिंपिंग द्वारा मार्गदर्शन किया गया, जो कंपनी के त वाइचोन कंपनी के प्रयासों और प्रकारों के लिए विस्तार महाराज ने उच्च टेकनी क्षेत्र में प्रशंसा दिया, और कंपनी को अपनी प्रयासों और वैज्ञानिक अनुशोधन परिण this kind of support and encouragement is undoubtedly a huge motivation for weichong company, inspiring them to continue moving forward on the path of technological innovation."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      } ],
+      "title" : "शेन्चेन 5g टेकनोलाजी प्राप्तिक प्राप्त होने वाली एक्सिबिजेशन, मान्स्टर \"Kwun ®” प्रथम दृश्य"
+    }, {
+      "subTitle" : "हांग कांग के विश्वविद्यालय के राष्ट्रपति के द्वारा केपीही की भेटना",
+      "tag" : "मीडिया कोवरेज",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news7.jpg",
+        "title" : "",
+        "content" : ""
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : ""
+      } ],
+      "title" : "हांग कांग के विश्वविद्यालय के राष्ट्रपति के द्वारा केपीही की भेटना"
+    } ],
+    "MediaCoverage" : "मीडिया कोवरेज"
+  },
+  "nav.kwun" : "",
+  "Kwun-B11T" : "",
+  "nav.myrobot" : "",
+  "nav.purchase" : "चैनल खरीद करें",
+  "purchase" : {
+    "SupportWarranty" : "समर्थन वारेंटी",
+    "DownloadApp" : "app डाउनलोड करें",
+    "SupportCommissioningMachines" : "",
+    "OfficialChannels" : "आधिकारिक चैनल",
+    "CompanyStoreAddressDesc" : "",
+    "PurchaseChannels" : "चैनल खरीद करें",
+    "AllStores" : "",
+    "AppDesc1" : "ai क्वून एप्प डाउनलोड करें, बुद्धिमान साफ करने के नवीन काल में, दूरी सीमाओं में ब्रेक करें, और विश्वव्यापी से दूरी रूप से अनुप्रयोग क",
+    "AI-KwunApp" : "",
+    "SearchPlace" : "खोज स्थान",
+    "AppDesc2" : "",
+    "AuthorizedAgents" : "official authorized agent of monster bug",
+    "CompanyStoreAddress" : ""
+  },
+  "Kwun-B11L" : "",
+  "Kwun-B63G" : "PhiCleaner™ E63G",
+  "home" : {
+    "convertRoofsToBIPV" : "",
+    "product" : {
+      "cleanJobOpportunityB32L" : "",
+      "highTiltWashKingB33H" : "",
+      "moneyMakingHero" : "",
+      "floatingPowerStation" : "",
+      "storyOfKwun" : "",
+      "liberateManpowerEnableSustainableCleaningForPowerStation" : "",
+      "commercialRoofs" : "commercial roof",
+      "powerGenerationKing" : "पावर उत्पन्न राज्य - समय बारिश",
+      "conquerorOfResidentialRoofs" : "हाउस होल्ड रूफ्स का कन्क्वेरर",
+      "economicPracticalDefender" : "",
+      "challengerOfWaterWashingLimits" : "",
+      "kwunCanFacilitateConstructionOfMoreFloatingPowerStationsOnWater" : "",
+      "technologyFusedWithBeauty" : "",
+      "safety" : "सुरक्षा",
+      "powerStationGodOfWealthB22L" : "",
+      "kwunClassroom" : "",
+      "highPilePowerStation" : "",
+      "moneyMakingKing" : "राजा बनाने के पैसे - यू क्यूलिन",
+      "kwunCanTransformAnyCommercialRoofToBIPV" : "क्वून कोई औद्योगिक और व्यापारिक छत बीपीवी में बना सकता है",
+      "purchaseChannels" : "चैनल खरीद करें",
+      "efficiencyBoosterB22H" : "name",
+      "serviceAndSupport" : "",
+      "powerGenerationHero" : "पावर उत्पादक - जिडुओक्सिंग",
+      "makePVModulesSpotless" : "make photovoltaic modules clean as new",
+      "universalKing" : "",
+      "followerOfCuttingEdgeTechnology" : "",
+      "cleanFrameChampion" : "the king of clean borders, eliminate hot spots, and break through the restricted area for additional issuance",
+      "greenEnvironmentalProtection" : "हराcolor",
+      "kwunEmpowerVariousPVScenarios" : "",
+      "goldenSpeedStationGuardian" : "",
+      "cleaningAceB32H" : "name",
+      "cleaningAdvocateForPVQuality" : "",
+      "cleaningGoldBowlB32L" : "",
+      "kwunCanBuildHighPilePowerStationsAnywhere" : "name",
+      "exclusiveCleanTechnology" : "यूनिक शुद्ध तकनीक - एसएफसीपी ®； sctcd ®"
+    },
+    "autoChargingStandardModel" : "स्वचालित चार्जिंग मानक प्रकार",
+    "householdGenius" : "घर आर्टिफेक्ट",
+    "nightOwl" : "राती ओवा",
+    "wealthFlowsInEveryDesign" : "",
+    "independentIndividualDistributedOperation" : "एकल व्यक्ति वितरित आपरेशन",
+    "businessKing" : "संस्था और व्यापार का राजा है",
+    "kwun" : "",
+    "series123" : "",
+    "classicThreeMusketeers" : "name",
+    "intelligentModel" : "पूरा बुद्धिमान का मॉडल",
+    "furtherUnderstanding" : "अतिरिक्त समझ",
+    "nightRainyStreetSweeper" : ""
+  },
+  "help" : {
+    "menuList" : [ {
+      "title" : "classify all"
+    }, {
+      "subMenu" : [ {
+        "name" : ""
+      }, {
+        "name" : "कार्य स्थिति"
+      }, {
+        "name" : "युक्ति स्थिति"
+      }, {
+        "name" : "अवयव प्रकार"
+      } ],
+      "title" : "बारे में पूछा गया प्रश्न"
+    } ],
+    "helpList" : [ {
+      "helpTitle" : "फोटो वोल्टेक मोड्यूल किस प्रकार समर्थित हैं?",
+      "text" : ""
+    }, {
+      "helpTitle" : "फोटो वोल्टाइक स्ट्रिंग के आसपास पर्यावरण के लिए सीमा और आवश्यकता क्या हैं?",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : "1. mbb अवयव का डिफ़ॉल्ट आकार m6 (166mm) है, और स्केन क़िस्म app द्वारा अनुकूलित कर सकता है. चार सामान्य mbb बैटरी कोशिक आकार m4 (162mm), m6 (166mm), m10 (182mm), तथा g12 (210mm) सेट कर सकता ह डिफ़ॉल्ट प्रदान रोलर ब्रुस b- प्रकार है (1050mm), जो सभी एमबीबी सीनेरियो के लिए लागू नहीं है. रोलर ब्रुस मॉडल के बीच मेलिंग और अवयव बैटरी कक्ष का प्रकार इस ट"
+    }, {
+      "helpTitle" : "पूरा और आधा पैनल फोटो वोल्टाइक स्ट्रिंग के बीच उपयोग में भिन्न क्या है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "शुद्ध करने की क्षमता क्या है?",
+      "text" : "साफ करने के कार्यक्षमता अलग फ़ैक्टर्स के द्वारा प्रभावित है, जहिना अवयव क़िस्म, स्थान, स्ट्रिंग लेआउट, तथा स्ट"
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "क्या शुद्ध अवयवों को जो बहुत समय साफ नहीं किया गया है और कठोर धूली को जमा लिया गया है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : "set the \"group serial number limit\" function software through the app to customize the first line of string (top) without cleaning. please refer to the app user guide in the user manual for specific operations."
+    }, {
+      "helpTitle" : "यदि बैटरी स्तर स्वचालित आपरेशन के दौरान कम हो तो क्या करें?",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : "अवयवों के काम करने वाले परिवेश के लिए एक निश्चित स्तर हो सकता है. जब कन्डेन्सेशन से मिलता है, उपकरण क्षेत्र उच्च नम्रता के क्षेत्रों क"
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "how to view the types of photovoltaic modules?",
+      "text" : "view the list of supported component types: \"help\" ->\"list of supported components\" on the app homepage to view the supported component types."
+    }, {
+      "helpTitle" : "",
+      "text" : "the cleaning area can be set through the app, and the device only cleans the set area."
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "शुद्धीकरण मोड में शुद्धीकरण चौड़ाई कैसे सेट करना है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "शुद्धीकरण गति कैसे सेट करना है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : "श्वाटडाउन स्थिति में, रोलर ब्रश क्लैम के अनुसारित स्थिति को घुमाएं, रोलर ब्रश कावरक को हटाएं, रोलर ब्रश बाहर उठाएँ और बाहर उठाएँ. एक नया रोलर ब्रश स्थापना के बाद, कवर"
+    }, {
+      "helpTitle" : "क्या मैं शुद्ध सिर के नीचे से प्रतिस्थापित कर सकता हूं?",
+      "text" : "it is not recommended to replace the bristles on the bottom of the cleaning head yourself. if you need to replace them, please contact the manufacturer or after-sales service."
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "शुद्ध सिर और रोलिंग ब्रश कैसे रखना है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "how to solve any problems encountered during use?",
+      "text" : "यदि आप इस्तेमाल के दौरान समस्या से मिलते हैं, तो आप समस्या के लिए \"उपयोक्ता मैनुअल\" में समस्या शोटिंग के लिए समस्या से संदर्भ कर सकते हैं. यदि समस्या हल नहीं कर स"
+    }, {
+      "helpTitle" : "शुद्ध रोबोट समर्थन क्या चार्जिंग पद्धति करता है?",
+      "text" : "शुद्ध रोबोट दो पद्धति समर्थन करता है: सौर्य फोटो वोल्टाइक चार्जिंग और ग्रिड चार्जिंग."
+    }, {
+      "helpTitle" : "",
+      "text" : "चार्जिंग समय तथा कार्य समय जहिना प्रकाश तीव्रता, चार्जिंग पद्धति तथा शुद्धिकरण मोड के लिए प्रभावित किया जाता है. विशिष्ट डाटा के लिए, "
+    }, {
+      "helpTitle" : "चार्जिंग प्रक्रिया के दौरान शुद्ध रोबोट काम कर सकता है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : "आप मोबाइल अनुप्रयोग भण्डार में शुद्ध करने के लिए रोबोट अनुप्रयोग का नाम खोज सकते हैं (जहिना एप्ले स्टोर, गूगल प्ले इत्यादि"
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : "साफ करने के रोबोटों का फॉर्मवेयर अद्यतन app के द्वारा काम कर सकता है. app को खोलें और सेटिंग विकल्प भरें, फॉर्मवेयर अद्यतन या समान विकल्पों के लिए खोज"
+    }, {
+      "helpTitle" : "क्या शुद्ध रोबोट आवाज नियंत्रण समर्थन करता है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "क्या साफ करने के लिए रोबोट रेखाने और नेविगेशन का समर्थन है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "क्या साफ करने के रोबोट के पास बुद्धिमान रोबोट है?",
+      "text" : ""
+    }, {
+      "helpTitle" : "can cleaning robots adapt to different ground conditions?",
+      "text" : ""
+    }, {
+      "helpTitle" : "",
+      "text" : ""
+    } ],
+    "Search" : "",
+    "PleaseEnterYourQuestion" : "",
+    "numberOfResults" : "{num} परिणाम मिला"
+  },
+  "nav.solution" : "समाधान",
+  "comingSoon" : "stay tuned",
+  "service" : {
+    "ContactAfter-salesReplacement" : "प्रतिस्थापन के लिए लागू करने के लिए विक्रेत के बाद संपर्क",
+    "KwunCare" : "",
+    "WonderfulWorkVideos" : "",
+    "TestTheMachineNow" : "मशीन को तुरंत जाँचें",
+    "remote-experience" : {
+      "serviceContent" : [ {
+        "title" : "",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/download_app.png",
+          "router" : "/app",
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "2, व्यवसाय प्रबंधक वेचैट 19926546237 का qr कोड स्कैन करें",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/wechat_rolin.png",
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/login_app.png",
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/watch.jpg",
+          "title" : "",
+          "value" : ""
+        } ]
+      } ],
+      "serviceName" : "remote testing"
+    },
+    "ApplyNow" : "",
+    "WelcomeToUse" : "kftp सेवा और समर्थन में स्वागत है",
+    "OnlineVideoTutorials" : "",
+    "GetManual" : "",
+    "After-salesPolicy" : "",
+    "ReviewDocumentation" : "view documents to resolve issues",
+    "ReviewAfter-SalesPolicy" : "",
+    "ExperienceTheMachineRemotely" : "रिमोट अनुभव मशीन, ऑनलाइन नियंत्रण क्वून ® साफ करें",
+    "afterSalesPolicy" : {
+      "serviceContent" : [ {
+        "title" : "विक्रेत सेवा प्रक्रिया के बाद",
+        "content" : [ {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "our after-sales service team contacts customers within 24 hours to understand the details of the issue and verify whether they meet the after-sales service conditions."
+        }, {
+          "title" : "समाधान",
+          "value" : "based on the situation of the problem, we provide the following solutions:"
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "प्रदान समय मुद्दा: सुनिश्चित करो कि उत्पाद को ग्राहक द्वारा अनुरोधित समय पर निर्दिष्ट स्थान पर प्रदान क"
+        }, {
+          "title" : "विकल्प 3",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "वारेंटी अवधि के दौरान, यदि समान गुणवत्ता मुद्दा के साथ उसी उपकरण सामान्य प्रयोग नहीं किया जाता है, तीन पीछे सुधार के बाद, हम उसे एक मॉडल के न"
+        }, {
+          "title" : "",
+          "value" : "उपकरण के डिजाइन और सेवा जीवन के दौरान, हम वादा करते हैं कि मौलिक फैक्टरी से सत्य अवयवों को उपकरण के सामान्य उपयोग सुरक्षित करने के लि"
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "वारेंटी अवधि के दौरान, यदि समान गुणवत्ता मुद्दा के साथ उसी उपकरण सामान्य प्रयोग नहीं किया जाता है, तीन पीछे सुधार के बाद, हम उसे एक मॉडल के न"
+        }, {
+          "title" : "",
+          "value" : "वारेंटी अवधि के दौरान, यदि समान गुणवत्ता मुद्दा के साथ उसी उपकरण सामान्य प्रयोग नहीं किया जाता है, तीन पीछे सुधार के बाद, हम उसे एक मॉडल के न"
+        } ]
+      }, {
+        "title" : "service commitment",
+        "content" : [ {
+          "title" : "product quality commitment",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "हम पूरी ज़िम्मेदारी लेते हैं, जो किसी बिना मानव गुणवत्ता मुद्दा के लिए उत्पन्न होती है, जो वारंटी "
+        }, {
+          "title" : "",
+          "value" : "the product is delivered to the designated location at the time requested by the customer."
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "renewal service",
+          "value" : "वारेंटी अवधि के दौरान, यदि समान गुणवत्ता मुद्दा के साथ उसी उपकरण सामान्य प्रयोग नहीं किया जाता है, तीन पीछे सुधार के बाद, हम उसे एक मॉडल के न"
+        } ]
+      }, {
+        "title" : "",
+        "content" : [ {
+          "title" : "telephony support",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "कंपनी की तकनीकी सेवा व्यक्ति दूरस्थ नियंत्रण और पालन कर सकती है और दूरस्थ ota द्वारा तकनीकी सेवा को समय से समाधान करने के लिए सम"
+        }, {
+          "title" : "",
+          "value" : "तकनीकी सेवा ईमेल: समर्थन {'@'} kwunphi.com"
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "दरवाजा से दरवाजा सेवा",
+          "value" : "फोन और दूरस्थ सेवा समस्या को समाधान नहीं कर सकते हैं, हमारी कंपनी तकनीकी व्यक्ति के लिए अन्य साइट सेवा प्रदान करने के लिए"
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "हम तुम्हें पूरी प्रक्रिया के बाद उच्च गुणवत्ता सेवा देने के लिए वादा करते हैं, तुम्हारे उपकरण को प्रभावित रूप से चल रहे हैं और"
+        } ]
+      } ],
+      "serviceName" : ""
+    },
+    "HotService" : "",
+    "OfficialAfterSalesService" : "",
+    "lightningFastReplacement" : {
+      "serviceContent" : [ {
+        "title" : "",
+        "content" : [ {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "1. मशीन एक साल से कम से कम खरीद किया गया है;"
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "यदि तुम्हारा मशीन उच्च परिस्थितियों को मिले, तो आप निर्दिष्ट समय में अनुसारित पुनरावृत्ति संभावना की संभावना कर सकते हैं, त",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "",
+        "content" : [ ]
+      }, {
+        "title" : "",
+        "content" : [ {
+          "title" : "",
+          "value" : ""
+        } ]
+      } ],
+      "serviceName" : "तेज पुनरावृत्ति"
+    },
+    "liveOnlineHelp" : {
+      "serviceContent" : [ {
+        "title" : "1, हम तेज प्रतिक्रिया और प्रोफासिकल रिमोट मार्गदर्शन पर ध्यान देते हैं कि तुम्हें प्राप्त किया जाने के बा",
+        "content" : [ {
+          "title" : "telephony support",
+          "value" : ""
+        }, {
+          "title" : "कम्यूनिकेशन सॉफ्टवेयर ग्राफिक्स तथा पाठ सेवा",
+          "value" : "communicate graphic and textual information with our after-sales team through instant messaging software, making it convenient and efficient."
+        }, {
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "अनुप्रयोग प्रक्रिया",
+        "content" : [ {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "बाद विक्रेता हॉटलाइन को 4008786861 में कॉल करें"
+        }, {
+          "title" : "संपर्क जानकारी 2",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "हमारे बाद विक्रेता सेवा टीम तेज से आपसे संपर्क करेंगे कि विस्तृत समस्या को समझने और समाधान प्रदान करेंगे."
+        }, {
+          "title" : "रिमोट मार्गदर्शन",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "हमारे बाद विक्रेता टीम तुम्हें उच्च गुणवत्ता सेवा से पूरा प्रदान करेगा, सुनिश्चित करेगा कि तुम्हारे उपकरण हमेशा काम प्रकार क"
+        } ]
+      } ],
+      "serviceName" : ""
+    },
+    "Search" : "",
+    "KwunPhiWeChatOfficialAccount" : "वेबग आधिकारिक खाता",
+    "moreService" : "more services",
+    "ApplyOnlineConsignment" : "दुरुस्त और मुक्त दरवाजा से दरवाजा पिकअप के लिए ऑनलाइन अनुप्रयोग",
+    "ProfessionalEngineersProvideOnlineGuidance" : "",
+    "GoToDownloadCenter" : "",
+    "ServicePhone" : "सेवा हॉटलाइन: 4008786861",
+    "RemoteRepair" : "remote maintenance",
+    "GoNow" : "",
+    "downloadCenter" : "डाउनलोड केंद्र",
+    "Expand" : "",
+    "DocumentationManuals" : "",
+    "contact-us" : "",
+    "ContactAfter-salesToReplacement" : "प्रतिस्थापन मशीन के लिए लागू करने के लिए विक्रेत के बाद संपर्क करें, पहले इसे इस्तेमाल करें और फिर उसे दुरुस",
+    "LightningFastReplacement" : "तेज पुनरावृत्ति",
+    "HumanCustomerService" : "",
+    "PleaseEnterQuestion" : "",
+    "OnlineCustomerService" : "ऑनलाइन सेवा",
+    "VarietyGuaranteeServices" : "बहुत सुरक्षा सेवा, सम्पूर्ण और सुरक्षा",
+    "HotlineService" : "हॉटलाइन सेवा",
+    "Notices" : {
+      "Notify" : "",
+      "EventsAnnouncements" : "",
+      "Notice-content-08" : "",
+      "Notice-content-07" : "हम हमेशा नियमशास्त्र और नियमशास्त्रों का पालन करेंगे कि तुम्हारे अधिकार और निजीविता को सुरक्षि if you have any questions about our services or policies, please feel free to contact us at any time.",
+      "Notice-content-09" : "हम हमेशा नियमशास्त्र और नियमशास्त्रों का पालन करेंगे कि तुम्हारे अधिकार और निजीविता को सुरक्षि if you have any questions about our services or policies, please feel free to contact us at any time.",
+      "Notice-content-04" : "हम तुम्हारी निजीविकता का मान रखते हैं और तुम्हारी व्यक्तिगत जानकारी को सुरक्षित करने के लिए ज़ि कृपया हमारी निजीवित पालिसी को सीखने के लिए सीखने के लिए हम अपने डाटा को कैसे जमा करें, उपयोग करें, और रक्षा ",
+      "Notice-content-03" : "",
+      "Notice-content-06" : "उपयोक्ता फीडबैक पर आधारित, हम अपने ग्राहक समर्थन अनुभव को सुधार करने के लिए सुधारित हैं. हम प्रत्येक प्रयास करेंगे कि तुम्हें प्रयोग के दौरान समय और संतुष्ट मदद प्राप्त करेंगे।",
+      "Notice-content-05" : "",
+      "Notice" : "",
+      "Notice-content-10" : "आपका मतलब हमारे लिए बहुत महत्वपूर्ण है! यदि आपके पास कोई सुझाव या फीडबैक है, कृपया हमारे ग्राहक समर्थन चैनल में संपर्क करें.",
+      "Notice-content-02" : "",
+      "Notice-content-01" : ""
+    },
+    "Mandarin" : "मैन्डारिन",
+    "DownloadOfficialSoftwareTools" : "आधिकारिक सॉफ्टवेयर या औजार जैसे पैरामीटर ट्यूनिंग, ट्रांसकोडिंग, और इन्फ्रारेड तार्मेल छवि डाउनलोड करें जिस",
+    "ServiceInformationSupport" : "",
+    "remoteExperience" : "remote testing",
+    "SubstituteMachineApplication" : "",
+    "DownloadApps" : "",
+    "substituteMachineApplication" : {
+      "serviceContent" : [ {
+        "title" : "",
+        "content" : [ {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "professional maintenance team",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "",
+        "content" : [ {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "यदि तुम्हारे मशीन को दुरुस्त करने की आवश्यकता है, तो हम अनुप्रयोग को पुष्टि करने के बाद 24 घंटे के बाद बदलाने मशीन"
+        }, {
+          "title" : "",
+          "value" : "आपने वापस भेजा गया गलत मशीन प्राप्त करने के बाद, हम तुरंत ही निश्चित करेंगे और उसे दुरुस्त करेंगे, और एक बदला मशीन प्रदान करेंगे कि आपका "
+        }, {
+          "title" : "",
+          "value" : ""
+        } ]
+      } ],
+      "serviceName" : ""
+    },
+    "LearnMoreAboutTheOperation" : "",
+    "SoftwareTools" : "",
+    "LiveOnlineFirstAid" : "live emergency treatment online, tutoring and problem-solving",
+    "HelpCenter" : "",
+    "LiveFirstAid" : "",
+    "AI-KwunApp" : "",
+    "hide" : "पैक अप",
+    "Service&Support" : "",
+    "ServicePeriod-02" : "",
+    "ServicePeriod-01" : "",
+    "ServiceInformationQuery" : ""
+  },
+  "series" : {
+    "ProductSeriesDisplay" : "",
+    "FindTheRightCleaningRobotForYou" : ""
+  },
+  "nav.downloadsAndroid" : "एन्ड्रोइड संस्करण डाउनलोड",
+  "maintenance" : {
+    "goldenNodeMaintenance" : "",
+    "software" : "",
+    "lightBarrierBrush" : "",
+    "driveWheel" : "",
+    "wholeDeviceBeautification" : "पूरा मशीन सुंदर",
+    "logoPlate" : "लॉगो बोर्ड",
+    "suctionCup" : "सुक्शन कप",
+    "casing" : "",
+    "kwunMaintenance" : "",
+    "synchronousWheel" : "",
+    "synchronousWheelLockingPlate" : "",
+    "nozzleBracket" : "",
+    "caterpillarTrack" : "",
+    "consumableParts" : "उपयोगित भाग",
+    "bspUnitFirmware" : "",
+    "positioningCorrection" : "",
+    "maintenanceTitle" : "",
+    "chassis" : "",
+    "silverNodeMaintenance" : "",
+    "tianyunOSOperatingSystem" : "tianyunos ® operating system",
+    "visualLocalizationModule" : "",
+    "replacement" : "रेनेवेल",
+    "rollingBrushMotorDriverModule" : "",
+    "rotaryPlatformAssembly" : "रोटेरी तालिका मंडल",
+    "care" : "नार्सिंग",
+    "desc" : [ "", "", "", "\"सोने नोड\" मेंटेन्स पैकेज (1500 यूआन/समय) - ग्राहकों के अच्छे मेंटेन्स प्राप्त करने के अनुकूल, जीवन को विस्तारित करें और कार्यात्", "", "", "" ],
+    "repair" : "दुरुस्त करें",
+    "cleaningForceCalibration" : "",
+    "batteryExplosionProofCasing" : "बैटरी एक्सप्लोजिंग- पूर्ण घर",
+    "batteryHandle" : "",
+    "communicationModuleAssembly" : "",
+    "dustCover" : "",
+    "powerModuleAssembly" : "",
+    "radiator" : "",
+    "bristleBrush" : "",
+    "overcurrentPipeline" : "",
+    "airFilter" : "",
+    "ai-KwunOperatingSoftware" : "",
+    "rollerBrushMotor" : "रोलिंग ब्रुश मोटर",
+    "servoMotor" : "",
+    "wheelAxle" : "",
+    "waterSprayNozzle" : "",
+    "suctionAssembly" : "",
+    "startButton" : "",
+    "airFilterElement" : "हवा फिल्टर कार्ट्रिज",
+    "bspUnitDriverModule" : "",
+    "suctionSteeringAssembly" : "",
+    "redCopperNodeMaintenance" : "",
+    "wearResistantParts" : "",
+    "idlerWheel" : "",
+    "rollerBrushBracket" : "",
+    "deviceBatteryTopCover" : "",
+    "powerTrainAssembly" : "",
+    "aiModuleAssembly" : ""
+  },
+  "comprehensive" : {
+    "comprehensiveTitle" : "केवान ® संपूर्ण जानकारी",
+    "comprehensive" : "केवान ® संपूर्ण जानकारी"
+  },
+  "customer" : {
+    "hi" : "",
+    "submit" : "",
+    "subscribeUs" : "",
+    "enquireNow" : "",
+    "serviceHotline" : "",
+    "getTheLatestInformation" : "",
+    "subscribeSuccess" : "",
+    "pleaseEnterQuestion" : "",
+    "onlineMessage" : "ऑनलाइन संदेश छोड़ दें और फीडबैक खोजें",
+    "communicateOnline" : "ऑनलाइन संपर्क",
+    "thankYouSubscribe" : "name",
+    "pleasureServe" : "",
+    "pleaseEnterYourEmail" : "कृपया अपना इमेल पता भरें",
+    "close" : "बन्द करें",
+    "send" : ""
+  }
+}

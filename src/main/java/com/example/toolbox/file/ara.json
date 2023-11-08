@@ -1,0 +1,3263 @@
+{
+  "rules" : {
+    "code" : "يجب أن يكون طول %label% بين 4 و 10 أحرف",
+    "custom" : {
+      "usernameAllowLetters" : "%label% يسمح فقط حروف ، حروف ، أرقام ، موصلات ، \" - \" و \" ش \""
+    },
+    "length" : "يجب أن يكون طول %label% حرفا في %minlength% %maxlength%",
+    "range" : "%label% لا يتوافق مع مجموعة من القيم",
+    "integer" : "%label% يمكن أن تكون صحيحة فقط",
+    "required" : "%label% مطلوب",
+    "url" : "%label% شكل غير قانوني",
+    "number" : "%label% يمكن أن تكون رقمية فقط",
+    "password" : "يجب أن يكون طول %label% بين 4 و 32 حرفا",
+    "phone" : "%label% شكل غير قانوني",
+    "equals" : "centlabel% لا تتطابق مع centequalsto%",
+    "telphone" : "%label% شكل غير قانوني",
+    "idcard" : "%label% ليست بطاقة هوية صالحة",
+    "rangeNumber" : "%label% يجب أن يكون بين %min% ( بما في ذلك ) و %max% ( بما في ذلك )",
+    "email" : "%label% شكل غير قانوني"
+  },
+  "Kwun-B22L" : "كيوب 22 ل",
+  "Kwun-B62G" : "PhiCleaner™ E62G",
+  "Kwun-B22H" : "كوب22h",
+  "learnMore" : "معرفة المزيد",
+  "solution" : {
+    "autonomousAstonishingCapability" : "التنظيف الذاتي ، قدرة مذهلة .",
+    "IndustrialCommercialRoofs" : "سقف تجاري",
+    "cleanRevolutionContinuousProfit" : "الثورة النظيفة ، والحفاظ على جعل المال .",
+    "MaxCleanlinessMiniCosts" : "تحسين كفاءة التنظيف ، والحد من تكاليف التنظيف ، وضمان أن محطة توليد الكهرباء نظيفة كما جديدة ، حتى أن التنظيف غير ممكن .",
+    "aiVisualHighPrecisionAlignment" : "منظمة العفو الدولية الرؤية ، عالية الدقة تصحيح الانحراف",
+    "zhongxinInternational" : "المركز الدولي",
+    "LearnAboutIndustryApplications" : "فهم أحدث المعلومات عن تطبيقات الصناعة",
+    "multiInterfaceEcosystem" : "واجهة متعددة ، وتعزيز البيئة",
+    "Fishlight" : "ضوء الصيد",
+    "autonomousCleaningEndlessSharing" : "التنظيف الذاتي ، لا نهاية لها من المشاركة .",
+    "reliableQuality" : "نوعية موثوق بها",
+    "southernPowerGrid" : "شبكة الكهرباء الجنوبية",
+    "InfrastructureServicesDesc" : "لتزويد العملاء مع محطة توليد الكهرباء التنظيف الآلي حلول التحول ، العملاء القيام الصناعية والتجارية سقف \" التنظيف الآلي \" مشروع التحول .",
+    "autonomousCleaningUnattended" : "التنظيف الذاتي ، لا أحد يراقب .",
+    "standardizedServices" : "خدمة موحدة ، راحة البال تجربة",
+    "sustainedClean" : "التنظيف المستمر",
+    "CleaningTraining" : "كوونج ® التدريب",
+    "FollowUs" : "الاهتمام بنا",
+    "cleanRevolutionConqueringTheGlobe" : "الثورة النظيفة ، قهر العالم .",
+    "perfectClean" : "نظيفة تماما",
+    "easyCleaning" : "من السهل نظيفة",
+    "SaveMoneyAndEffort" : "فائدة نموذج يحتوي على مزايا توفير المال ، وتوفير العمالة ، وانخفاض تكلفة الصيانة ، وتحسين الأداء ، وزيادة كفاءة توليد الطاقة إلى أقصى حد .",
+    "allWalksOfLifeThousandsOfHouseholds" : "جميع مناحي الحياة ، الآلاف من الأسر",
+    "cleanRevolutionLeadingWithSolarEnergy" : "الثورة النظيفة التي تقود الطاقة الشمسية .",
+    "contactUs" : "اتصل بنا",
+    "MakeCleaningAHabitAndEarnPower" : "جعل التنظيف عادة ، وجعل ما يكفي من الكهرباء",
+    "InfrastructureServices" : "كوون جيان ® الخدمات",
+    "cuttingEdgeTechnologyEnsuringCleaningQuality" : "أعلى التكنولوجيا لضمان الجودة النظيفة .",
+    "practicalSolutionsRealWorldExperience" : "الحلول المهنية ، والخبرة العملية",
+    "HowToBuy" : "كيفية شراء",
+    "ScenarioTrainingDesc" : "استهداف ® \" تمكين \" المتخصصة في تطبيق نظام التدريب والاختبار ، وتوفير مجموعة متنوعة من محطة الطاقة الكهروضوئية المشهد حلول التدريب ، وتطبيق تدريس الموضوع ، امتحان شهادة ، والعمالة ، وغيرها من الخدمات وقفة واحدة .",
+    "CleaningService" : "كوونج ® الخدمات",
+    "watchTheVideo" : "مشاهدة الفيديو",
+    "floatingPowerStation" : "PhiCleaner™ E33H العائمة محطة توليد الكهرباء",
+    "CarportPhotovoltaic" : "تسليط الضوئية",
+    "huaweiTechnology" : "هواوي تكنولوجيز",
+    "CleaningTrainingDesc" : "استخدام كوون بشكل صحيح ® هل تنظيف المهنية تطبيق نظام التدريب والامتحانات ، وتوفير Kwun ® نظام التشغيل والتدريب ، تطبيق موضوع التدريس ، امتحان شهادة ، والعمالة ، وغيرها من الخدمات وقفة واحدة .",
+    "FishlightDesc" : "كفاءة عالية في تنظيف الاوساخ ، وإزالة البقع العنيدة ، وتحسين القدرة على توليد الكهرباء ، وتحقيق كفاءة التنظيف تجربة جديدة",
+    "email" : "البريدية",
+    "PhotovoltaicCleaningAtYourFingertips" : "الضوئية النظيفة في تقاسم التكنولوجيا",
+    "CareFor25YearsWithCleanEdges" : "تنظيف الحدود حزام الطين ، 25 عاما من الرعاية لمحطة توليد الكهرباء",
+    "ScenarioTraining" : "كوون ننغ ® التدريب",
+    "SuperCostEffective" : "سوبر عالية الأداء نسبة السعر ، عالية الكفاءة لتوفير الطاقة ، وزيادة إنتاج الطاقة !",
+    "CleaningServiceDesc" : "توفير خدمات التنظيف عالية الجودة مع معيار نموذج التنظيف ، وإجراء تنظيف محطة توليد الكهرباء من أجل العملاء بأسعار معقولة .",
+    "AccomplishTheImpossibleTask" : "الانتهاء من المهمة المستحيلة ، كل يوم من أجل جمال السطح",
+    "WhyChooseKwunPhi" : "لماذا اختيار علة غريبة",
+    "RecentlyUpdated" : "آخر تحديث",
+    "BecomePartner" : "تصبح شريكا",
+    "ExploreMore" : "استكشاف المزيد",
+    "easyClean" : "تنظيف مجانا",
+    "contactPhone" : "تلفون .",
+    "datangGeneration" : "داتانغ توليد الطاقة"
+  },
+  "helpMeChoose" : {
+    "SelectOne" : "الرجاء اختيار واحد",
+    "result" : {
+      "compare" : "على النقيض",
+      "InPreSale" : "قبل البيع",
+      "TheBestRobotForYou" : "أفضل بالنسبة لك ® نعم .",
+      "TestResults" : "نتائج الاختبار",
+      "Reselect" : "إعادة اختيار"
+    },
+    "ViewResults" : "عرض النتائج",
+    "qu" : {
+      "EfficientOrConvenient" : "هل تريد أن تكون أكثر كفاءة أو أكثر ملاءمة ؟",
+      "ImportantScenes" : "يمكنك شراء كوون ® ما هو أهم استخدام المشهد ؟",
+      "PVModulesInclinationAngle" : "ما هو الخاص بك وحدة الكهروضوئية الميل ؟",
+      "EfficientOrConvenientAnswer" : {
+        "EfficientType" : "كفاءة عالية",
+        "LightweightType" : "خفيف الوزن"
+      },
+      "ImportantScenesAnswer" : {
+        "mountain" : "جبلي",
+        "shingled" : "تراكب البلاط",
+        "floating" : "طافية",
+        "houseRoof" : "سقف المنزل",
+        "pool" : "الصيد الخفيفة",
+        "solarTracker" : "تتبع قوس",
+        "commercialAndIndustrialRoofing" : "سقف الصناعية والتجارية",
+        "ground" : "أرض",
+        "farmland" : "الزراعة الخفيفة"
+      },
+      "PVModulesInclinationAngleAnswer" : {
+        "LessThanTenDegrees" : "≤10°",
+        "LessThanThirtyFiveDegrees" : "≤35°",
+        "LessThanFifteenDegrees" : "≤15°"
+      }
+    },
+    "Next" : "الموضوع التالي",
+    "Previous" : "الموضوع السابق",
+    "PleaseSelectAtLeastOneOption" : "الرجاء اختيار خيار واحد على الأقل",
+    "SelectMultiple" : "اختيار جميع البنود المطابقة"
+  },
+  "recruitment" : {
+    "dignifiedWork" : "العمل بكرامة",
+    "blendingThePowerOfScienceAndBeautyIntoTheHumanSpirit" : "قوة وجمال العلم في الروح البشرية",
+    "weAreDedicatedTo" : "نحن ملتزمون",
+    "changeTheWorldTogetherWithGuaiChong" : "تغيير العالم مع الوحوش",
+    "birthOfNewIndustries" : "صناعة جديدة",
+    "findTheRightTeamForYou" : "العثور على الحق في فريقك",
+    "learnMore" : "معرفة المزيد",
+    "convergenceOfSocialInnovation" : "تجمع قوة الابتكار الاجتماعي",
+    "innovateAndCreateAgain" : "الابتكار وإعادة الخلق",
+    "teamIntroduction" : "عرض فريق",
+    "inTheRightPositionYourImaginationWillShineBrightly" : "في الموقف الصحيح ، خيالك سوف يلمع",
+    "enhancedResourceValue" : "تعزيز قيمة الموارد",
+    "jobList" : [ {
+      "jobName" : "فريق البحث والتطوير",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق المبيعات",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق الانترنت",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق التصميم",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق سلسلة التوريد",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق إدارة المعلومات",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق خدمة ما بعد البيع",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق العمل",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق الصيانة",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "سوبر كوون ® عصر الرواد"
+    }, {
+      "jobName" : "فريق عالمي",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "رواد الفضاء عصر الذكاء"
+    }, {
+      "jobName" : "فريق التكنولوجيا التطبيقية",
+      "jobDesc1" : "كل ثلاثة من الموظفين لديها رؤية و مهندس القيادة الآلية . من الأصلي تكنولوجيا التحكم في الحركة من الزجاج الحائط الساتر البيئة إلى تطبيق الكهروضوئية مستقلة الروبوت ، KwunJ ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب علة المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر الدهشة العالم يبكي شبح الله \" غريب علة القتال \" روح . كل هذا يأتي من روح الفضول ، فرصة ، والشجاعة والمثابرة التي عقدت من قبل الغول .",
+      "jobDesc2" : "الفضاء الرابع على الجدار الخارجي من البحر ، الأرض ، الهواء ، يحمل العديد من التكنولوجيا لتحقيق الحلم . وتحقيقا لهذه الغاية ، Kwunphi سوف تلتزم البحث والتطوير والإنتاج من أعلى جودة الجدار الروبوتات المتنقلة ، بحيث \" المستقبل \" في أيدينا .",
+      "jobDescTitle" : "رواد الفضاء عصر الذكاء"
+    } ],
+    "applyNowHrKwunphiCom" : "التسليم الفوري :",
+    "improvedEfficiency" : "تحسين الكفاءة",
+    "makingTheEarthGreener" : "جعل الأرض أكثر اخضرارا"
+  },
+  "terms" : {
+    "TermsOfUse" : "شروط ضمان الجودة"
+  },
+  "nav.downloads" : "مركز تحميل",
+  "kwunq" : {
+    "processes" : {
+      "process" : {
+        "ScourSyncWash" : "سكور سينشروس وش",
+        "SolventSoak" : "سولفنت سوك",
+        "SolventSpray" : "سولفنت سبراي"
+      },
+      "solvent" : {
+        "KwunJNo2" : "kwun-j no.2",
+        "KwunJNo1" : "kwun-j no.1",
+        "KwunJNo0" : "kwun-j no ."
+      },
+      "stain" : {
+        "Dust" : "دوست",
+        "WetGuano" : "ويت غوانو",
+        "Rust" : "راش",
+        "DryGuano" : "دري غوانو",
+        "Slurry" : "سلوري",
+        "LeadAshes" : "لد آش",
+        "OilPollution" : "النفط pollution",
+        "Paint" : "رسم",
+        "FlyAsh" : "فلاش اش"
+      },
+      "cleanlinessGrade" : {
+        "scp4" : "الخصخصه",
+        "scp3" : "الخصخصه"
+      }
+    },
+    "messages" : {
+      "inputCleaningTask" : "يرجى إدخال مبلغ شهري التنظيف ( ميغاواط )",
+      "tooLongCleanDays" : "تنظيف أيام أكثر من 30 يوما",
+      "selectModel" : "الرجاء اختيار نوع المنتج",
+      "notSupportCleanway" : "هذا النوع من محطة الكهروضوئية لا تدعم طريقة التنظيف"
+    },
+    "label" : {
+      "personSubsidy" : "بدل الحضور",
+      "forCleaning" : "أنا تنظيف الشركة .",
+      "laborKwunQuantity" : "",
+      "personManagementExpense" : "تكاليف إدارة الموظفين",
+      "fixedParam" : "ثابت المعلمة",
+      "vehicleFixedParam" : "معلومات السيارة",
+      "situationEfficiency" : "المشهد مطابقة الكفاءة",
+      "fuelConsumption" : "مولد استهلاك الوقود",
+      "vehicleMaintenanceCost" : "رسوم صيانة المركبات",
+      "forOwner" : "أنا نفسي",
+      "PVStationCapacity" : "مناسبة حجم محطة الضوئية ( ميغاواط )",
+      "vehiclePrice" : "سعر السيارة",
+      "cleaningTask" : "مجموع التنظيف الشهري",
+      "personQuantity" : "عدد الموظفين",
+      "price" : "المنتج زائد",
+      "model" : "نموذج المنتج",
+      "selectModel" : "الرجاء اختيار نوع المنتج",
+      "laborKwunRatio" : "قوم ®",
+      "perMW" : "ميغاواط",
+      "cleanway" : "طريقة التنظيف",
+      "model2" : "نموذج",
+      "cost" : "كلف",
+      "kwunMaintenanceCost" : "كوون ® رسوم الصيانة",
+      "vehicleTravelCost" : "رسوم وقود المركبات",
+      "cleanCycle" : "تنظيف مرات",
+      "monthlyTotalCost" : "التكلفة الإجمالية الشهرية",
+      "personBasicSalary" : "الراتب الأساسي للموظفين",
+      "costPerMW" : "التكلفة لكل ميغاواط",
+      "comSituationEfficiency" : "المشهد المتكامل الكفاءة",
+      "userFilling" : "البند المستخدم",
+      "solvent" : "مذيب .",
+      "kwunQuantity" : "كوون ® الكمية",
+      "workdayTotalCost" : "مجموع تكلفة المشروع",
+      "vehicleQuantity" : "عدد المركبات",
+      "cleanDays" : "يقدر عدد أيام التنظيف"
+    },
+    "situation" : {
+      "ciRoofingTiling" : "الصناعية والتجارية سقف ( البلاط / bipv )",
+      "ciRoofingManualAccess" : "الصناعية والتجارية سقف ( متعدد القنوات )",
+      "mountain" : "منحدر",
+      "floating" : "طافية",
+      "houseRoof" : "سقف المنزل",
+      "pool" : "الصيد الخفيفة",
+      "ground" : "أرض",
+      "farmland" : "الزراعة الخفيفة",
+      "ciRoofing" : "سقف الصناعية والتجارية",
+      "ciRoofingBypass" : "الصناعية والتجارية سقف ( جسر )"
+    },
+    "cleanway" : {
+      "laborSpraying" : "رش اصطناعي",
+      "dryBrush" : "فرشاة جافة",
+      "rinseWithWater" : "تدفق المياه",
+      "sprayer" : "رش",
+      "raining" : "يوم ممطر"
+    },
+    "stain" : {
+      "oilPollution" : "دهني",
+      "rust" : "صدأ",
+      "guano" : "روث الطيور",
+      "leadAshes" : "يؤدي الرماد",
+      "paint" : "الدهانات",
+      "flyAsh" : "الغبار العائمة",
+      "slurry" : "المياه الطين",
+      "wetGuano" : "روث الطيور الرطب",
+      "dryGuano" : "روث الطيور الجافة",
+      "dust" : "تراكم الغبار"
+    }
+  },
+  "contact" : {
+    "contactUs" : "الاتصال علة غريبة",
+    "SubscribetoUs" : "اشترك معنا لأول مرة للحصول على أحدث المعلومات",
+    "Address" : "عنوان",
+    "purchase" : "شراء والاستشارات",
+    "Subscribe" : "اشترك معنا",
+    "label" : {
+      "submit" : "قدم",
+      "phone" : "موبيل فون",
+      "telphone" : "رقم الهاتف",
+      "name" : "الاسم الكامل",
+      "questions" : "وصف",
+      "company" : "اسم الشركة",
+      "email" : "صندوق البريد"
+    },
+    "ServiceCalls" : "خدمة الهاتف",
+    "SalesChannel" : "مبيعات قناة التعاون",
+    "ClickHere" : "اضغط هنا",
+    "service" : "الخدمات والدعم",
+    "recruit" : "توظيف المواهب",
+    "vendor" : "المورد التعاون",
+    "MediaCooperation" : "التعاون الإعلامي",
+    "placeholder" : {
+      "phone" : "الرجاء إدخال رقم الهاتف المحمول",
+      "telphone" : "يرجى إدخال رقم الهاتف",
+      "name" : "الرجاء إدخال اسم جهة الاتصال",
+      "questions" : "من فضلك أدخل ما تريد استشارة",
+      "company" : "يرجى إدخال اسم الشركة و",
+      "email" : "من فضلك أدخل صندوق البريد"
+    },
+    "TechnicianPhone" : "فني",
+    "EnterEmail" : "الرجاء إدخال البريد الإلكتروني الخاص بك",
+    "Business" : "التعاون التجاري"
+  },
+  "comparison" : {
+    "QuickNavBar" : "شريط التنقل السريع",
+    "HideSameProperty" : "إخفاء نفس الخاصية"
+  },
+  "productSpecs" : {
+    "HotSellingAccessories" : "حار بيع الملحقات",
+    "downloadResource" : {
+      "quickGuide" : "أول استخدام المبادئ التوجيهية السريعة",
+      "instructionManual" : "تعليمات المنتج",
+      "beforeUse" : "تعليمات قبل استخدام المنتج"
+    },
+    "Kwun-B12T" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 200 متر ²/ ح ?", "مدة الرحلة : 5 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 10 °", "زاوية الفرشاة الجافة : ≤ 15 °", "حجم الجسم * ( بدون فرشاة ) : 550 * 390 * 230mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 14.15kg" ],
+      "capabilities" : "b12t هو منفذ منخفضة زاوية washing وبرش متكامل تنظيف robot development for household roofs mainly suitable for small-area residential rooftop power stations , which lighter , more efficient and safer , convenient for cleaning companies with multiple service time samples , و شخص واحد مع العديد من المرافق في مكان مختلف المستخدمين من roof for automatic cleaning and centralized recovery . من فضلك لا تتردد في الاتصال بي في أقرب وقت ممكن .",
+      "shape" : {
+        "rollerBrushLength" : "نوع د",
+        "bodyWeightWithoutRoller" : "19.70kg",
+        "rollerWeightDetachable" : "نوع د 5.7kg و 4.9kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "1 Series Small Angle Standard",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 400 متر ²/ ح | 4.5 ساعات وقت الشحن ، 3 ساعات وقت الغسيل | زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 10 درجة | حجم الجسم ( بدون فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( بدون فرشاة المتداول ) 19.70kg",
+      "productVersion" : "كوون ®- ب 12 ت",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "أوتونوميك",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥400",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "منزل رسول ، ضوء الملاك"
+    },
+    "ChooseYouNeed" : "اختر ما تريد",
+    "Kwun-B32L" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 600 متر ²/ ح ?", "مدة الرحلة : 4 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 10 °", "زاوية الفرشاة الجافة : ≤ 15 °", "حجم الجسم * ( بدون فرشاة المتداول ) : 585 * 560 * 250 مم", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.80kg" ],
+      "capabilities" : "PhiCleaner™ E32L هو محمول انخفاض زاوية تنظيف فرشاة جافة متكاملة روبوت التنظيف ، وذلك أساسا الصناعية والتجارية سقف محطة توليد الكهرباء تتبع قوس التنمية ، سوبر عالية الأداء نسبة السعر ، نصف سنة فترة الاسترداد ، هو الكفاءة والفعالية من حيث التكلفة وحدة كاملة . تظهر في كل مكان غريب الحشرات مزايا تكنولوجيا التنظيف - السلامة والصداقة ، الحدود واضحة ونظيفة كما جديدة .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.80kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "3 سلسلة زاوية صغيرة القياسية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 600m ²/ مدة الشحن 3 ساعات ، 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 20 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 23.85kg",
+      "productVersion" : "كوب 32 ل",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "156666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية الخفيفة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥600",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "ملك المال"
+    },
+    "Kwun-B22L" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 400 متر ²/ ح ?", "تجديد الوقت : 4.5 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 10 °", "زاوية الفرشاة الجافة : ≤ 15 °", "حجم الجسم * ( بدون فرشاة المتداول ) : 585 * 560 * 250 مم", "وزن الجسم * ( بدون فرشاة المتداول ) : 19.70kg" ],
+      "capabilities" : "PhiCleaner™ E22L هو المحمولة منخفضة زاوية فرشاة الغسيل الجاف ، والتي يمكن أن تعمل في الليل لتنظيف الروبوتات الصغيرة والمتوسطة الحجم الشركات الكهربائية ، وهي تستخدم أساسا في السقف الصناعي والتجاري و تتبع قوس محطة توليد الكهرباء ، سوبر عالية الأداء نسبة السعر ، ست سنوات من الوقت يمكن أن تجعل المزيد من المال لأصحاب الكهرباء طوال العام ، والسعي لتحقيق أقصى قدر من المنافع . كل زبون يساهم رائع غريب الحشرات تكنولوجيا التنظيف - آمنة وصديقة للبيئة ، الحدود واضحة ونظيفة كما جديدة .",
+      "shape" : {
+        "rollerBrushLength" : "نوع د",
+        "bodyWeightWithoutRoller" : "19.70kg",
+        "rollerWeightDetachable" : "نوع د 5.7kg و 4.9kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "2 سلسلة زاوية صغيرة القياسية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 400 متر ²/ مدة الشحن 4.5 ساعات ، وقت الشحن 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 10 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 19.70kg",
+      "productVersion" : "كيوب 22 ل",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "116666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥400",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "ملك الكهرباء"
+    },
+    "Kwun-B62G" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 1200 متر ²/ ح ?", "مدة الرحلة : 3 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 15 °", "زاوية الفرشاة الجافة : ≤ 20 °", "حجم الجسم * ( بدون فرشاة ) : 650 * 560 * 250mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.85kg" ],
+      "capabilities" : "PhiCleaner™ E62G هو أول المحمولة المتوسطة زاوية فرشاة التنظيف الجاف تنظيف الروبوت ، يمكن بسهولة تحقيق واحد 8 ساعات 2 ميغاواط تنظيف عبء العمل . مصممة خصيصا لتنظيف الشركة ، الأصلي فريق التنظيف 5 أشخاص إلى 2 ، وخفض التكاليف إلى حد كبير ، على نطاق واسع في الأرض المنحدرة مركزية ، محطة الطاقة الزراعية الخفيفة تنظيف الجهاز .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.80kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "6 - سلسلة متوسطة زاوية الغسيل",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 1200m ²/ مدة الشحن 4.5 ساعات ، وقت الشحن 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 10 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 19.75kg",
+      "productVersion" : "PhiCleaner™ E62G",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "التحكم عن بعد",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥1200",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "دعم",
+        "unmannedOperationOnRamps" : "دعم",
+        "remoteControl" : "دعم",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "دعم",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "دعم",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "دعم",
+        "additionalRFRemoteController" : "دعم",
+        "resumeAfterPowerLoss" : "دعم"
+      },
+      "Nickname" : "ملك الكفاءة"
+    },
+    "Kwun-B32H" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : ≥ 650m م ²/ ح ?", "مدة الرحلة : 4 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 10 °", "زاوية الفرشاة الجافة : ≤ 15 °", "حجم الجسم * ( بدون فرشاة المتداول ) : 585 * 560 * 250 مم", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.85kg" ],
+      "capabilities" : "PhiCleaner™ E32H هو محمول انخفاض زاوية تنظيف فرشاة جافة متكاملة ، يمكن أن تعمل في الليل تنظيف الروبوت ، وذلك أساسا الصناعية والتجارية سقف محطة الطاقة تتبع قوس التنمية ، سوبر عالية الأداء نسبة السعر ، نصف سنة فترة الاسترداد ، هو الكفاءة والفعالية من حيث التكلفة وحدة كاملة . في كل مكان ، فإنه يدل على ميزة أساسية من الحشرات الغريبة تكنولوجيا التنظيف - السلامة والصداقة ، الحدود واضحة ونظيفة كما جديدة .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.85kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "3 سلسلة زاوية صغيرة القياسية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 650m ²/ مدة الشحن 3 ساعات ، 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 20 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 23.85kg",
+      "productVersion" : "كوب 32 ه",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "188666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 25 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "قادر",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "قادر",
+        "additionalRFRemoteController" : "قادر",
+        "resumeAfterPowerLoss" : "قادر"
+      },
+      "Nickname" : "كسب المال المحارب ، سعر الجنس من النموذج"
+    },
+    "Kwun-B22H" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 450 متر ²/ ح ?", "تجديد الوقت : 4.5 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 10 °", "زاوية الفرشاة الجافة : ≤ 15 °", "حجم الجسم * ( بدون فرشاة المتداول ) : 585 * 560 * 250 مم", "وزن الجسم * ( بدون فرشاة المتداول ) : 19.75kg" ],
+      "capabilities" : "PhiCleaner™ E22H هو المحمولة منخفضة زاوية فرشاة الغسيل الجاف ، والتي يمكن أن تعمل في الليل تنظيف الروبوت ، وضعت خصيصا للمشاريع الصغيرة والمتوسطة الحجم ، وهي مناسبة أساسا الصناعية والتجارية سقف محطة توليد الكهرباء تتبع الدعم . كل زبون يساهم رائع غريب الحشرات تكنولوجيا التنظيف - آمنة وصديقة للبيئة ، الحدود واضحة ونظيفة كما جديدة .",
+      "shape" : {
+        "rollerBrushLength" : "نوع د",
+        "bodyWeightWithoutRoller" : "19.75kg",
+        "rollerWeightDetachable" : "نوع د 5.7kg و 4.9kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "2 سلسلة زاوية صغيرة القياسية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 450 م ²/ مدة الشحن 4.5 ساعات ، وقت الشحن 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 10 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 19.75kg",
+      "productVersion" : "كوب22h",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "132666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥450",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "دعم",
+        "unmannedOperationOnRamps" : "دعم",
+        "remoteControl" : "دعم",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "دعم",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "دعم",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "دعم",
+        "additionalRFRemoteController" : "دعم",
+        "resumeAfterPowerLoss" : "دعم"
+      },
+      "Nickname" : "توليد الطاقة الله الفارس المطوف"
+    },
+    "security" : {
+      "specs" : {
+        "fallProtection" : "حماية ضد السقوط",
+        "antiSlip" : "عدم الانزلاق",
+        "seamlessSafety" : "آمنة دون تكسير",
+        "positioningAccuracy" : "دقة تحديد المواقع",
+        "positioningMethod" : "وضع طريقة",
+        "antiTheftLocationTerminal" : "مضاد للسرقة محطة لتحديد المواقع",
+        "protectionLevel" : "مستوى الحماية",
+        "operationModes" : "طريقة العمل",
+        "steeringDirection" : "توجيه الاتجاه"
+      },
+      "title" : "أمن ."
+    },
+    "Specifications" : "مواصفات المنتج المعلمة",
+    "specsDataInterpretation" : {
+      "shape" : "وزن الجسم وحجم البيانات قد تختلف قليلا بسبب التغيرات في المواد الموردة ، الخ .",
+      "standardParameters" : "الميل البيانات من وحدة الكهروضوئية العمل يعتمد في نهاية المطاف على خصائص مصدر التلوث",
+      "lifeAndEndurance" : "بيانات الرحلة قد تختلف بسبب ظروف مختلفة ، تحميل مختلفة ، وفقدان البطارية ، وهلم جرا .",
+      "FinalInterpretation" : "شنتشن Kwunphi المحدودة"
+    },
+    "manipulation" : {
+      "specs" : {
+        "adjustBrushSpeed" : "يمكن ضبط سرعة الفرشاة الدوارة",
+        "unmannedOperationOnRamps" : "النهج لتحقيق عملية غير مأهولة",
+        "remoteControl" : "التحكم عن بعد",
+        "suggestedMaxControllableOnSlopes" : "أقصى قدر من السيطرة على المنحدر",
+        "suggestedMaxControllableOnRoofs" : "سقف الحد الأقصى الموصى به من قبل شخص واحد",
+        "nightOperation" : "العمل الليلي",
+        "maxControllablePerPerson" : "أقصى قدر من السيطرة على شخص واحد",
+        "realTimeLogView" : "في الوقت الحقيقي عرض السجل",
+        "softwareMaintenanceUpgrade" : "تحديث برامج الصيانة",
+        "ratedBrushSpeed" : "تصنيف سرعة الفرشاة الدوارة",
+        "droneDeployment" : "الطائرات بدون طيار",
+        "additionalRFRemoteController" : "الترددات اللاسلكية وحدة تحكم عن بعد ( 100 متر )",
+        "resumeAfterPowerLoss" : "نقطة التجديد"
+      },
+      "title" : "تلاعب"
+    },
+    "RecommendedWorkingConditions" : "ظروف العمل ( فرشاة جافة / غسل )",
+    "shape" : {
+      "specs" : {
+        "bodyWeightWithoutRoller" : "وزن الجسم * ( بدون فرشاة المتداول )",
+        "rollerWaterCombination" : "مزيج من فرشاة المتداول فاصل المياه *",
+        "rollerWeightDetachable" : "وزن الفرشاة الدوارة * ( قابل للفصل )",
+        "rollerBrushesNumber" : "لفة فرشاة عدد",
+        "bodySizeWithoutRoller" : "حجم الجسم * ( بدون فرشاة المتداول )",
+        "rollerLength" : "طول الفرشاة الدوارة *"
+      },
+      "title" : "شكل المعلمة"
+    },
+    "Kwun-B11T" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 200 متر ²/ ح ?", "مدة الرحلة : 5 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 5 °", "زاوية الفرشاة الجافة : ≤ 10 °", "حجم الجسم * ( بدون فرشاة ) : 550 * 390 * 230mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 14.15kg" ],
+      "capabilities" : "PhiCleaner™ E11L هو محمول تنظيف الروبوت مع انخفاض زاوية الغسيل الجاف فرشاة وضعت خصيصا للأسر المعيشية ، وهي مناسبة أساسا للأسر الصغيرة سقف محطة توليد الكهرباء . جلب قيمة الحشرات الغريبة إلى الملايين من المستخدمين المنزليين - آمنة ، ودية ونظيفة .",
+      "shape" : {
+        "rollerBrushLength" : "نوع د 585 * 560 * 250mm",
+        "bodyWeightWithoutRoller" : "19.75kg",
+        "rollerWeightDetachable" : "نوع د 5.7kg و 4.9kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "زاوية صغيرة القياسية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 450 م ²/ ح | 4.5 ساعات وقت الشحن ، 3 ساعات ، غسل زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 10 درجة | حجم الجسم ( بدون فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( بدون فرشاة المتداول ) 19.75kg",
+      "productVersion" : "كوون ®- ب 11 ت",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥450",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "دعم",
+        "unmannedOperationOnRamps" : "دعم",
+        "remoteControl" : "دعم",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "دعم",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "دعم",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "دعم",
+        "additionalRFRemoteController" : "دعم",
+        "resumeAfterPowerLoss" : "دعم"
+      },
+      "Nickname" : "ملك الأسرة"
+    },
+    "ProductSpecifications" : "مواصفات المنتج",
+    "lifeAndEndurance" : {
+      "specs" : {
+        "designLife" : "تصميم الحياة",
+        "warrantyPeriod" : "مدة الضمان",
+        "chargingTime" : "وقت الشحن",
+        "enduranceTime" : "تمديد الوقت",
+        "batteryCapacity" : "قدرة البطارية",
+        "8HourEnduranceMethod" : "8 ساعات طريقة التجديد"
+      },
+      "title" : "استمرار المعلمة"
+    },
+    "technology" : {
+      "specs" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "title" : "التكنولوجيا الأساسية"
+    },
+    "PackingListComparison" : "قائمة التعبئة والتغليف مقارنة",
+    "Kwun-B11L" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 200 متر ²/ ح ?", "مدة الرحلة : 5 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 5 °", "زاوية الفرشاة الجافة : ≤ 10 °", "حجم الجسم * ( بدون فرشاة ) : 550 * 390 * 230mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 14.15kg" ],
+      "capabilities" : "PhiCleaner™ E11L هو محمول تنظيف الروبوت مع انخفاض زاوية الغسيل الجاف فرشاة وضعت خصيصا للأسر المعيشية ، وهي مناسبة أساسا للأسر الصغيرة سقف محطة توليد الكهرباء . جلب قيمة الحشرات الغريبة إلى الملايين من المستخدمين المنزليين - آمنة ، ودية ونظيفة .",
+      "shape" : {
+        "rollerBrushLength" : "641*180*130mm",
+        "bodyWeightWithoutRoller" : "14.15kg",
+        "rollerWeightDetachable" : "و نوع 3kg و 2.5kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "550*390*230mm"
+      },
+      "introduce" : "زاوية صغيرة القياسية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 5 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 200 م ²/ وقت الشحن هو 5 ساعات ، وقت الشحن هو 3 ساعات ، وغسل المياه زاوية أقل من أو يساوي 5 درجة ، فرشاة جافة زاوية أقل من أو يساوي 10 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 550 * 390 * 230 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 14.15kg . . . . . . .",
+      "productVersion" : "PhiCleaner™ E11L",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-10 ° / غسل 0-5 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "10°",
+        "wetPVPanelAngle" : "5°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 39 ~ 49 كم / ساعة مع رياح قوية / 20 ~ 28 كم / ساعة مع مياه الغسيل والرياح"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥200",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "180 دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "ملك الأسرة"
+    },
+    "Kwun-B63G" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 1200 متر ²/ ح ?", "مدة الرحلة : 3 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 15 °", "زاوية الفرشاة الجافة : ≤ 20 °", "حجم الجسم * ( بدون فرشاة ) : 650 * 560 * 250mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.85kg" ],
+      "capabilities" : "PhiCleaner™ E63G هو أول المحمولة المتوسطة زاوية فرشاة التنظيف الجاف تنظيف الروبوت ، يمكن بسهولة تحقيق واحد 8 ساعات 2 ميغاواط تنظيف عبء العمل . مصممة خصيصا لتنظيف الشركة ، الأصلي فريق التنظيف 5 أشخاص إلى 2 ، وخفض التكاليف إلى حد كبير ، على نطاق واسع في الأرض المنحدرة مركزية ، محطة الطاقة الزراعية الخفيفة تنظيف الجهاز .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.80kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "6 - سلسلة متوسطة زاوية الغسيل",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 1200m ²/ مدة الشحن 3 ساعات ، 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 20 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 23.85kg",
+      "productVersion" : "PhiCleaner™ E63G",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "التحكم عن بعد",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-20 ° / غسل 0-15 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "20°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية الخفيفة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥1200",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "ملك الكفاءة"
+    },
+    "Kwun-B37L" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 600 متر ²/ ح ?", "مدة الرحلة : 3 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 15 °", "زاوية الفرشاة الجافة : ≤ 20 °", "حجم الجسم * ( بدون فرشاة ) : 650 * 560 * 250mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.85kg" ],
+      "capabilities" : "PhiCleaner™ E37L هو أول زاوية عالية المحمولة فرشاة التنظيف الجاف روبوت متكامل ، المتخصصة في بناء \" أقصى قدر من الكفاءة بين الإنسان والحاسوب التعاون الحد الأدنى من وحدة \" ، يمكن بسهولة تحقيق اثنين من الناس في وقت واحد تشغيل خمس معدات ، ثماني ساعات من 5mw تنظيف عبء العمل ، ولكن أيضا لتحقيق العمل الليلي ، وضمان محطة توليد الكهرباء التسرع في توليد الكهرباء . مصممة خصيصا من أجل مركزية الأرض محطة توليد الكهرباء . هذا هو منتج تاريخي لإيجاد أفضل حل التنظيف على نطاق واسع الأرض مركزية لتوليد الطاقة .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "23.85kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "585*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "3 سلسلة زاوية عالية الطاقة",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 600m ²/ مدة الشحن 3 ساعات ، 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 20 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 23.85kg",
+      "productVersion" : "كوبول",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "35°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 25 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "قادر",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "قادر",
+        "additionalRFRemoteController" : "قادر",
+        "resumeAfterPowerLoss" : "قادر"
+      },
+      "Nickname" : "تنظيف الهيمنة ، عاصفة رملية"
+    },
+    "Kwun-B33H" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : ≥ 650m م ²/ ح ?", "مدة الرحلة : 3 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 15 °", "زاوية الفرشاة الجافة : ≤ 20 °", "حجم الجسم * ( بدون فرشاة ) : 650 * 560 * 250mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 25.75kg" ],
+      "capabilities" : "PhiCleaner™ E33H هو محمول الروبوت التنظيف الجاف مع زاوية متوسطة ، والتي يمكن استخدامها في أي محطة توليد الكهرباء ، ولا سيما محطة توليد الكهرباء على سطح الماء ، وارتفاع كومة محطة توليد الكهرباء . دائما ترث الحشرات الغريبة تنظيف التكنولوجيا الأساسية - السلامة والصداقة ، الحدود واضحة ونظيفة كما جديدة .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "25.75kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "650*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "3 - سلسلة زاوية نهاية عالية",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 3 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 650m ²/ مدة الشحن 3 ساعات ، 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 20 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 23.85kg",
+      "productVersion" : "كوبعه",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "أقل من 10 أمتار في الصين",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "246666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-20 ° / غسل 0-15 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "20°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "قادر",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "قادر",
+        "additionalRFRemoteController" : "قادر",
+        "resumeAfterPowerLoss" : "قادر"
+      },
+      "Nickname" : "ملك العالمي ، حصة لا نهاية لها"
+    },
+    "Kwun-B33F" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 600 متر ²/ ح ?", "مدة الرحلة : 3 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 15 °", "زاوية الفرشاة الجافة : ≤ 20 °", "حجم الجسم * ( بدون فرشاة ) : 650 * 560 * 250mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.85kg" ],
+      "capabilities" : "PhiCleaner™ E33F هو أول المحمولة المتوسطة زاوية فرشاة تنظيف الروبوت ، أول محطة عائمة في التنظيف الذاتي ، خالية من الخوف من الرياح والأمواج ، من السهل عبر المجلس ، مباشرة إلى الأمام ، نظيفة كما جديدة . هو عصر المنتجات المصممة خصيصا العائمة محطة توليد الكهرباء .",
+      "shape" : {
+        "rollerBrushLength" : "نوع د",
+        "bodyWeightWithoutRoller" : "19.70kg",
+        "rollerWeightDetachable" : "نوع د 5.7kg و 4.9kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "585*560*250mm"
+      },
+      "introduce" : "زاوية كبيرة تمتد",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 4 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 600m ²/ مدة الشحن 4.5 ساعات ، وقت الشحن 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 10 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 19.70kg",
+      "productVersion" : "كبوع ع اف",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "التحكم عن بعد",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-15 ° / غسل 0-10 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "15°",
+        "wetPVPanelAngle" : "10°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥600",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "ملك البحر"
+    },
+    "Kwun-B37H" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : ≥ 650m م ²/ ح ?", "مدة الرحلة : 3 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 15 °", "زاوية الفرشاة الجافة : ≤ 20 °", "حجم الجسم * ( بدون فرشاة ) : 650 * 560 * 250mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 23.85kg" ],
+      "capabilities" : "PhiCleaner™ E37H هو أول زاوية عالية المحمولة فرشاة التنظيف الجاف روبوت متكامل ، المتخصصة في بناء \" أقصى قدر من الكفاءة بين الإنسان والحاسوب التعاون الحد الأدنى من وحدة \" ، يمكن بسهولة تحقيق اثنين من الناس في وقت واحد تشغيل خمس معدات ، ثماني ساعات 5mw تنظيف عبء العمل ، ولكن أيضا لتحقيق العمل الليلي ، وضمان محطة توليد الكهرباء التسرع في توليد الكهرباء . مصممة خصيصا من أجل مركزية الأرض محطة توليد الكهرباء . هذا هو منتج تاريخي لإيجاد أفضل حل التنظيف على نطاق واسع الأرض مركزية لتوليد الطاقة .",
+      "shape" : {
+        "bodyWeightWithoutRoller" : "25.75kg",
+        "rollerWaterCombination" : "نوع ب",
+        "rollerWeightDetachable" : "نوع ب",
+        "bodySizeWithoutRoller" : "650*560*250mm",
+        "rollerLength" : "نوع ب"
+      },
+      "introduce" : "3 سلسلة زاوية عالية الطاقة",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 3 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 650m ²/ مدة الشحن 3 ساعات ، 3 ساعات ، وغسل المياه زاوية ≤ 15 درجة ، فرشاة جافة زاوية ≤ 20 درجة حجم الجسم ( باستثناء فرشاة المتداول ) 585 * 560 * 250 ملم ، وزن الجسم ( باستثناء فرشاة المتداول ) 23.85kg",
+      "productVersion" : "كوبه 37 ه",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤10mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "أقل من 10 أمتار في الصين",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "520178",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-20 ° / غسل 0-15 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "20°",
+        "wetPVPanelAngle" : "15°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 62 ~ 74 كم / ساعة الرياح القوية / غسل 29 ~ 38 كم / ساعة الرياح القوية واضحة"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥650",
+        "dustAccumulation" : "≥95%",
+        "dryBirdDroppings" : "≥85%",
+        "buoyancy" : "≥99%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "قادر",
+        "maxControllablePerPerson" : "محطة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "دورة في الدقيقة",
+        "droneDeployment" : "قادر",
+        "additionalRFRemoteController" : "قادر",
+        "resumeAfterPowerLoss" : "قادر"
+      },
+      "Nickname" : "تنظيف الهيمنة ، عاصفة رملية"
+    },
+    "standardParameters" : {
+      "specs" : {
+        "DustWaterProtectionLevel" : "الغبار للماء الصف",
+        "PVPanelAngle" : "وحدة الكهروضوئية زاوية",
+        "EnvironmentalTemperature" : "درجة الحرارة المحيطة",
+        "PVModuleHeightDifference" : "وحدة الكهروضوئية الربط فرق الارتفاع",
+        "Rainfall" : "الأمطار",
+        "PVModuleSpacing" : "وحدة الضوئية الربط الفاصلة",
+        "dryPVPanelAngle" : "فرشاة جافة الكهروضوئية وحدة الميل",
+        "wetPVPanelAngle" : "تراجع زاوية وحدة الكهروضوئية",
+        "PVModuleSurfaceTemperature" : "درجة حرارة سطح الخلية الضوئية",
+        "WindForce" : "طاقة الرياح"
+      },
+      "title" : "المعلمات التقليدية"
+    },
+    "abilityToClean" : {
+      "specs" : {
+        "cleaningEfficiency" : "كفاءة التنظيف ( متر مربع / ساعة )",
+        "dustAccumulation" : "تراكم الغبار ( التصاق ≤ 10 ^ - 4 ن )",
+        "dryBirdDroppings" : "روث الطيور الجافة ( التصاق ≤ 10 ^ - 2 ن )",
+        "buoyancy" : "تعويم ( التصاق ≤ 10 ^ - 6 ن )"
+      },
+      "title" : "القدرة على التنظيف"
+    },
+    "Kwun-π1" : {
+      "productDescList" : [ "كفاءة التنظيف ( متر مربع / ساعة ) : أكثر من 200 متر ²/ ح ?", "مدة الرحلة : 5 ساعات", "وقت الشحن : 3 ساعات", "غسل زاوية : ≤ 10 °", "زاوية الفرشاة الجافة : ≤ 15 °", "حجم الجسم * ( بدون فرشاة ) : 550 * 390 * 230mm", "وزن الجسم * ( بدون فرشاة المتداول ) : 14.15kg" ],
+      "capabilities" : "كوون ® بيون 1 هو نوع من التنظيف المحمولة الروبوت مع انخفاض زاوية تنظيف فرشاة جافة على طول الحافة السفلى من تنظيف مكونات خاصة ، وتوفير المزيد من الموارد ، وإزالة الطين حزام على طول الحافة السفلى ، هو مزيج مثالي من الاقتصاد والقدرة على التكيف من عبقرية التصميم . يمكن أن تكون جنبا إلى جنب مع الطائرات بدون طيار على الجبال العالية والمنحدرات والشواطئ الخطرة لإكمال المهمة المستحيلة . تلتزم القيم من الحشرات الغريبة - السعي إلى كسر الروتين برنامج عملي .",
+      "shape" : {
+        "rollerBrushLength" : "641*180*130mm",
+        "bodyWeightWithoutRoller" : "14.15kg",
+        "rollerWeightDetachable" : "و نوع 3kg و 2.5kg",
+        "rollerBrushesNumber" : "ص",
+        "bodySizeWithoutRoller" : "550*390*230mm"
+      },
+      "introduce" : "زاوية صغيرة أسفل حافة غسل",
+      "lifeAndEndurance" : {
+        "designLife" : "سنة",
+        "warrantyPeriod" : "1 سنة أو 2400 ساعة ( أيهما يأتي أولا )",
+        "chargingTime" : "ح",
+        "enduranceTime" : "ح",
+        "batteryCapacity" : "15Ah",
+        "8HourEnduranceMethod" : "استبدال البطارية كل 5 ساعات"
+      },
+      "technology" : {
+        "visionNavigation" : "على أساس vslam الزجاج ® تكنولوجيا الملاحة البصرية",
+        "aiPlatform" : "على أساس ai-kun منصة التشغيل",
+        "pathPlanning" : "على أساس غودزن ® تقنية تخطيط المسار",
+        "otaPlatform" : "على أساس ota-kun منصة التشغيل",
+        "operatingSystem" : "نظام التشغيل على أساس تيانيونوس"
+      },
+      "productDesc" : "كفاءة التنظيف ≥ 200 م ²/ ح | مدة الرحلة 5 ساعات ، وقت الشحن 3 ساعات | غسل زاوية ≤ 5 ° ≤ 10 ° | فرشاة جافة حجم الجسم ( لا تحتوي على فرشاة المتداول ) 550 * 390 * 230 ملم ، وزن الجسم ( لا تحتوي على فرشاة المتداول ) 14.15kg",
+      "productVersion" : "كوون ®- بي",
+      "security" : {
+        "fallProtection" : "",
+        "antiSlip" : "",
+        "seamlessSafety" : "بعدين الكراك التوثيق",
+        "positioningAccuracy" : "≤20mm",
+        "positioningMethod" : "منظمة العفو الدولية البصرية الدلالي",
+        "antiTheftLocationTerminal" : "لا",
+        "protectionLevel" : "آي بي 65",
+        "operationModes" : "العمل المستقل ، الهاتف المحمول إدارة التطبيق",
+        "steeringDirection" : "عالية الدقة آلة التوجيه الامتزاز"
+      },
+      "turningMethod" : "مستقل",
+      "price" : "106666",
+      "standardParameters" : {
+        "DustWaterProtectionLevel" : "آي بي 65",
+        "PVPanelAngle" : "فرشاة جافة 0-10 ° / غسل 0-5 °",
+        "EnvironmentalTemperature" : "فرشاة جافة - 20-50 ℃ / 0-50 ℃ غسل",
+        "PVModuleHeightDifference" : "فرشاة جافة 30mm / غسل 25mm",
+        "Rainfall" : "تحتاج إلى تلبية الغسيل الميل",
+        "PVModuleSpacing" : "40mm",
+        "dryPVPanelAngle" : "10°",
+        "wetPVPanelAngle" : "5°",
+        "PVModuleSurfaceTemperature" : "فرشاة جافة - 20 ～ 80 ℃ / 0 ～ 80 ℃ غسل",
+        "WindForce" : "فرشاة جافة 39 ~ 49 كم / ساعة مع رياح قوية / 20 ~ 28 كم / ساعة مع مياه الغسيل والرياح"
+      },
+      "abilityToClean" : {
+        "cleaningEfficiency" : "≥200",
+        "dustAccumulation" : "≥80%",
+        "dryBirdDroppings" : "≥70%",
+        "buoyancy" : "≥85%"
+      },
+      "manipulation" : {
+        "adjustBrushSpeed" : "قادر",
+        "unmannedOperationOnRamps" : "قادر",
+        "remoteControl" : "قادر",
+        "suggestedMaxControllableOnSlopes" : "طاولة",
+        "suggestedMaxControllableOnRoofs" : "طاولة",
+        "nightOperation" : "لا .",
+        "maxControllablePerPerson" : "طاولة",
+        "realTimeLogView" : "قادر",
+        "softwareMaintenanceUpgrade" : "أوتا ترقية",
+        "ratedBrushSpeed" : "180 دورة في الدقيقة",
+        "droneDeployment" : "لا .",
+        "additionalRFRemoteController" : "لا .",
+        "resumeAfterPowerLoss" : "لا ."
+      },
+      "Nickname" : "تنظيف غريب"
+    }
+  },
+  "appIntro" : {
+    "downloadAppDesc08" : "منظمة العفو الدولية - كون التطبيق يستخدم أسلوب إدارة ملزمة الحساب .",
+    "downloadAppDesc09" : "إدارة المعدات بسيطة وواضحة ، فهم دينامية المعدات في أي وقت وفي أي مكان ،",
+    "downloadApp" : "تحميل منظمة العفو الدولية - كون التطبيق ، وفتح حقبة جديدة من التنظيف الذكي",
+    "downloadAppDesc06" : "أقصى قدر من التغطية الفورية تجربة التنظيف",
+    "downloadAppDesc07" : "بسيطة وواضحة ، ملزمة إدارة الحساب",
+    "downloadAppDesc04" : "استخدام جهاز التحكم عن بعد واسطة ، والسيطرة على Kwun ® تنظيف مجاني ® سحر لانهائي .",
+    "downloadAppDesc05" : "كوون ® سوف يطيع الأوامر الخاصة بك تماما ،",
+    "downloadAppDesc02" : "منظمة العفو الدولية - كون التطبيق يستخدم اتصال الشبكة ، بغض النظر عن أين أنت ، يمكنك بسهولة ® إجراء العملية . نظيفة تماما 100 ٪ تغطية كاملة ، كل بوصة من زاوية يمكن أن تكون جميلة جدا ، من الآن فصاعدا ، وداع معقدة ، احتضان فعالة للغاية .",
+    "downloadAppDesc03" : "التكيف مع القلب ، والتمتع متعة التحكم عن بعد ، 100 ٪ تغطية كاملة",
+    "downloadAppDesc01" : "اختراق الحد الأقصى للمسافة ، التطبيق العالمي للتحكم عن بعد ، في متناول اليد",
+    "downloadAppDesc10" : "ضمان سهولة الاستخدام والراحة ."
+  },
+  "purchaseNow" : "شراء على الفور",
+  "nav.news" : "صناعة البصيرة",
+  "productSellPrice" : "من { السعر }",
+  "Kwun-B37L" : "كوبول",
+  "Kwun-B33H" : "كوبعه",
+  "Kwun-B33F" : "كبوع ع اف",
+  "Kwun-B37H" : "كوبه 37 ه",
+  "nav.service" : "الخدمات والدعم",
+  "kwun" : {
+    "PVQualityAdvocate" : "الكهروضوئية دعاة الجودة النظيفة",
+    "findTheRightKwunForYou" : "أنا لا أعرف أي كون ® أفضل بالنسبة لك ؟",
+    "highEnergyHighEfficiency" : "عالية الكفاءة",
+    "whichKwunIsRightForYou" : "أي كون ® مناسب لك ؟",
+    "accessories" : "إكسسوارات",
+    "serviceAndSupport" : "الخدمات والدعم",
+    "excellentCleaningEffect" : "تأثير التنظيف جيدة",
+    "quizToCompareParametersAndFindRightKwun" : "جعل اختبار لمعرفة ما إذا كان يمكنك العثور على أفضل Kwun المعلمات ®。",
+    "customizableOptions" : "تغيير",
+    "remoteControlCubeBatteryAndMoreAccessories" : "التحكم عن بعد ، مكعب الماء ، والبطاريات ، وأكثر من ذلك",
+    "solutionForDifferentPowerStations" : "إذا كان سقف تجاري ، العائمة محطة توليد الكهرباء ، أو كومة عالية محطة توليد الكهرباء ، وهناك دائما ® تناسب لك",
+    "exploreMore" : "استكشاف المزيد",
+    "extendedFunction" : "كوون ® توسيع وظيفة",
+    "newArrivals" : "التوصية الجديدة",
+    "highStandardCleaningQuality" : "عالية الجودة القياسية التنظيف مع المكبر",
+    "productSupport" : "دعم المنتج",
+    "viewFullComparison" : "عرض كامل على النقيض",
+    "quickView" : "لمحة عامة",
+    "takeTheTest" : "قياس",
+    "aftersalesSupport" : "الحصول على خدمة ما بعد البيع الرسمية ، خدمة العملاء على الانترنت بالنسبة لك للرد على الأسئلة",
+    "greatValueForMoney" : "ارتفاع نسبة الجنس إلى السعر",
+    "downloadOfficialSoftwareAndManuals" : "تحميل البرامج الرسمية ، والتطبيقات ، وصف المنتج"
+  },
+  "pages.home" : "ك ف",
+  "Kwun-π1" : "بي",
+  "aboutUs" : {
+    "milestoneList" : [ {
+      "label" : "28 يونيو 2018",
+      "content" : "إنشاء شركة علة غريبة"
+    }, {
+      "label" : "12 أغسطس 2019",
+      "content" : "الأولى في العالم البصرية لتحديد المواقع الروبوت المحمول الكهروضوئية مستقلة تماما"
+    }, {
+      "label" : "21 سبتمبر 2019",
+      "content" : "نفيديا في العالم ®  جيتسون نانو ® زجاج سقف مسطح مستقل الروبوت المتحرك"
+    }, {
+      "label" : "ديسمبر 3 , 2019",
+      "content" : "نفيديا في العالم ®  جتسون آکس زایر ® زجاج سقف مائل مستقل الروبوت المتحرك"
+    }, {
+      "label" : "20 شباط / فبراير 2020",
+      "content" : "نفيديا في العالم ®  جتسون آکس زایر ® ظهور الروبوت المتحرك مستقلة مع 3 - رؤية العين واجهة الزجاج على أساس"
+    }, {
+      "label" : "31 أيار / مايو 2020",
+      "content" : "حشرة غريبة أول ظهور لاستقبال نائب عمدة شنتشن ني شين بينغ زيارة"
+    }, {
+      "label" : "15 تشرين الأول / أكتوبر 2020",
+      "content" : "رئيس بلدية شنتشن زيارة غريبة الحشرات المحدودة"
+    }, {
+      "label" : "22 شباط / فبراير 2021",
+      "content" : "علة غريبة طلبات براءات الاختراع أكثر من 170"
+    }, {
+      "label" : "6 تشرين الثاني / نوفمبر 2021",
+      "content" : "دودة غريبة أول قطعة من المنتجات ®  b30m \" الإنتاج الضخم"
+    }, {
+      "label" : "19 كانون الأول / ديسمبر 2021",
+      "content" : "علة غريبة لتحقيق أول مبيعات"
+    }, {
+      "label" : "11 تموز / يوليه 2022",
+      "content" : "دودة غريبة ® سلسلة من المنتجات الانتهاء من أول 100 وحدة للبيع"
+    }, {
+      "label" : "16 آب / أغسطس 2022",
+      "content" : "رئيس الوزراء لي كه تشيانغ يتفقد الحشرات الغريبة"
+    }, {
+      "label" : "29 أيلول / سبتمبر 2022",
+      "content" : "غريب الحشرات \" الوطنية مرحبا التكنولوجيا المشاريع \" شهادة"
+    }, {
+      "label" : "13 تشرين الأول / أكتوبر 2022",
+      "content" : "دودة غريبة ® سلسلة من المنتجات الانتهاء من أول 100 وحدة المبيعات في الخارج"
+    }, {
+      "label" : "18 شباط / فبراير 2023",
+      "content" : "نقل موقع جديد في موقع غريب غريب الحشرات الحشرات ، والهندسة ، والإنتاج والمبيعات وغيرها من الإدارات في المكتب المشترك ."
+    }, {
+      "label" : "12 آذار / مارس 2023",
+      "content" : "كوون ® إجمالي الطاقة النظيفة في جميع أنحاء العالم تصل إلى الجيل الثالث 3g واط ، والتي يمكن استرداد 50 مليون كيلووات / ساعة من فقدان الطاقة في كل سنة من 3 مرات في السنة ، أي ما يعادل 1.5 أسرة ألمانية في السنة ."
+    }, {
+      "label" : "24 أيار / مايو 2023",
+      "content" : "حشرة غريبة شاركت الشركة في معرض snec للمرة الأولى ، على الفور مبلغ الصفقة يتجاوز 5 ملايين يوان ."
+    }, {
+      "label" : "18 تموز / يوليه 2023",
+      "content" : "غريب الحشرات و الصين مجموعة السيارات إلى التعاون الاستراتيجي في الصين تشوهاى قاعدة الاستثمار في بناء قاعدة الانتاج الثاني غريب الحشرات ، وزيادة توسيع القدرات ."
+    } ],
+    "aboutUs" : "عن الحشرات الغريبة",
+    "vision" : "رؤى",
+    "ReverenceForNature" : "الخوف من الطبيعة ، العلم ، الحقيقة",
+    "valuesVision" : "القيم والرؤى",
+    "InnovativeTechnology" : "استخدام التكنولوجيا المبتكرة لاستقبال مستقبل مشرق تكنولوجيا الفضاء الرابعة . . . . . . .",
+    "values" : "القيم",
+    "milestones" : "الأحداث",
+    "introduction" : "دودة غريبة",
+    "Global" : [ {
+      "localeName" : "سياتل - الولايات المتحدة الأمريكية"
+    }, {
+      "localeName" : "ميونخ - المانيا"
+    }, {
+      "localeName" : "شنتشن الصين"
+    }, {
+      "localeName" : "طوكيو - اليابان"
+    } ],
+    "GlobalPresence" : "التوزيع العالمي",
+    "desc" : {
+      "desc1" : "شنتشن Kwunphi المحدودة ، التي أنشئت في 2018 ، هي مؤسسة وطنية مرحبا التكنولوجيا التي أنشأتها رؤية الجهاز وفريق من الخبراء القيادة التلقائية .",
+      "desc2" : "دودة غريبة أول المنتجات التجارية - كوان ®， هو العالم ' ق أول وحدة الكهروضوئية التنظيف الذاتي الروبوت القائم على الرؤية لتحديد المواقع ، منذ إنشائها ، مع السلامة ، متعدد المشهد ، والاقتصاد ، والاستخبارات ، والراحة ، تأثير التنظيف جيدة ، وتحسين الطاقة الكهربائية بشكل ملحوظ ، كما هو معروف في المستقبل الكهروضوئية تنظيف الرواد . الآن وقد تم على نطاق واسع في أكثر من 40 بلدا .",
+      "desc3" : "الحشرات الغريبة هي \" دعاة \" جودة التنظيف الضوئية ® المخترع هو \" مكتشف \" مفتاح الثروة المستدامة الضوئية التنظيف .",
+      "desc4" : "كل ثلاثة من الموظفين لديها رؤية الجهاز أو محرك الأقراص التلقائي مهندس . من الأصل الحائط الساتر تكنولوجيا التحكم في الحركة ، من الأصل الحائط الساتر تكنولوجيا التحكم في الحركة ® فريق نظام الإدارة المهنية ، ثم تطبيق الصناعة . . . غريب الحشرات المهندسين لا ننسى أن الحصاد المبكر من المنتجات الرائدة ، تظهر شجاعة كبيرة \" غريب الحشرات القتال \" روح ."
+    }
+  },
+  "pvModule" : {
+    "type" : {
+      "HALF" : "نصف قطعة",
+      "ONE_THIRD" : "ثلاثة قطعة",
+      "FULL" : "فيلم كامل"
+    }
+  },
+  "myrobot" : {
+    "myrobot" : "بلدي علة غريبة",
+    "KwunPhi-Support" : "kwunfhi الدعم",
+    "QueryServices" : "مرحبا بكم في kwunfhi Kwunphi خدمة الاستعلام",
+    "MachineSerialNumber" : "الرجاء إدخال رقم مسلسل الجهاز"
+  },
+  "Kwun-B12T" : "ك wb12t",
+  "certificate" : {
+    "all" : "كامل",
+    "certificate" : "شهادة المنتج",
+    "label" : {
+      "RED" : "ريد التوثيق",
+      "LowTemp" : "الكشف عن درجة حرارة منخفضة",
+      "HighTemp" : "الكشف عن درجة حرارة عالية",
+      "Microcrack" : "شهادة ضمنية",
+      "IP65" : "شهادة ip65",
+      "FCC" : "شهادة لجنة الاتصالات الفدرالية",
+      "TransportBySea" : "التفتيش البحري",
+      "LVD" : "شهادة lvd",
+      "RoHS" : "شهادة بنفايات",
+      "AirTransport" : "التفتيش الجوي"
+    }
+  },
+  "video" : {
+    "videoList" : [ {
+      "videoList" : [ {
+        "desc" : "كوون ® العملية برمتها من العمل ( 10 دقائق و 49 ثانية )"
+      }, {
+        "desc" : "التنظيف الذاتي من الشاطئ محطة توليد الكهرباء"
+      }, {
+        "desc" : "التنظيف الذاتي من الأراضي الزراعية محطة توليد الكهرباء"
+      }, {
+        "desc" : "ون مان تو كوان ®"
+      } ],
+      "title" : "مسلسل"
+    }, {
+      "videoList" : [ {
+        "desc" : "آمنة وفعالة"
+      }, {
+        "desc" : "زاوية كبيرة ، تتحرك بسرعة"
+      }, {
+        "desc" : "sctcd ( في الوقت الحقيقي تصحيح الانحراف ) ®"
+      }, {
+        "desc" : "كفاءة عالية ومريحة"
+      } ],
+      "title" : "مسلسل"
+    }, {
+      "videoList" : [ {
+        "desc" : "كفاءة عالية ومريحة وآمنة ونظيفة"
+      }, {
+        "desc" : "مستقلة تماما ، لا تحتاج إلى مراقبة الموظفين"
+      }, {
+        "desc" : "مستقلة تماما ، ip65 مستوى الحماية"
+      }, {
+        "desc" : "زاوية كبيرة ، تتحرك بسرعة"
+      } ],
+      "title" : "مسلسل"
+    }, {
+      "videoList" : [ {
+        "desc" : "عالية الدقة والاستقرار عالية ؛ آمنة وفعالة تغطية كاملة"
+      }, {
+        "desc" : "فريدة من نوعها تكنولوجيا تنظيف الحدود acfsp ®"
+      }, {
+        "desc" : "b10x : Kwun متعددة ® تتبع التكنولوجيا التفاعلية"
+      }, {
+        "desc" : "b30x : تصور غير متجانسة ، وتقنيات التخطيط"
+      }, {
+        "desc" : "b20x : زاوية كبيرة الامتزاز ، وسرعة نقل التكنولوجيا"
+      }, {
+        "desc" : "b30x : النطاق العريض تكنولوجيا الطاقة"
+      } ],
+      "title" : "التكنولوجيا المتقدمة"
+    } ]
+  },
+  "Kwun-B32L" : "كوب 32 ل",
+  "kwunCare" : {
+    "condition1" : "المظهر الخارجي والداخلي أجزاء سليمة ، دون تعديل ، تفكيك ، فتح ، وما إلى ذلك ، دون أي ضرر بشري",
+    "condition2" : "مجموع تكاليف الصيانة في غضون 25 ٪ من سعر السوق .",
+    "ReplacementPlan" : "وقد تم إضافة برنامج تبادل سريع للغاية ، ويمكن للمستخدمين التمتع خدمة تبادل سريع للغاية",
+    "MachinePurchaseNotYetOneYearOld" : "آلة شراء أقل من سنة",
+    "condition7" : "إذا كنت غير قادر على الاتصال مهندس تقني غريب الحشرات قبل خدمة ما بعد البيع ، يرجى الاتصال على الخط الساخن خدمة العملاء على مدار 24 ساعة",
+    "condition3" : "إذا كان الجهاز الخاص بك يلبي الشروط المذكورة أعلاه ، يمكنك التمتع المقابلة فرصة جديدة في الوقت المحدد ، مما يتيح لك تجربة استخدام أكثر دواما وذات جودة عالية .",
+    "condition4" : "سرعة تغيير الخطة : بعد شراء Kwun ، يمكن للمستخدمين شراء خدمة جديدة بسرعة ، سرعة تغيير الخدمة الجديدة تحتوي على فرصة جديدة ، كل خدمة لمدة سنة واحدة .",
+    "condition5" : "انقر على الزر أدناه للحصول على بلدي تاريخ الخدمة",
+    "condition6" : "خدمة بلدي"
+  },
+  "Kwun-B32H" : "كوب 32 ه",
+  "liveFirstAid" : {
+    "condition1" : "بث مباشر عملية الإسعافات الأولية",
+    "condition2" : "نحن نأخذ إستجابة سريعة ومحترفة بعيد توجيه بما أنّ لب , أن يزوّد أنت مع فعّالة [ أفتر - سلس سرفيس ] .",
+    "condition7" : "اتّصل بنا : اتّصل بنا على الفور مع نا [ أفتر - سلس سرفيس ] قسم لأنّ أيّ مشكلة في إستعمال .",
+    "condition10" : "مشكلة الاتصال : لدينا فريق خدمة ما بعد البيع سوف تحصل على اتصال معكم بسرعة ، فهم المشكلة بالتفصيل وتقديم الحلول .",
+    "condition8" : "اتصل على الخط الساخن بعد البيع",
+    "condition11" : "التوجيه عن بعد : حسب تعقيد المشكلة ، ونحن سوف توفر الهاتف ، برامج الدردشة ، والرسومات ، أو اتصال الفيديو وغيرها من الوسائل المهنية التوجيه عن بعد .",
+    "condition9" : "برامج الدردشة على الانترنت الاتصال : مساعد ما بعد البيع إشارة صغيرة",
+    "condition3" : "خدمة الهاتف : الاتصال لدينا خدمة ما بعد البيع الخط الساخن في أي وقت ، مع الموظفين المهنية والتقنية لإجراء تبادل مباشر والتشاور .",
+    "condition4" : "برامج المراسلة والرسومات الخدمات : من خلال برامج المراسلة الفورية مع فريق ما بعد البيع لتبادل المعلومات والرسومات ، مريحة وسريعة",
+    "condition5" : "خدمة توصيل الفيديو : نحن نقدم خدمة توصيل الفيديو لضمان الاتصال في الوقت الحقيقي والتوجيه بشأن المسائل المعقدة .",
+    "condition12" : "لدينا فريق ما بعد البيع سوف توفر لك مع خدمات عالية الجودة ، لضمان أن المعدات الخاصة بك دائما تعمل بكفاءة ، في أي وقت لمواجهة التحديات المختلفة .",
+    "FirstAid" : "بث الإسعافات الأولية",
+    "condition6" : "عملية تطبيق العميل"
+  },
+  "common" : {
+    "SettlePurchase" : "تبدأ في شراء",
+    "buyIcon" : "ن",
+    "video" : "فيديو : .",
+    "orMore" : "لعب",
+    "picture" : "صور"
+  },
+  "downloads" : {
+    "menuList" : [ {
+      "subMenu" : [ {
+        "name" : "كون - اب",
+        "content" : {
+          "downLoad" : [ {
+            "explain" : "تحتاج دائرة الرقابة الداخلية 12 أو في وقت لاحق .",
+            "title" : "ابل داونلود",
+            "version" : "1.9.20230528"
+          }, {
+            "explain" : "تحتاج الروبوت 8.0 أو في وقت لاحق",
+            "title" : "اندرو داونلود",
+            "version" : "1.9.20230526"
+          } ],
+          "name" : "اي كون",
+          "desc" : "منظمة العفو الدولية - كون هو تطبيق إنترنت الأشياء على الروبوت - كون . يمكن للمستخدم عرض قائمة الأجهزة الملزمة في التطبيق ، تعيين مدير الجهاز ، وإدارة الجهاز ، في الوقت الحقيقي أجهزة الاستشعار على الخط وخارج الخط ، عرض حالة الجهاز ، سجل العمل ، الروك في الوقت الحقيقي معدات التحكم ، عرض تعليمات التشغيل ، وهلم جرا ."
+        }
+      } ],
+      "title" : "تحميل التطبيق"
+    }, {
+      "subMenu" : [ {
+        "name" : "الاحتياطات قبل استخدام المنتج",
+        "content" : {
+          "resource" : [ {
+            "name" : "الاحتياطات قبل استخدام المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/beforeuse/%E5%A0%92%C2%AE%20%E4%BA%A7%E5%93%81%E4%BD%BF%E7%94%A8%E5%89%8D%E9%A1%BB%E7%9F%A5.pdf"
+          } ],
+          "name" : "الاحتياطات قبل استخدام المنتج",
+          "desc" : "الاحتياطات قبل استخدام المنتج يمكن أن تساعد المستخدمين على فهم طريقة التشغيل الآمن و الاحتياطات بشكل صحيح ، والحد من المخاطر الأمنية الناجمة عن خطأ في استخدام المنتج . فائدة نموذج فعال يمكن تجنب الحوادث التي تحدث أثناء استخدام المنتج من قبل المستخدمين ، وبالتالي ضمان سلامة المستخدمين ."
+        }
+      } ],
+      "title" : "الاحتياطات قبل استخدام المنتج"
+    }, {
+      "subMenu" : [ {
+        "name" : "مواصفات المنتج",
+        "content" : {
+          "downLoad" : [ ],
+          "resource" : [ {
+            "name" : "PhiCleaner™ E33H - مواصفات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B33H-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "PhiCleaner™ E32H - مواصفات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B32H-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "PhiCleaner™ E32L - مواصفات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B32L-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22H - مواصفات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B22H-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22L - مواصفات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B22L-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          }, {
+            "name" : "PhiCleaner™ E11L - مواصفات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi/files/specification/Kwun-B11L-%E4%BF%A1%E6%81%AF%E5%8D%95%E9%A1%B5.pdf"
+          } ],
+          "supportedModels" : [ ],
+          "name" : "مواصفات المنتج",
+          "desc" : "مواصفات المنتج يوفر معلومات شاملة عن المنتج والتوجيه لمساعدة المستخدمين على استخدام المنتج بشكل صحيح ، وحل المشاكل في عملية الاستخدام ، وتعزيز تجربة المستخدم والارتياح . من خلال المواصفات ، يمكن للمستخدمين معرفة وظائف المنتج ، ومؤشرات الأداء والمواصفات الفنية وغيرها من المعلومات ، وتجنب الأخطاء العملية وضمان الاستخدام الآمن . وفي الوقت نفسه ، مواصفات يوفر أيضا معلومات مقارنة بين مختلف المنتجات ، والتي هي مريحة للمستخدمين لاختيار . أثناء الاستخدام ، أسئلة وأجوبة في المواصفات يمكن أن تساعد المستخدمين على حل الألغاز بسرعة . وبالإضافة إلى ذلك ، عادة ما تحتوي على مواصفات المنتج دليل الصيانة والصيانة لمساعدة المستخدمين على إطالة عمر المنتج والحفاظ على الأداء . وفيما يتعلق بعقود الشراء ، قد تكون المواصفات أيضا جزءا من حماية مصالح المستعملين ، مثل إعادة البضائع أو المطالبة بالتعويض عنها ."
+        }
+      } ],
+      "title" : "مواصفات المنتج تعليمات تحميل"
+    }, {
+      "subMenu" : [ {
+        "name" : "أول استخدام المبادئ التوجيهية السريعة",
+        "content" : {
+          "resource" : [ {
+            "name" : "PhiCleaner™ E33H - أول استخدام المبادئ التوجيهية السريعة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B33H-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95pdf"
+          }, {
+            "name" : "PhiCleaner™ E32H - أول استخدام المبادئ التوجيهية السريعة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B32H-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "PhiCleaner™ E32L - أول استخدام المبادئ التوجيهية السريعة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B32L-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22H - أول استخدام المبادئ التوجيهية السريعة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B22H-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22L - أول استخدام المبادئ التوجيهية السريعة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B22L-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          }, {
+            "name" : "PhiCleaner™ E11L - أول استخدام المبادئ التوجيهية السريعة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/guide/%E5%A0%92%C2%AE%20B11L-%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E5%BF%AB%E9%80%9F%E6%8C%87%E5%BC%95.pdf"
+          } ],
+          "name" : "أول استخدام المبادئ التوجيهية السريعة",
+          "desc" : "بعض المنتجات قد تنطوي على أحكام قانونية محددة و عمليات آمنة ، المنتج السريع المبادئ التوجيهية يمكن أن تستخدم لتذكير المستخدمين على الامتثال للوائح ذات الصلة ، وإيلاء الاهتمام إلى استخدام المنتج المسائل الأمنية ."
+        }
+      } ],
+      "title" : "دليل سريع على استخدام المنتج"
+    }, {
+      "subMenu" : [ {
+        "name" : "تعليمات المنتج",
+        "content" : {
+          "resource" : [ {
+            "name" : "PhiCleaner™ E33H - تعليمات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B33H-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "PhiCleaner™ E32H - تعليمات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B32H-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "PhiCleaner™ E32L - تعليمات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B32L-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22H - تعليمات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B22H-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "PhiCleaner™ E22L - تعليمات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B22L-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          }, {
+            "name" : "PhiCleaner™ E11L - تعليمات المنتج",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/manual/%E5%A0%92%C2%AE%20B11L-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf"
+          } ],
+          "name" : "تعليمات المنتج",
+          "desc" : "تعليمات التشغيل : تعليمات المنتج يوفر تعليمات مفصلة وإجراءات لمساعدة العملاء على استخدام المنتج بشكل صحيح . وهو ما يفسر وظائف مختلفة من المنتجات والإعدادات ، بحيث يمكن للعملاء بسرعة وبدء إعطاء دور كامل أداء المنتج . سؤال وجواب : التعليمات عادة ما تحتوي على أسئلة وأجوبة ، واستكشاف الأخطاء وإصلاحها المبادئ التوجيهية ، عندما يكون العميل لديه مشاكل في استخدام المنتج ، يمكنك الرجوع إلى التعليمات من أجل حل الشكوك ، وتجنب المشاكل غير الضرورية . تحذير : تعليمات المنتج عادة ما تحتوي على تحذيرات السلامة التي تساعد العملاء على فهم المخاطر المحتملة وتجنب الحوادث الناجمة عن سوء استخدام المنتج . ميزات المنتج والمهارات : تعليمات يمكن أن تصف خصائص فريدة من نوعها من المنتجات وبعض المهارات العملية ، بحيث يمكن للعملاء معرفة المزيد عن تفاصيل المنتج والمزايا ، وبالتالي تحسين تلبية احتياجاتهم . قرار الشراء المرجعية : قبل شراء المنتج ، العميل عادة استشارة المنتج تعليمات الاستخدام ، فهم أداء المنتج ، وظيفة ونطاق التطبيق ، كأساس لاتخاذ القرار ."
+        }
+      }, {
+        "name" : "شبكة الجيل الرابع وحدة apn التكوين",
+        "content" : {
+          "resource" : [ {
+            "name" : "شبكة الجيل الرابع وحدة apn التكوين",
+            "url" : "https://file.kwunphi.com/kwunphi/files/4G%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9D%97APN%E9%85%8D%E7%BD%AE%E8%AF%B4%E6%98%8E%EF%BC%88%E4%B8%AD%E8%8B%B1%E6%96%87%EF%BC%89-v1.1.pdf"
+          } ],
+          "name" : "شبكة الجيل الرابع وحدة apn التكوين",
+          "desc" : "شبكة الجيل الرابع وحدة apn دليل التكوين يوفر بسيطة وواضحة تعليمات الإعداد التي تسمح للعملاء بسهولة تكوين apn ( اسم نقطة الوصول ) للاتصال إلى شبكة الجيل الرابع . وبهذه الطريقة ، يمكن للعملاء لا يكلف نفسه عناء البحث عن طرق الإعداد ، وتوفير الكثير من الوقت والجهد . عندما يكون هناك مشكلة في اتصال الشبكة ، apn مواصفات التكوين يصبح أداة قوية للعملاء لحل المشكلة . فإنه يوفر الحل و طريقة القضاء على الأسئلة الشائعة ، يمكن للعملاء بسرعة حل مشكلة اتصال الشبكة من خلال استشارة التعليمات ."
+        }
+      } ],
+      "title" : "تعليمات المنتج"
+    }, {
+      "subMenu" : [ {
+        "name" : "دليل الصيانة",
+        "content" : {
+          "resource" : [ {
+            "name" : "دليل الصيانة",
+            "url" : "https://file.kwunphi.com/kwunphi4/file/maintenance/%E5%A0%92%C2%AE%20%E4%BF%9D%E5%85%BB%E6%89%8B%E5%86%8C.pdf"
+          } ],
+          "name" : "دليل الصيانة",
+          "desc" : "دليل الصيانة يوفر مبادئ توجيهية مفصلة وتوصيات بشأن صيانة المنتجات لمساعدة المستخدمين على فهم أساليب الصيانة الصحيحة ودورات . من خلال إجراء الصيانة العادية ، وأداء وظيفة المنتج يمكن الحفاظ عليها بشكل فعال ، وبالتالي إطالة عمر خدمة المنتج ."
+        }
+      } ],
+      "title" : "دليل الصيانة"
+    } ]
+  },
+  "design" : {
+    "FiveMajorDesignPrinciples" : "خمسة مبادئ التصميم",
+    "principle" : "مبدأ",
+    "KwunSupports34TypesofPhotovoltaicPanelComponents" : "كوون ® دعم 34 أنواع من وحدات لوحة الضوئية",
+    "principles" : "مبادئ التصميم",
+    "ComprehensiveInformationandExpandedFunctionalityofKwun" : "كوون ® معلومات شاملة وتوسيع وظيفة",
+    "principleList" : [ {
+      "summary" : "أقل من 30 سم ، صيانة عرض القناة",
+      "title" : "عرض القناة"
+    }, {
+      "summary" : "أقل من 1 سم ، ختم الشريط نقطة عالية بعد الجمعية لوحة",
+      "title" : "ختم الشريط بالجو"
+    }, {
+      "summary" : "أقل من 4 سم ، أقصى قدر من التفكك من أعلى إلى أسفل اليسار واليمين من المكونات المجاورة",
+      "title" : "أقصى إزاحة العنصر"
+    }, {
+      "summary" : "50cm الداخلية خالية من العوائق ، الضوئية مجموعة رباعية",
+      "title" : "مجموعة الضوئية"
+    }, {
+      "summary" : "5 * 8cm خالية من العوائق ، مجموعة الضوئية أربعة الجانب السفلي تحديد المنطقة",
+      "title" : "مجموعة من العقبات"
+    } ]
+  },
+  "nav.home" : "الصفحة الرئيسية",
+  "course" : {
+    "LikesCount" : "عدد النقاط",
+    "GlobalCleanCumulative5GWatt" : "التنظيف العالمي التراكمي 5g واط",
+    "PlayCount" : "حجم اللعب",
+    "2023" : "2023",
+    "courseList" : [ {
+      "courseTitle" : "فهم لوحة الضوئية",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "كوون ® دعم المشهد",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "كوون ® الموقف الصحيح",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "مجموعة وظيفة الحد من عدد الصفوف",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "قاعدة واحدة وظيفة",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "لماذا كوون ® يغسل نظيفة",
+      "desc" : "كيفية استخدام كوون ® كسب المال"
+    }, {
+      "courseTitle" : "كيفية فهم الطقس الجيد قبل تنظيف جيد",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "كيفية التعرف على المكونات الضوئية",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    }, {
+      "courseTitle" : "لماذا تشتري كوون ® توفير المال",
+      "desc" : "لماذا تشتري كوون ® توفير المال"
+    }, {
+      "courseTitle" : "لماذا كوون ® يغسل نظيفة",
+      "desc" : "تساعدك على توفير المال ، وجعل الكثير من المال"
+    } ],
+    "CourseTitle" : "عنوان الدورة",
+    "courseInfoList" : [ {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "فهم لوحة الضوئية",
+      "directory" : [ {
+        "duration" : "دقيقة",
+        "title" : "حالة تمهيدية ® كيفية تغيير أجزاء"
+      }, {
+        "duration" : "20 دقيقة",
+        "title" : "حالة تمهيدية ® كيفية تغيير أجزاء"
+      }, {
+        "duration" : "دقيقة",
+        "title" : "حالة تمهيدية ® كيفية تغيير أجزاء"
+      } ],
+      "desc" : "فهم لوحة الضوئية"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "كوون ® دعم المشهد",
+      "directory" : [ ],
+      "desc" : "كوون ® دعم المشهد"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "كوون ® الموقف الصحيح",
+      "directory" : [ ],
+      "desc" : "كوون ® الموقف الصحيح"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "مجموعة وظيفة الحد من عدد الصفوف",
+      "directory" : [ ],
+      "desc" : "مجموعة وظيفة الحد من عدد الصفوف"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "قاعدة واحدة وظيفة",
+      "directory" : [ ],
+      "desc" : "قاعدة واحدة وظيفة"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "لماذا كوون ® يغسل نظيفة",
+      "directory" : [ ],
+      "desc" : "لماذا كوون ® يغسل نظيفة"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "كيفية استخدام كوون بشكل صحيح ®",
+      "directory" : [ ],
+      "desc" : "كيفية استخدام كوون بشكل صحيح ®"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "كيفية التعرف على المكونات الضوئية",
+      "directory" : [ ],
+      "desc" : "كيفية التعرف على المكونات الضوئية"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "لماذا تشتري كوون ® توفير المال",
+      "directory" : [ ],
+      "desc" : "لماذا تشتري كوون ® توفير المال"
+    }, {
+      "comments" : [ {
+        "commentContent" : "الطلاب ، فئة مفتوحة",
+        "userName" : "ك ف"
+      } ],
+      "barrage" : [ {
+        "name" : "Kwunphi حصريا"
+      }, {
+        "name" : "كوونج ® نظيف"
+      } ],
+      "tag" : [ {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      }, {
+        "name" : "صيانة"
+      } ],
+      "title" : "لماذا كوون ® يغسل نظيفة",
+      "directory" : [ ],
+      "desc" : "لماذا كوون ® يغسل نظيفة"
+    } ],
+    "MoreAndMoreYoungTalentsQuietlyLearning" : "نام کوون ® الكنز يتعلم بهدوء ، ثم فاجأ الجميع سرا أكل الكعكة الكبيرة في صناعة الضوئية",
+    "SurpassingAllInPowerGenerationEfficiency" : "اسمحوا الخاص بك كفاءة توليد الطاقة ركوب الغبار",
+    "CourseDescription" : "وصف الدورة",
+    "CourseCover" : "تغطية المنهج",
+    "PowerGenerationCodeOfTheFieldArmy" : "رمز الحقل",
+    "detail" : {
+      "SendBarrage" : "أرسل",
+      "BarrageList" : "قائمة المقذوفات",
+      "comments" : "تعليق .",
+      "Title" : "عنوان",
+      "AlreadyLoaded" : "تم تحميلها",
+      "BarrageContent" : "محتويات المقذوفات",
+      "NumberOfResponses" : "رد",
+      "PlayNext" : "بلاي نكست",
+      "ReleaseTime" : "وقت النشر",
+      "barrageNumber" : "شظايا",
+      "publish" : "صدر",
+      "RecommendedVideos" : "أوصى الفيديو",
+      "ClickToView" : "انقر فوق عرض",
+      "time" : "الوقت .",
+      "PleaseLogInFirst" : "يرجى تسجيل الدخول أولا"
+    },
+    "close" : "غلق",
+    "PopularTutorials" : "دروس شعبية"
+  },
+  "company" : {
+    "Hefei" : {
+      "address" : "غرفة 422 ، بناء 1 ، nanyanhu مركز الابتكار ، سوسانگ الطريق ، منطقة التنمية الاقتصادية والتكنولوجية ، خفى ، وانهوى",
+      "companyName" : "خفى Kwunphi المحدودة"
+    },
+    "Shenzhen" : {
+      "address" : "شنتشن ونغ قانغ منطقة ، مقاطعة قوانغدونغ ، شارع bantian shenao الصناعة الثقافية بارك ، 22",
+      "companyName" : "شنتشن Kwunphi المحدودة"
+    }
+  },
+  "seo" : {
+    "images" : {
+      "kwunComprehensiveInfo" : "روبوت تنظيف الكهروضوئية ورقة معلومات شاملة ® وظيفة",
+      "product" : {
+        "kwun" : "روبوت التنظيف الكهروضوئية مستقلة تماما ، { kwunmodel }"
+      },
+      "powerGeneration" : {
+        "cleaningData" : "سوبر جيل , KwunJ ®。 أسعد كوون ® تنظيف لوحة الكهروضوئية ، إلى حد كبير تحسين كفاءة توليد الطاقة ، والحد من تكاليف التنظيف .",
+        "cleaningPicture" : "سوبر جيل , KwunJ ®。 أسعد كوون ® مقارنة قبل وبعد تنظيف لوحة الضوئية"
+      },
+      "bipvDesignPrinciples" : "روبوت التنظيف الضوئية ®， مبادئ تصميم bipv ،",
+      "sustainableCleaning" : {
+        "laborKwun" : "روبوت التنظيف الضوئية , Kwun ® التنظيف المستدام , people Kwun ® الجمع بين التوصية",
+        "process" : "روبوت التنظيف الضوئية , Kwun ® التنظيف المستدام , Kwun ® عملية التنظيف الجدول",
+        "levelsCostIncrease" : "روبوت التنظيف الضوئية , Kwun ® النظافة المستدامة ، وارتفاع تكلفة العمل و كمية الكهرباء في كل مستوى .",
+        "kwunjVSLabor" : "روبوت التنظيف الضوئية , Kwun ® التنظيف المستدام , Kwun ® مقارنة مع التنظيف اليدوي",
+        "situationEfficiency" : "روبوت التنظيف الضوئية , Kwun ® التنظيف المستدام ، المشهد المتكامل جدول الكفاءة",
+        "cleanliness" : "روبوت التنظيف الضوئية , Kwun ® جدول تصنيف الاستدامة ، تنظيف السطح"
+      },
+      "usage" : {
+        "cleanAsNew" : "روبوت التنظيف الضوئية , Kwun ® القدرة على التنظيف ، نظيفة كما جديدة ، لوحة الكهروضوئية الإطار الطين نظيفة ، نظيفة من دون زاوية ميتة",
+        "lowCost5" : "الكهروضوئية تنظيف الروبوت ، منخفضة التكلفة ، وكفاءة عالية التنظيف ، لا تحتاج إلى تنظيف الخريطة ، بحيرة عائمة محطة الطاقة النظيفة ، الشاطئ العائمة محطة الطاقة النظيفة ، ومسطحات المد والجزر العائمة محطة الطاقة النظيفة",
+        "lowCost4" : "الكهروضوئية تنظيف الروبوت ، منخفضة التكلفة ، وكفاءة عالية التنظيف ، لا تحتاج إلى تنظيف الرسم البياني ، وارتفاع كومة تنظيف محطة الطاقة الضوئية ، ومصائد الأسماك محطة الطاقة الضوئية ، والزراعة محطة الطاقة الضوئية تنظيف ، تنظيف الغابات محطة الطاقة الضوئية ، منحدر محطة الطاقة الضوئية تنظيف",
+        "lowCost3" : "الكهروضوئية تنظيف الروبوت ، منخفضة التكلفة ، وكفاءة عالية التنظيف ، لا تحتاج إلى تنظيف الرسم البياني ، منحدر محطة الطاقة النظيفة",
+        "lowCost2" : "روبوت التنظيف الكهروضوئية ، منخفضة التكلفة ، وكفاءة عالية التنظيف ، لا تحتاج إلى بناء خريطة التنظيف ، تنظيف الأرض محطة الطاقة الكهروضوئية",
+        "lowCost1" : "روبوت التنظيف الكهروضوئية ، منخفضة التكلفة وعالية الكفاءة التنظيف ، التنظيف ، التنظيف لا تحتاج إلى رسم ، الصناعية والتجارية سقف محطة الكهروضوئية التنظيف",
+        "fullyAutonomousCleaning" : "روبوت التنظيف الذاتي الضوئية ® التصور الذاتي ، والتخطيط وصنع القرار",
+        "microcrack1" : "الكهروضوئية تنظيف الروبوت ، سوبر 10000 مرة غير مخفي الكراك ، والسلامة ، قوة عالية جدا ، ودعم العمليات في جميع الأحوال الجوية ، تنظيف محطة الطاقة الكهروضوئية في يوم ممطر",
+        "microcrack2" : "الكهروضوئية تنظيف الروبوت ، سوبر 10000 مرة غير مخفي الكراك ، والسلامة ، قوة عالية جدا ، ودعم العمليات في جميع الأحوال الجوية ، ليلة تنظيف محطة الطاقة الكهروضوئية"
+      },
+      "kwunq" : "روبوت التنظيف الضوئية , Kwun ® حاسبة التكاليف , Kwun ® نموذج حساب التكاليف ® محاكمة التكاليف ® لوحة الكهروضوئية تنظيف حساب التكلفة ، Kwun-q",
+      "contrast" : {
+        "rail" : "روبوت التنظيف الضوئية , Kwun ® مقارنة مع المسار الضوئية التنظيف",
+        "remote" : "روبوت التنظيف الضوئية , Kwun ® مقارنة مع التحكم عن بعد الكهروضوئية تنظيف الروبوت",
+        "labor" : "روبوت التنظيف الضوئية , Kwun ® مقارنة مع التنظيف اليدوي"
+      },
+      "banner" : {
+        "special" : "كوون ® ميزات , نظيفة , مستقلة , اقتصادية , مشتركة , آمنة , ذكي",
+        "leader" : "كفكفون ® دعاة الجودة النظيفة الضوئية",
+        "kwunq" : "الكهروضوئية آلة حاسبة تكاليف التنظيف ® يمكنك حفظ وكسب المزيد من المال عن طريق تشغيل هذه الساعة ."
+      },
+      "kwunAdvantage" : {
+        "advantage5" : "روبوت التنظيف الضوئية , Kwun ® دائما قادرة على دقة تقدير تكلفة الاستخدام الأمثل مقدما ، من السهل على العملاء القيام بعمل جيد في إدارة غرامة",
+        "advantage4" : "روبوت التنظيف الضوئية , Kwun ® فائدة نموذج يمكن استخدامها بشكل جيد ، وتلبية متطلبات العملاء المختلفة ، سقف ، كومة عالية ، العائمة ، الأرض محطة توليد الكهرباء الضوئية هي مناسبة لجميع العمليات في جميع الأحوال الجوية ، ويمكن تنظيفها في النهار ، الليل ، يوم ممطر ، في فصل الشتاء . كوون ® انها آمنة وسهلة التشغيل . كوون ® الكهروضوئية الأنظف",
+        "advantage3" : "روبوت التنظيف الضوئية , use Kwun ® تنظيف يوفر المال ، ويقلل من تكلفة الاستخدام إلى أقصى حد ، ونجحت في تجاوز عتبة التكلفة العالية لتوليد الكهرباء",
+        "advantage2" : "روبوت التنظيف الضوئية , Kwun ® نظيفة جدا ، لا زاوية ميتة نظيفة ، نظيفة من خلال المياه مرة واحدة تصل إلى مستوى scp3",
+        "advantage1" : "روبوت التنظيف الضوئية , Kwun ® تحقيق التنظيف المستدام ، والاستثمار المستدام في طرق لكسب المال ، الطقس الجيد قبل التنظيف ، ولادة سوق نظيفة"
+      }
+    },
+    "pages" : {
+      "myrobot" : {
+        "keywords" : "Kwunphi ، مستقلة تماما الكهروضوئية تنظيف الروبوت ، روبوت مستقل تماما الكهروضوئية تنظيف الجدار موبايل تنظيف الروبوت ، الكهروضوئية لوحة التنظيف المستدام ، الكهروضوئية لوحة حافة الطين تنظيف التكنولوجيا ، وانخفاض تكلفة التنظيف",
+        "description" : "شنتشن Kwunphi . Kwun هو روبوت التنظيف الكهروضوئية مع الاستشعار عن بعد لتحديد المواقع واتخاذ القرارات . عالية التعميم متعدد المشهد تقاسم ، وخفض التكاليف ؛ الحد من الموظفين والعمل . تأثير أفضل من التنظيف اليدوي . الكفيل ، محطة الطاقة الضوئية ، ومعدات السلامة",
+        "title" : "بلدي علة غريبة - استفسار عن آلة الضمان"
+      },
+      "optimal" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، واختيار الأمثل ، واختيار أفضل تكلفة ، الكهروضوئية تنظيف حساب التكلفة ، الكهروضوئية لوحة تنظيف حساب التكلفة",
+        "description" : "تسهيل استخدام حساب العملاء ® تقدير التكاليف على أساس النشاط ® حساب القيمة الاقتصادية لكل نموذج المنتج في مختلف ® تكلفة التنظيف لكل ميغاواط في إطار مختلف حجم التنظيف"
+      },
+      "bipvDesignPrinciples" : {
+        "keywords" : "روبوت التنظيف الضوئية , Kwun ®, مبادئ تصميم bipv ، مبادئ تصميم bapv",
+        "description" : "كوون ® بعض مبادئ تصميم bipv ينبغي إيلاء الاهتمام ."
+      },
+      "sustainableCleaning" : {
+        "keywords" : "روبوت التنظيف الضوئية , Kwun ® التنظيف المستدام",
+        "description" : "بعد تنظيف توليد الكهرباء زيادة الدخل أكبر من تكلفة التنظيف"
+      },
+      "certificate" : {
+        "keywords" : "روبوت التنظيف الضوئية شهادة ® شهادة ، شهادة المنتج ، لجنة الاتصالات الفدرالية شهادة ، شهادة الأحمر ، lvd شهادة ، شهادة بنفايات ، الكراك شهادة ، شهادة ip65 ، وارتفاع درجة الحرارة تقرير الاختبار ، وانخفاض درجة الحرارة تقرير الاختبار ، اختبار تقرير الشحن الجوي",
+        "description" : "كوون ® من خلال العديد من وكالات إصدار الشهادات ، anbotek وكالات إصدار الشهادات ، بورياو فيريتاس وكالات إصدار الشهادات ، بكين dijiemu الشحن الجوي المحدودة لتنمية التكنولوجيا"
+      },
+      "about" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، عن أصل علة غريبة ، غريبة علة ، أصل Kwun ، متخصصة في جودة عالية الجدار الروبوت المتحرك البحث والتطوير والإنتاج والتسويق ، في مجال الجدار الروبوت المتحرك في العالم الرائدة في مجال تطبيق تكنولوجيا منظمة العفو الدولية",
+        "description" : "",
+        "title" : "تأسست في عام 2018 ، Kwunphi شنتشن المحدودة ، هي شركة التكنولوجيا العالية التي أنشئت من قبل فريق البحث والتطوير الدولية الشهيرة الروبوت الشركات ."
+      },
+      "roofBridgingVideos" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، وإعادة بناء محطة للطاقة الشمسية على السطح التجاري والصناعي",
+        "description" : "بناء محطة للطاقة الشمسية على السطح التجاري والصناعي ، وبناء محطة للطاقة الشمسية على السطح التجاري والصناعي ، فيديو بناء محطة للطاقة الشمسية على السطح ، الرسوم المتحركة بناء محطة للطاقة الشمسية على السطح ، الرسوم المتحركة بناء محطة للطاقة الشمسية على السطح"
+      },
+      "videos" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، فيديو المنتج ، Kwun ®  ب 30 م ، كوان ®  b30l , Kwun ®  b20l ، كوون ®  b10l الكهروضوئية تنظيف الفيديو",
+        "description" : "التنظيف الذاتي ، دون مراقبة الموظفين ، Kwun ® عملية التشغيل ، يوم ممطر نظيفة ، ليلة نظيفة ، عالية الدقة ، والاستقرار عالية ، والسلامة ، وكفاءة عالية التغطية الكاملة ، زاوية كبيرة الامتزاز ، وسرعة نقل التكنولوجيا ، ومسطحات المد والجزر ومحطات الطاقة الشمسية ، محطة للطاقة الشمسية البحرية ، والأراضي الزراعية محطة للطاقة الشمسية ، الصناعية والتجارية سقف محطة للطاقة الشمسية",
+        "title" : "مركز الفيديو"
+      },
+      "remote" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، بعد اختبار ، اختبار عن بعد",
+        "description" : "كوون ® هو مستقل تماما الكهروضوئية تنظيف الروبوت ، تحتاج فقط إلى استخدام ® وضع على وحدة الكهروضوئية ، اضغط على مفتاح بدء التشغيل ® سوف تكون مستقلة عن طريق الوعي والتخطيط وصنع القرار . كل هذا بفضل كون ® من الطراز العالمي \" منظمة العفو الدولية الرؤية لتحديد المواقع والملاحة التكنولوجيا \" ، فضلا عن معايير تصميم عالية جدا ومتطلبات الأجهزة . لا تحتاج إلى بناء ، لا تحتاج إلى تعديل ، في أي مكان ."
+      },
+      "kwunAdvantage" : {
+        "keywords" : "روبوت التنظيف الضوئية , Kwun ® ميزة",
+        "description" : "بعد تنظيف توليد الكهرباء زيادة الدخل أكبر من تكلفة التنظيف ، التنظيف المستدام ، نظيفة ، وتوفير المال ، وسهلة الاستخدام ، والتنبؤ التكلفة المثلى"
+      },
+      "solution" : {
+        "keywords" : "Kwunphi ، مستقلة تماما الكهروضوئية تنظيف الروبوت ، روبوت مستقل تماما الكهروضوئية تنظيف الجدار موبايل تنظيف الروبوت ، الكهروضوئية لوحة التنظيف المستدام ، الكهروضوئية لوحة حافة الطين تنظيف التكنولوجيا ، وانخفاض تكلفة التنظيف",
+        "description" : "شنتشن Kwunphi . Kwun هو روبوت التنظيف الكهروضوئية مع الاستشعار عن بعد لتحديد المواقع واتخاذ القرارات . عالية التعميم متعدد المشهد تقاسم ، وخفض التكاليف ؛ الحد من الموظفين والعمل . تأثير أفضل من التنظيف اليدوي . الكفيل ، محطة الطاقة الضوئية ، ومعدات السلامة",
+        "title" : "الحل - سوبر توليد الطاقة ، Kwun قادرة على الشعور الذاتي ، والتخطيط ، واتخاذ القرارات ، في أي وقت وفي أي مكان استخدام مناسبة لمختلف السيناريوهات وظروف العمل ، واستخدام Kwun تنظيف الألواح الضوئية ، إلى حد كبير تحسين كفاءة توليد الطاقة ، والحد من تكاليف التنظيف ، وتحسين القدرة على توليد الطاقة اليومية ، وزيادة الإيرادات من محطة توليد الكهرباء"
+      },
+      "downloads" : {
+        "keywords" : "روبوت التنظيف الضوئية , Kwun ®, مركز تحميل ، تحميل التطبيق ، تحميل وثائق المنتج ، ai-kun ، مواصفات المنتج ، أول دليل سريع ، تعليمات المنتج قبل الاستخدام ، تعليمات المنتج ، 4g وحدة الشبكة apn تعليمات التكوين",
+        "description" : "مركز تحميل ، تحميل التطبيق ، تحميل وثائق المنتج ، ai-kun ، مواصفات المنتج ، أول دليل سريع ، تعليمات المنتج قبل الاستخدام ، تعليمات المنتج ، 4g وحدة الشبكة apn تعليمات التكوين"
+      },
+      "kwunq" : {
+        "keywords" : "الكهروضوئية الكهروضوئية تنظيف الروبوت ، حساب تكلفة التنظيف ، تنظيف حساب التكلفة ، لوحة الكهروضوئية تنظيف حساب التكلفة ، تكلفة تنظيف لوحة الكهروضوئية ، كيلون ® حاسبة التكاليف , Kwun ® نموذج حساب التكاليف ® محاكمة التكاليف ® كوون كيو",
+        "description" : "تسهيل استخدام حساب العملاء ® تقدير التكاليف على أساس النشاط ® نموذج حساب التكاليف وفقا لقوانين المحاسبة من خلال تنظيف مجموع القدرات ® الكمية المستخدمة ® مطابقة ، المشهد الكفاءة ، عملية الجدول ، الخ ."
+      },
+      "contact" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، اتصل بنا ، اتصل بي",
+        "description" : "اتصل بنا ، اتصل بي"
+      },
+      "course" : {
+        "keywords" : "نام کوون ® الكنز الذي يتعلم بهدوء ، ثم فاجأ الجميع سرا أكل الكعكة الكبيرة في صناعة الضوئية ، واسمحوا الخاص بك كفاءة توليد الطاقة ركوب الغبار المطلق",
+        "description" : "علة غريبة يوفر للعملاء مع الفصول الدراسية على الإنترنت ، بما في ذلك استخدام كوون تعلم كيفية بدء تشغيل كوون ، فهم مختلف أنماط القيادة والتطبيقات ، وكيفية استخدام كوون بأمان ، دليل الصيانة : فهم أهمية الصيانة الدورية ، بما في ذلك تغيير الزيت ، نظام التفتيش ، وهلم جرا . تعلم أساسيات الصيانة . هذه الدورات سوف تساعد العملاء على فهم أفضل Kwun علة غريبة ، وضمان استخدام وصيانة يمكن أن يكون واثقا وماهرا ."
+      },
+      "live" : {
+        "keywords" : "روبوت التنظيف الضوئية , Kwun ® بث مباشر , روبوت تنظيف الكهروضوئية لايف , روبوت تنظيف استعراض , روبوت تنظيف تنظيف الكهروضوئية لوحة لايف مقطورة",
+        "description" : "الكهروضوئية تنظيف الروبوت تنظيف لايف ، لايف مقطورة ، استعراض رائع"
+      },
+      "news" : {
+        "keywords" : "رئيس الوزراء لي كه تشيانغ يتفقد Kwunphi ، Kwunphi تواصل المساهمة في توليد الطاقة الكهربائية الضوئية ، لتصبح رائدة في مجال الابتكار والتكنولوجيا الشركات . روبوت التنظيف الضوئية ، أخبار المنتج ، أخبار ديناميكية ، Kwun-b30m ، Kwun-b30l ، Kwun-b20l ، Kwun-b10l ، صناعة التنظيف الضوئية",
+        "description" : "رئيس الوزراء لي كه تشيانغ يزور Kwunphi . كُون ®” روبوت التنظيف الضوئية هي واحدة من أهم إنجازات الشركة . فإنه يجعل من استخدام تكنولوجيا الذكاء الاصطناعي المتقدمة ونظام الاستشعار البصرية ، والتي يمكن أن كفاءة فحص وتنظيف الألواح الشمسية الضوئية ، وتحسين كفاءة توليد الطاقة الضوئية . هذه التكنولوجيا الرائدة في مجال الروبوتات ليس فقط تحسين كفاءة استخدام الطاقة النظيفة ، ولكن أيضا تخفيف العبء على القوى العاملة التفتيش ، صناعة الضوئية جلبت ملحوظا الفوائد الاقتصادية والبيئية .",
+        "title" : "رئيس الوزراء لي كه تشيانغ يزور مركز الصحافة"
+      },
+      "kwunComprehensiveInfo" : {
+        "keywords" : "روبوت تنظيف الكهروضوئية ورقة معلومات شاملة ® معلومات شاملة الجدول ، غسل ، فرشاة جافة",
+        "description" : "كوون ® جداول المعلومات المتكاملة , Kwun ® قائمة الوظائف"
+      },
+      "product" : {
+        "keywords" : "روبوت التنظيف الكهروضوئية ، الكهروضوئية روبوت التنظيف ® نموذج المنتج , Kwun ®  ب 30 م ، كوان ®  b30l , Kwun ®  b20l ، كوون ®  b10l ، مواصفات المنتج ، تعليمات الاستخدام",
+        "description" : "سوبر جيل ، مع كون جي . كوون ® هو مستقل تماما الكهروضوئية تنظيف الروبوت . فائدة نموذج يمكن أن ندرك بشكل مستقل ، والتخطيط ، واتخاذ القرارات ، نظيفة كما جديدة ، هو أفضل بكثير من التنظيف اليدوي ، إلى حد كبير تحسين كفاءة التنظيف ، والحد بشكل كبير من تكلفة التنظيف ، أكثر من 10 ، 000 مرة من دون الشقوق المخفية ، وضمان سلامة الموظفين ، ومحطات الطاقة الكهروضوئية ، والمعدات .",
+        "title" : "مركز المنتجات - مستقلة تماما الكهروضوئية تنظيف الروبوت ، إلى حد كبير تحسين كفاءة التنظيف ، والحد بشكل كبير من تكاليف التنظيف ، أكثر من 10000 مرة دون الشقوق الخفية ، وضمان سلامة الموظفين ، ومحطات الطاقة الكهروضوئية ، والمعدات ، تنطبق على الغالبية العظمى من المشهد ، لا تحتاج إلى بناء الخريطة ، لا تحتاج إلى تعديل ، في أي مكان ، مع استخدام Kwun-b33h Kwun-b32l Kwun-b22h Kwun-b22l Kwun-b21l Kwun-b21l"
+      },
+      "purchase" : {
+        "keywords" : "Kwunphi ، مستقلة تماما الكهروضوئية تنظيف الروبوت ، روبوت مستقل تماما الكهروضوئية تنظيف الجدار موبايل تنظيف الروبوت ، الكهروضوئية لوحة التنظيف المستدام ، الكهروضوئية لوحة حافة الطين تنظيف التكنولوجيا ، وانخفاض تكلفة التنظيف",
+        "description" : "شنتشن Kwunphi . Kwun هو روبوت التنظيف الكهروضوئية مع الاستشعار عن بعد لتحديد المواقع واتخاذ القرارات . عالية التعميم متعدد المشهد تقاسم ، وخفض التكاليف ؛ الحد من الموظفين والعمل . تأثير أفضل من التنظيف اليدوي . الكفيل ، محطة الطاقة الضوئية ، ومعدات السلامة",
+        "title" : "شراء قناة - خط آلة الاختبار ، شراء عبر الإنترنت ، والتسليم السريع إلى المنزل ، تجربة على الانترنت ، متجر الضمان"
+      },
+      "tutorialVideos" : {
+        "keywords" : "فيديو تعليمي لتركيب روبوت التنظيف الضوئية , Kwun ®  ب 30 م ، كوان ®  b30l , Kwun ®  b20l ، كوون ®  b10l ، اكسسوارات تغيير البرنامج التعليمي ، أداة استخدام البرنامج التعليمي ، وظيفة الفيديو التعليمي ، وظيفة مطابقة",
+        "description" : "استبدال البطارية ، استبدال بطاقة سيم ، استبدال مصاصة ، استبدال أجهزة الاستشعار بالموجات فوق الصوتية ، واستبدال عجلة القيادة ، مدفوعة عجلة ، عجلة متزامن ، كاتربيلر التركيب والتفكيك ، واستبدال فرشاة المتداول ، المتداول فرشاة الجمعية التركيب والتفكيك ، مضاد للسرقة المواقع ملزمة ، وحدة تحكم عن بعد تشغيل البرنامج التعليمي"
+      },
+      "home" : {
+        "keywords" : "كفه ، كفه ®, روبوت التنظيف الكهروضوئية مستقلة تماما ، مستقلة تماما روبوت التنظيف الكهروضوئية ، منظمة العفو الدولية Kwun ، الجدار موبايل روبوت التنظيف ، التنظيف المستدام لوحة الكهروضوئية ، الكهروضوئية لوحة حافة الطين حزام تنظيف التكنولوجيا ، وانخفاض تكلفة التنظيف",
+        "description" : "كوون ®， شنتشن Kwunphi . الكهروضوئية روبوت التنظيف مع الاستشعار عن بعد لتحديد المواقع واتخاذ القرارات . عالية التعميم متعدد المشهد تقاسم ، وخفض التكاليف ؛ الحد من الموظفين والعمل . تأثير أفضل من التنظيف اليدوي . الكفيل ، محطة الطاقة الضوئية ، ومعدات السلامة",
+        "title" : "الموقع الرسمي"
+      },
+      "contrastToOthers" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، مقارنة المنتجات المنافسة",
+        "description" : "مقارنة مع جهاز التحكم عن بعد الكهروضوئية تنظيف الروبوت ، مقارنة مع المسار الكهروضوئية التنظيف ، مقارنة مع التنظيف اليدوي"
+      },
+      "powerGeneration" : {
+        "keywords" : "الكهروضوئية تنظيف الروبوت ، وتوليد الطاقة بعد التنظيف زيادة الربح أكثر من تكلفة التنظيف ، سوبر توليد الطاقة ، وتحسين كفاءة توليد الطاقة ، مقارنة الكفاءة",
+        "description" : "سوبر جيل , KwunJ ®。 أسعد كوون ® تنظيف لوحة الكهروضوئية ، إلى حد كبير تحسين كفاءة توليد الطاقة ، والحد من تكاليف التنظيف ."
+      },
+      "supportedModule" : {
+        "keywords" : "روبوت التنظيف الضوئية , Kwun ®, دعم لوحة الضوئية العامة مناسبة لوحة الضوئية العامة",
+        "description" : "كوون ® فائدة نموذج مناسبة لأنّ معظم الوحدات الضوئية في السوق ، ويمكن تنظيف معظم الألواح الضوئية في السوق ."
+      },
+      "series" : {
+        "keywords" : "Kwunphi ، مستقلة تماما الكهروضوئية تنظيف الروبوت ، روبوت مستقل تماما الكهروضوئية تنظيف الجدار موبايل تنظيف الروبوت ، الكهروضوئية لوحة التنظيف المستدام ، الكهروضوئية لوحة حافة الطين تنظيف التكنولوجيا ، وانخفاض تكلفة التنظيف",
+        "description" : "شنتشن Kwunphi . Kwun هو روبوت التنظيف الكهروضوئية مع الاستشعار عن بعد لتحديد المواقع واتخاذ القرارات . عالية التعميم متعدد المشهد تقاسم ، وخفض التكاليف ؛ الحد من الموظفين والعمل . تأثير أفضل من التنظيف اليدوي . الكفيل ، محطة الطاقة الضوئية ، ومعدات السلامة",
+        "title" : "سلسلة المنتجات"
+      },
+      "maintenance" : {
+        "keywords" : "غريب علة الشركة تعتبر صيانة ما بعد البيع جزء مهم ، أقترح أن العملاء استخدام الأميال المتراكمة كل ثلاثة أشهر أو كل 300 كيلومتر على العودة إلى المصنع للحفاظ على الوقت ، مع الأخذ في الاعتبار خطة الصيانة المخصصة للعملاء المرونة في اختيار العودة إلى المصنع للحفاظ على . ولذلك ، فإن محتوى مختلف خطط الصيانة وضعت من قبل علة غريبة ، والتي صممت وفقا للوقت ، عدد الكيلومترات المستخدمة و بيانات كبيرة من وراء الكواليس من الحشرات الغريبة .",
+        "description" : "الفكرة الأساسية من خطة الصيانة هو : كل ثلاثة أشهر أو استخدام الأميال كل 300 كيلومتر من الصيانة هو \" الذهب \" العقد ، وبعد ذلك كل ستة أشهر أو استخدام الأميال كل 600 كيلومتر من الصيانة المعروفة باسم \" الفضة \" العقد ، مثل مرة واحدة فقط في السنة \" النحاس الأحمر \" عقدة الصيانة ، واقترح أن لا تتجاوز 12 شهرا أو استخدام الأميال 1200 كيلومتر"
+      }
+    }
+  },
+  "foot" : {
+    "quickStart" : "بداية سريعة",
+    "situation.design" : "مبادئ تصميم محطة الضوئية",
+    "optimalCalculation" : "الاختيار الأمثل",
+    "productVideos" : "منتجات الفيديو",
+    "partnerPortal" : "وكيل بوابة",
+    "feedback" : "مشكلة التغذية المرتدة",
+    "qualifications" : "المؤسسة المؤهل",
+    "onlineMall" : "مول على الانترنت",
+    "BIPV" : "مبادئ تصميم bipv",
+    "helpMeChoose" : "مساعدتي في اختيار",
+    "solution" : "حل .",
+    "record" : "icp 2021",
+    "hotProducts" : "المنتجات الساخنة",
+    "productSupport" : "دعم المنتج",
+    "ConnectWithTechnicalPersonnelViaCode" : "بعد اختبار آلة لرسو السفن فني",
+    "KwunJServiceModel" : "kunjie نموذج الخدمة",
+    "contactUs" : "اتصل بنا",
+    "series3" : "ثلاثة سلسلة",
+    "RetrieveTemporaryAccountAndPassword" : "الحصول على حساب مؤقت و كلمة السر",
+    "series6" : "ستة سلسلة",
+    "kwunCarePolicyProcess" : "Kwun Care سياسة جديدة وعملية",
+    "kwunphi" : "Kwunphi المحدودة",
+    "peripherals" : "محيط",
+    "series2" : "السلسلة الثانية",
+    "series1" : "سلسلة",
+    "costCalculation" : "حساب التكلفة",
+    "situation.bipv.design" : "مبادئ تصميم bipv",
+    "termsOfUse" : "شروط ضمان الجودة",
+    "downloadCenter" : "مركز تحميل",
+    "newsCenter" : "مركز الأخبار",
+    "RetrofitCases" : "حالة التحول",
+    "aiKwun" : "اي كون",
+    "cleaningGuide" : "تنظيف الكنسي",
+    "allRightsReserved" : "جميع الحقوق محفوظة",
+    "ServicePlans" : "خدمات القيمة المضافة",
+    "aboutUs" : "عنا",
+    "joinUs" : "توظيف النخبة",
+    "certificate" : "شهادة المنتج",
+    "SelectLanguage" : "اختيار اللغة",
+    "officialChannel" : "منصة القناة الرسمية",
+    "accessoriesPurchase" : "شراء الملحقات",
+    "kwunCare" : "ك سي",
+    "helpCenter" : "مركز المساعدة",
+    "globalPrivacyPolicy" : "سياسة الخصوصية العالمية",
+    "officialMerchandise" : "محيط رسمي",
+    "supplierPortal" : "بوابة الموردين",
+    "RapidReplacementPolicy" : "سياسة جديدة",
+    "ContrastToOthers" : "مقارنة تنافسية",
+    "remoteMachineTrial" : "بعد اختبار آلة",
+    "AfterServicePolicy" : "سياسة خدمة ما بعد البيع",
+    "value" : "قيمة .",
+    "marketCooperation" : "التعاون في السوق",
+    "helpAndSupport" : "مساعدة ودعم",
+    "experienceKwunphiAppNow" : "تجربة KwunPhi-APP فورا",
+    "ServiceInformationSupport" : "طلب خدمة ودعم المعلومات",
+    "KwunClearService" : "كون جي الخدمات التقنية",
+    "productComparison" : "مقارنة المنتجات",
+    "advantage" : "كوون ® ميزة",
+    "PowerStationServiceCasesofKwunJ" : "حالة كون جي محطة خدمة",
+    "ScanWithWeChatForRemoteTestingMachine" : "إشارة صغيرة تجتاح آلة الاختبار عن بعد",
+    "SustainableCleaning" : "التنظيف المستدام",
+    "supportedModule" : "عنصر الدعم",
+    "latestNews" : "آخر الأخبار",
+    "KwunJCapableofDoing" : "ما هو كون جي ؟",
+    "SuccessCases" : "الحالات الناجحة",
+    "BackToTop" : "العودة إلى أعلى",
+    "KwunJCompanyIntroduce" : "كون جي المحدودة",
+    "onlineClassroom" : "الفصول الدراسية على الانترنت",
+    "maintenance" : "إصلاح وصيانة",
+    "comprehensive" : "معلومات شاملة"
+  },
+  "situation" : {
+    "ciRoofingTiling" : "الصناعية والتجارية سقف ( البلاط / bipv )",
+    "ciRoofingManualAccess" : "الصناعية والتجارية سقف ( متعدد القنوات )",
+    "mountain" : "منحدر",
+    "floating" : "طافية",
+    "houseRoof" : "سقف المنزل",
+    "pool" : "الصيد الخفيفة",
+    "ground" : "أرض",
+    "farmland" : "الزراعة الخفيفة",
+    "ciRoofing" : "سقف الصناعية والتجارية",
+    "ciRoofingBypass" : "الصناعية والتجارية سقف ( جسر )"
+  },
+  "policy" : {
+    "overview" : "لمحة عامة",
+    "GlobalPrivacyPolicy" : "سياسة الخصوصية العالمية"
+  },
+  "news" : {
+    "LatestNews" : "آخر الأخبار",
+    "KwunPhiNewsCenter" : "علة غريبة مركز الأخبار",
+    "News" : "الأخبار .",
+    "newsItem" : [ {
+      "subTitle" : "رئيس الوزراء لي كه تشيانغ يتفقد",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news6.jpg",
+        "title" : "",
+        "content" : "رئيس الوزراء لى كه تشيانغ ، الذي عقد في مقاطعة شنتشن الاقتصادية تحت رعاية المنتدى ، خلال التفتيش على شركة شنتشن ك الرقم الهيدروجيني . في زيارة إلى شركة Kwunphi ، رئيس الوزراء تحدث عن تطوير روبوت التنظيف الكهروضوئية ®” وأعرب عن تقديره لقيادة التكنولوجيا . وشجع Kwunphi على مواصلة المساهمة في توليد الطاقة الكهربائية الضوئية ، لتصبح رائدة في مجال الابتكار والتكنولوجيا الشركات ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "رئيس الوزراء زار ليس فقط بي واي دي ، عملاق صناعة السيارات الكهربائية ، ولكن أيضا Kwunphi ، واحدة من الشركات الرائدة في مجال الابتكار والتكنولوجيا فى شنتشن . وقال شنتشن الشركات تظهر روح المبادرة الخاصة وروح العمل الشاق إلى أعلى التوقعات ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "جنوب شنتشن التفتيش يعكس رئيس الوزراء شنتشن التكنولوجيا المبتكرة في طليعة المدينة الاهتمام والدعم . وأعرب عن أمله في أن شنتشن الشركات سوف تستمر في لعب دور قيادي في المستقبل ، وتقديم المزيد من المساهمات في التنمية المستدامة للاقتصاد الصيني . رئيس الوزراء التشجيع والتوقعات بالتأكيد سوف تحفز الشركات شنتشن على المضي قدما ، وتعزيز الابتكار العلمي والتكنولوجي ، والمساهمة في بناء اقتصاد حديث قوي في المحافظة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "شنتشن ، الصين رائدة في مجال الإصلاح والانفتاح نافذة المدينة ، وقد تم الابتكار وريادة الأعمال في الأرض الساخنة . Kwunphi الشركة هي واحدة من ممثلي مدينة الإبداع . منذ تأسيسها ، وقد تم التركيز على البحث والتطوير وإنتاج تكنولوجيا الروبوت المتقدمة ، ولا سيما في مجال الطاقة النظيفة الضوئية حققت اختراقا كبيرا ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "كُون ®” روبوت التنظيف الضوئية هي واحدة من أهم إنجازات الشركة . فإنه يجعل من استخدام تكنولوجيا الذكاء الاصطناعي المتقدمة ونظام الاستشعار البصرية ، والتي يمكن أن كفاءة فحص وتنظيف الألواح الشمسية الضوئية ، وتحسين كفاءة توليد الطاقة الضوئية . هذه التكنولوجيا الرائدة في مجال الروبوتات ليس فقط تحسين كفاءة استخدام الطاقة النظيفة ، ولكن أيضا تخفيف العبء على القوى العاملة التفتيش ، صناعة الضوئية جلبت ملحوظا الفوائد الاقتصادية والبيئية ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "رئيس الوزراء على ®” ويعتقد أن تطبيق هذا النوع من الطاقة الشمسية تنظيف الروبوت لا يتوافق مع مفهوم حماية البيئة الخضراء ، ولكن أيضا يمكن أن تعزز التنمية المستدامة في صناعة الطاقة الشمسية . وشدد على أن الطاقة النظيفة هو اتجاه هام للتنمية في الصين ، وشركات التكنولوجيا مثل Kwunphi ينبغي أن تستمر في لعب دور رائد في هذا المجال ، والابتكار التكنولوجي يؤدي إلى رفع مستوى الصناعة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "وبالإضافة إلى ذلك ، رئيس الوزراء بزيارة بي واي دي ، الشركة الرائدة في مجال السيارات الكهربائية . في زيارة إلى بي واي دي خط الانتاج ومركز البحث والتطوير ، رئيس الوزراء عن تقديره لجهودهم المستمرة والإنجازات في مجال تكنولوجيا السيارات الكهربائية . وشدد على أن صناعة السيارات الكهربائية هو اتجاه هام في صناعة السيارات في المستقبل ، مثل بي واي دي الشركات ينبغي أن تستمر في زيادة الاستثمار في البحث والتطوير ، وتعزيز التقدم في تكنولوجيا السيارات الكهربائية لتوفير أكثر صديقة للبيئة وكفاءة السفر ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "رئيس الوزراء التفتيش يدل على أن الحكومة الصينية تعلق أهمية كبيرة على الابتكار العلمي والتكنولوجي والتنمية الخضراء . وشدد على أن الابتكار هو القوة الدافعة التي لا نهاية لها من أجل تعزيز النمو الاقتصادي ، والتنمية الخضراء هو السبيل الوحيد لتحقيق التنمية المستدامة . كما الرائدة في مجال الإصلاح والانفتاح فى الصين ، وشنتشن يجب أن تستمر في لعب دور قيادي في المظاهرة ، وتقديم المزيد من المساهمات في الابتكار العلمي والتكنولوجي وحماية البيئة في جميع أنحاء البلاد ، وحتى في العالم ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في المنتدى الاقتصادي في المحافظات ، رئيس الوزراء حث جميع الأطراف المشاركة على مواصلة الإصرار على الإصلاح والابتكار ، وزيادة الاستثمار في البحث والتطوير في مجال العلم والتكنولوجيا ، وتعزيز التحول الصناعي والارتقاء . وشدد على أنه فقط من خلال الابتكار العلمي والتكنولوجي ، اقتصاد الصين في المنافسة العالمية لا يقهر . وفي الوقت نفسه ، كما دعا الشركات إلى إيلاء المزيد من الاهتمام لحماية البيئة والتنمية الخضراء ، من أجل بناء الصين الجميلة للمساهمة في قوتها ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "رئيس الوزراء بزيارة إلى شنتشن في الجنوب ، مما يدل على الاعتراف والتشجيع من شركات التكنولوجيا الصينية . إن القلق والتوقعات سوف تحفز الشركات على المضي قدما على طريق الابتكار وريادة الأعمال ، وتقديم المزيد من المساهمات الممتازة في التنمية الاقتصادية في الصين . شنتشن ، مدينة حيوية ، وسوف تستمر في لعب دور قيادي في الابتكار ، من أجل التقدم العلمي والتكنولوجي والتنمية الخضراء في الصين لاستكشاف مستقبل أكثر إشراقا ."
+      } ],
+      "title" : "رئيس الوزراء لي كه تشيانغ يتفقد"
+    }, {
+      "subTitle" : "كوون ® على شبكة الأخبار",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news7-1.jpg",
+        "title" : "",
+        "content" : "Kwun ، منتجات التكنولوجيا الفائقة التي تملكها شركة Kwunphi ®， أدى بسرعة إلى رد فعل قوي من صناعة التنظيف الضوئية . هذه التكنولوجيا العالية الضوئية المسلحة مفهوم جديد من التنظيف هو تشجيع الناس ، وتدريجيا في قلوب الناس ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "كوون ® كمنتج نموذجي من شركة Kwunphi ، مع التكنولوجيا الفائقة والأداء ، الكهروضوئية نظيفة \" سوبر \" تأثير . الطريقة التقليدية في تنظيف الكهروضوئية يمكن فقط تنظيف الألواح الشمسية ببساطة ، ولكن ® من خلال عملية ذكية و نظام الاستشعار البصرية ، وكفاءة عالية ودقة التفتيش والتنظيف تتحقق ، وكفاءة توليد الطاقة الضوئية هو تعزيز إلى أقصى حد . هذا المفهوم الجديد والممارسة ، حتى أن صناعة الطاقة الشمسية النظيفة يضيء حيوية جديدة ، وتعزيز تنمية صناعة الطاقة النظيفة أصبحت نجمة ."
+      } ],
+      "title" : "كوون ® على شبكة الأخبار"
+    }, {
+      "subTitle" : "كوون ® سلسلة من المنتجات الانتهاء من أول 100 وحدة المبيعات في الخارج",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "13 تشرين الأول / أكتوبر 2022 ، دودة غريبة كوون ® سلسلة من المنتجات الانتهاء من بيع أول 100 وحدة في الخارج ."
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news9.jpg",
+        "title" : "",
+        "content" : "المبيعات في الخارج من الأولى إلى 100 من المبيعات فقط 106 أيام ، هذه المرحلة أكثر للعملاء لشراء أول تجربة الإنفاق على أشياء جديدة ، بيع عالية مثل 98 في المائة ، من أجل إعادة شراء المرحلة التالية من إرساء أساس جيد . وفي الوقت نفسه ، كما أنشأت الشركة في الخارج منافذ البيع ومنافذ البيع لخلق بداية جيدة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "الأسواق الخارجية تعرف حقا Kwun ® قيمة اقتصادية كبيرة . صناعة التنظيف الكهروضوئية يدرك حقا نظرة جديدة منخفضة التكلفة ، KwunJ ® ممثل أقل أنسنة ، ذكي حل تجزئة الضوئية تنظيف السوق مشكلة كبيرة ، بهدوء أصبحت شائعة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "دودة غريبة ® نجاح سلسلة من المنتجات ليس فقط أداء المنتج نفسه ، ولكن أيضا بفضل الجهود الدؤوبة في مجال البحث والتطوير والتسويق . باعتبارها واحدة من الشركات التي تركز على الابتكار التكنولوجي ، Kwunphi ملتزمة بتعزيز التقدم العلمي والتكنولوجي في مجال الطاقة النظيفة . وتمتلك الشركة عالية الجودة فريق البحث العلمي ، ومواصلة البحث والتطوير والابتكار التكنولوجي ، وتعمل باستمرار على تحسين أداء وموثوقية المنتجات . وفي الوقت نفسه ، فإن الشركة لا تزال تشارك بنشاط في التعاون الدولي ، وتوسيع الأسواق الخارجية ، ومواصلة توسيع قنوات المبيعات وحصة السوق من المنتجات ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في مواجهة المستقبل ، Kwunphi ستواصل الشركة الإصرار على الابتكار ، ومواصلة تحسين المحتوى التكنولوجي والأداء من المنتجات . وستواصل الشركة زيادة الاستثمار في البحوث العلمية ، وتعزيز تنمية صناعة الطاقة النظيفة ، قضية حماية البيئة العالمية للمساهمة في قوتها . وفي الوقت نفسه ، Kwunphi ستواصل الشركة تعزيز التعاون مع الأسواق الخارجية ، ومواصلة تعزيز القدرة التنافسية في السوق الدولية ، من أجل تصنيع الصين في الساحة العالمية لإنشاء صورة جديدة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "عموما ، علة غريبة Kwun ® النجاح في بيع سلسلة من المنتجات يمثل طفرة هامة في الصين تكنولوجيا الطاقة النظيفة في السوق الدولية . Kwunphi الشركة مع الأداء المتميز والقدرة على الابتكار ، وأنشأت بنجاح الشركات الصينية في مجال التكنولوجيا البيئية الرائدة في الموقف . في المستقبل ، لدينا سبب للاعتقاد بأن علة غريبة Kwun ® سلسلة من المنتجات سوف تستمر في إظهار المزيد من النفوذ في الأسواق الخارجية ، وتقديم مساهمة أكبر في قضية الطاقة النظيفة العالمية . وفي الوقت نفسه ، سوف تصبح هذه الشركات الصينية في السوق الدولية إلى آفاق جديدة ، من أجل زيادة التصنيع في الصين لتوفير المزيد من الأمثلة الناجحة ."
+      } ],
+      "title" : "كوون ® سلسلة من المنتجات الانتهاء من أول 100 وحدة المبيعات في الخارج"
+    }, {
+      "subTitle" : "شنتشن 5g الإنجازات التقنية المعرض ®” لاول مرة",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في معرض شنغهاي Kwunphi ، منتجات التكنولوجيا العالية ® ظهور الروبوت بسرعة أثارت ردود فعل قوية من صناعة التنظيف الكهروضوئية ، وجذب عدد كبير من الزوار . هذه التكنولوجيا العالية الضوئية المسلحة مفهوم جديد من التنظيف هو تشجيع الناس ، وتدريجيا في قلوب الناس ."
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi4/images/exhibition/01.jpg",
+        "title" : "",
+        "content" : "معرض شنغهاي اجتذبت العديد من المهنيين وممثلي صناعة الطاقة النظيفة . حشد من الناس في موقع المعرض ، بلغ عدد المشاركين رقما قياسيا ، تسليط الضوء على كون ® الروبوتات هي الرائدة في صناعة الطاقة النظيفة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "كوون ® كمنتج نموذجي من شركة Kwunphi ، مع التكنولوجيا الفائقة والأداء ، الكهروضوئية نظيفة \" سوبر \" تأثير . الطريقة التقليدية في تنظيف الكهروضوئية يمكن فقط تنظيف الألواح الشمسية ببساطة ، ولكن ® من خلال عملية ذكية و نظام الاستشعار البصرية ، وكفاءة عالية ودقة التفتيش والتنظيف تتحقق ، وكفاءة توليد الطاقة الضوئية هو تعزيز إلى أقصى حد . كوون ® وقد حصلت على التكنولوجيا المتقدمة من الجمهور على نطاق واسع في المعرض الثناء ، كما اشاد نجم في صناعة التنظيف الضوئية ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في موقع المعرض ، والمهندسين من شركة Kwunphi أظهرت الزوار ® تقنية فريدة من نوعها من الروبوتات . كوون ® الروبوت ليس فقط يمكن أن تجعل مسار التنظيف بشكل مستقل حسب حالة السطح من الألواح الشمسية ، ولكن أيضا يمكن أن تجعل أكثر دقة تنظيف العمل من خلال التكنولوجيا البصرية في الوقت الحقيقي الكشف عن التلوث من الألواح الشمسية . وقال المشاركون في المعرض ® ذكي و كفاءة عالية من الطاقة الشمسية الكهروضوئية الصناعة النظيفة في المستقبل بحيث تكون أكثر ثقة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "معرض شنغهاي هو منصة هامة لتعزيز تنمية صناعة الطاقة النظيفة . عدد كبير من المشاركين في المعرض ® تكنولوجيا الروبوت هو إيلاء اهتمام وثيق في الداخل والخارج . كوون ® التطبيق الناجح روبوت ضخ حيوية جديدة في صناعة الطاقة الشمسية النظيفة ، والمساهمة في التنمية المستدامة للطاقة النظيفة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "المعرض سوف تستمر لعدة أيام ، عندما Kwunphi ستواصل الشركة عرض أحدث المنجزات العلمية والتكنولوجية ، وأعتقد أن بقيادة Kwunphi ، الكهروضوئية صناعة التنظيف سوف تستهل في مستقبل أفضل ."
+      } ],
+      "title" : "الجيل الثالث 3g بلاط التنظيف العالمي التراكمي"
+    }, {
+      "subTitle" : "Kwunphi يحصل على \" الوطنية مرحبا التكنولوجيا المشاريع \" شهادة",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news8.jpg",
+        "title" : "",
+        "content" : "Kwunphi الشركة تتمتع \" الوطنية العالية والجديدة التكنولوجيا المشاريع \" شهادة ، مما يدل على أن الشركة في الابتكار العلمي والتكنولوجي والبحث والتطوير في مجال التكنولوجيا قد حققت نتائج هامة والاعتراف . الحصول على هذه الشهادة ، ليس فقط في الشركة في مجال التكنولوجيا الفائقة قوة وقوة الاعتراف ، ولكن أيضا على جهود الشركة المستمرة . Kwunphi الشركة لتحقيق المبيعات في تلك السنة شهادة كهدف ، اتخذت خطوة قوية لتصبح \" التخصص الجديد \" العملاق الصغير ، أظهرت الشركة الرائدة في مجال تكنولوجيا الطاقة النظيفة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "الحصول على \" الوطنية مرحبا التكنولوجيا المشاريع \" شهادة هو نتيجة الجهود المستمرة والابتكار المستمر من Kwunphi الشركة على مر السنين . الشركة تعتبر دائما الابتكار العلمي والتكنولوجي باعتبارها القوة الدافعة الأساسية لتنمية المشاريع ، وزيادة الاستثمار في البحث العلمي ، وتعزيز التقدم التكنولوجي . وتمتلك الشركة عالية الجودة فريق البحث العلمي ، وهي مكرسة للتغلب على المشاكل في مجال الطاقة النظيفة ، والبحث والتطوير المستمر مع حقوق الملكية الفكرية المستقلة منتجات التكنولوجيا الفائقة . الحصول على \" الوطنية العالية والجديدة التكنولوجيا المشاريع \" شهادة ، يعكس تماما إنجازات الشركة في مجال الابتكار التكنولوجي ، ولكن أيضا زيادة تعزيز تنمية الشركة في مجال الطاقة النظيفة ."
+      } ],
+      "title" : "Kwunphi يحصل على \" الوطنية مرحبا التكنولوجيا المشاريع \" شهادة"
+    }, {
+      "subTitle" : "علة غريبة تسويق المنتج الأول",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في 6 تشرين الثاني / نوفمبر ، 2021 ، أول روبوت متنقل ، Kwun ®， رسميا تحقيق الإنتاج التجاري ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "ابتداء من عام 2019 ، فإن الشركة تهدف إلى تنظيف محطة توليد الكهرباء الضوئية نقطة الألم - كيفية تنظيف نظيفة ؟ كيفية خفض تكاليف التنظيف ؟ الشركة الرائدة في مجال التكنولوجيا الأساسية \" منظمة العفو الدولية الرؤية لتحديد المواقع والملاحة \" ينطبق على هذا المنتج ، تمكين الضوئية صناعة التنظيف . بعد سنتين من التكرار ستة أجيال ، ما يقرب من 700 ميغاواط من الخبرة العملية ، المنتج النهائي من المختبر إلى السوق ."
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news5.png",
+        "title" : "",
+        "content" : "كوون ® كامل من الحماس لاستقبال سوق ضخمة الضوئية النظيفة ، فإن الشركة قررت أن الضوئية المحلية من الضميمة إلى إدارة المكرر لن يكون أكثر من 3 سنوات ، الصناعة بأكملها سوف تدخل \" عصر ما بعد الضوئية \" ، والصناعة سوف تكون نظيفة من 0 إلى 100 بسرعة لمعرفة طبيعة صناعة الطاقة الضوئية اليوم قررت تحسين كفاءة توليد الطاقة في نهاية المطاف يعتمد على الناس - استخدام روح النصر اليوم بقوة في أيديهم ، في هذا الوقت ، الناس بطبيعة الحال سوف نفهم أن أول عنصر في زيادة توليد الطاقة هو التنظيف العلمي \" قبل كل يوم جيد التنظيف \" هو المنافسة في صناعة الطاقة النووية ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "Kwun ، أول الروبوت المتحرك التلقائي تنظيف محطة الطاقة الضوئية ®， رسميا تحقيق الإنتاج التجاري . هذا يدل على أن الشركة في مجال التكنولوجيا النظيفة الكهروضوئية وتطوير المنتجات قد حققت اختراقا كبيرا ، وسوف تجلب صناعة الضوئية نظيفة جديدة الثورة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "منذ عام 2018 ، بدأت الشركة في معالجة الألم من تنظيف محطات الطاقة الكهروضوئية ، بما في ذلك كيفية تنظيف الألواح الشمسية بكفاءة ، وكيفية خفض تكاليف التنظيف . من خلال تطبيق التكنولوجيا الأساسية للشركة ، منظمة العفو الدولية الرؤية لتحديد المواقع والملاحة ® المنتجات ، فإن الشركة نجحت في تمكين صناعة التنظيف الكهروضوئية ، من أجل حل مشكلة التنظيف لتوفير حلول جديدة . بعد سنتين من الجهود الدؤوبة وتكرار ستة أجيال من المنتجات ، Kwun ® في الممارسة العملية ، ونحن الحصول على التحسين المستمر والتحسين من تجربة ما يقرب من 700mw ، وأخيرا انتقل من المختبر إلى السوق ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "كوون ® باعتبارها أول محطة للطاقة الضوئية التنظيف التلقائي الروبوت المتحرك ، كامل من الحماس لاستقبال سوق ضخمة الضوئية التنظيف . Kwunphi الشركة القاضي أن محطات الطاقة الضوئية المحلية سوف تتحول تدريجيا من مرحلة الضميمة إلى إدارة المكرر ، الصناعة بأكملها سوف تدخل \" بعد الضوئية العصر . في هذا العصر ، صناعة الضوئية سوف نرى زيادة سريعة في التنظيف من 0 إلى 100 ، تدرك أهمية التنظيف لتوليد الطاقة من الفوائد . وسوف يكون من المعترف به على نحو متزايد أن الزيادة في توليد الكهرباء في نهاية المطاف يعتمد على التنظيف العلمي ، و \" تنظيف قبل كل يوم جيد \" الكهرباء الشركات المنافسة على الأسلحة النووية ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "شركة Kwunphi مقتنع ® الإنتاج التجاري سوف تعزز التنمية الشاملة الضوئية صناعة التنظيف . كوون ® عملية ذكية وعالية الكفاءة والقدرة على التنظيف من محطة توليد الكهرباء الضوئية يمكن أن تحسن كثيرا من كفاءة التنظيف وتوليد الطاقة ، وبالتالي تحقيق المزيد من الفوائد الاقتصادية والبيئية . كوون ® الإنتاج التجاري في الصين سوف تدفع أيضا صناعة الضوئية نحو أكثر ذكاء وأكثر اخضرارا ، وتقديم مساهمة أكبر في التنمية المستدامة للطاقة النظيفة في الصين ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في \" عصر ما بعد الضوئية \" ، Kwunphi ستواصل الشركة الإصرار على الابتكار يحركها ، ودفع باستمرار لرفع مستوى التكنولوجيا وتحسين المنتجات . وستقوم الشركة باستمرار إيلاء اهتمام وثيق لمتطلبات الصناعة ، ومواصلة تعزيز الطلب في السوق عالية الأداء روبوت التنظيف المنتجات الضوئية صناعة التنظيف لتحقيق المزيد من الفرص والاختراقات . Kwunphi الشركة مستعدة للعمل جنبا إلى جنب مع الشركاء في صناعة الضوئية ، وخلق مستقبل مشرق للطاقة الشمسية النظيفة ، وتحقيق حلم الطاقة النظيفة الخضراء ."
+      } ],
+      "title" : "علة غريبة تسويق المنتج الأول"
+    }, {
+      "subTitle" : "شنتشن 5g الإنجازات التقنية المعرض ®” لاول مرة",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "Kwunphi الشركة مدعوة للمشاركة في \" شنتشن 5g الإنجازات التكنولوجية المعرض \" في شكل النموذج الهندسي ، الذي هو تجسيد هام من الدرجة العالمية الإنجازات العلمية والتكنولوجية التي وضعت الشركة في سبات عميق لمدة سنتين من قبل حكومة بلدية شنتشن . كما عرض الشركات المصنعة ، مع الشركات الشهيرة هواوي التوجيه والمساعدة حتى أن الشركة كانت مستوحاة من أكثر حزما في مجال التكنولوجيا الفائقة ، والعمل الجاد والتصميم ."
+      }, {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news4.jpg",
+        "title" : "",
+        "content" : "المشاركة في \" شنتشن 5g معرض التكنولوجيا \" هو فرصة هامة Kwunphi الشركة لعرض التكنولوجيا والمنتجات . هذا المعرض يجمع بين العديد من الشركات الشهيرة فى شنتشن ، هو الابتكار التكنولوجي والإنجازات العلمية والتكنولوجية الحدث . وقد اجتذب العديد من الزوار والمهندسين إلى التوقف عن التعلم ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "في المعرض ، شركة غريبة الحشرات نائب عمدة شنتشن ني شين بينغ شخصيا لاستقبال وتوجيه ، وهذا هو الاعتراف عالية وتشجيع الشركة المنجزات العلمية والتكنولوجية . نائب عمدة نيه عن تقديره لجهود وإنجازات الشركة في مجال التكنولوجيا الفائقة ، وشجعت الشركة على مواصلة جهودها الرامية إلى تحويل نتائج البحث العلمي في المنتجات التجارية في أقرب وقت ممكن . هذا النوع من الدعم والتشجيع هو بلا شك قوة دافعة كبيرة بالنسبة للشركات علة غريبة ، وتحفيزهم على المضي قدما على طريق الابتكار التكنولوجي ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "Kwunphi الشركة تدرك جيدا أن الابتكار العلمي والتكنولوجي هو مصدر التقدم المستمر في المؤسسة . باعتبارها مشروعات التكنولوجيا الفائقة ، وقد تم التمسك فلسفة الابتكار التكنولوجي ، باستمرار استثمار الموارد في مجال البحث والتطوير والابتكار ، وتسعى جاهدة لتحويل التكنولوجيا المتقدمة إلى منتجات التطبيق العملي . المشاركة في \" شنتشن 5g معرض الإنجازات التكنولوجية \" هو فرصة هامة للشركة لعرض قوتها التكنولوجية والإنجازات التكنولوجية ، ولكن أيضا الشركة تسعى بنشاط إلى التعاون وتوسيع السوق فرصة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "ني نائب عمدة تشجيع الشركة أيضا أن نعتقد اعتقادا راسخا بأن الجهود المستمرة والجهود الرامية إلى تحويل نتائج البحث العلمي في تسويق المنتجات . guaichong ستواصل الشركة تعزيز التعاون مع مختلف المجالات ، ومواصلة تعزيز المحتوى التقني للمنتجات والقدرة التنافسية في السوق . ونحن على استعداد للعمل مع شركات التكنولوجيا الفائقة فى شنتشن ، كتابة جديدة huazhang معا ، شنتشن صناعة التكنولوجيا الفائقة التنمية النشطة للمساهمة في قوتها . من خلال الابتكار العلمي والتكنولوجي المستمر والتعاون ، guaichong الشركة تعتقد أنها يمكن أن تضخ حيوية جديدة في صناعة التكنولوجيا الفائقة فى شنتشن ، والمساهمة في تطوير صناعة التكنولوجيا الفائقة فى الصين المزيد من الحكمة والقوة ."
+      } ],
+      "title" : "شنتشن 5g الإنجازات التقنية المعرض ®” لاول مرة"
+    }, {
+      "subTitle" : "زيارة رئيس جامعة هونغ كونغ",
+      "tag" : "التغطية الإعلامية",
+      "detail" : [ {
+        "imgUrl" : "https://file.kwunphi.com/kwunphi/news/news7.jpg",
+        "title" : "",
+        "content" : "في 29 آب / أغسطس 2022 ، تشانغ شيانغ ، عضو الأكاديمية الوطنية للهندسة في الولايات المتحدة ، عضو الأكاديمية الصينية للعلوم ، رئيس جامعة هونغ كونغ ، بزيارة غريبة علة الشركة . ® هو نموذج التطبيق العملي البصرية لتحديد المواقع والملاحة ."
+      }, {
+        "imgUrl" : "",
+        "title" : "",
+        "content" : "الشركة الرائدة في مجال إدخال الحشرات الغريبة الشركة منذ فترة طويلة مع جامعة هونغ كونغ للحفاظ على التفاعل الأكاديمي الجيد والتبادل العلمي ، ولكن أيضا الأمل في أن جامعة هونغ كونغ مشروع مشترك لتعزيز البحث والتطوير على الأرض ، أكاديمي تشانغ أيضا عن رغبتها في توفير منصة الموارد والموارد البشرية الحشرات الغريبة الشركة . واتفق الجانبان أيضا على إنشاء مركز البحوث والتنمية المشتركة في هونغ كونغ ."
+      } ],
+      "title" : "زيارة رئيس جامعة هونغ كونغ"
+    } ],
+    "MediaCoverage" : "التغطية الإعلامية"
+  },
+  "nav.kwun" : "كوون ®",
+  "Kwun-B11T" : "PhiCleaner™ E11T",
+  "nav.myrobot" : "بلدي علة غريبة",
+  "nav.purchase" : "شراء قناة",
+  "purchase" : {
+    "SupportWarranty" : "دعم الضمان",
+    "DownloadApp" : "تحميل التطبيق",
+    "SupportCommissioningMachines" : "دعم آلة الاختبار",
+    "OfficialChannels" : "القنوات الرسمية",
+    "CompanyStoreAddressDesc" : "تحديد موقع أقرب متجر على الانترنت أو وكيل لشراء العديد من المنتجات التي تباع . وفقا لنوع من المتجر ، يمكنك اختيار موقع العملية ، آلة اختبار المنتج ، والمعرفة ، الفصول الدراسية ، وما إلى ذلك خدمة ما بعد البيع تجربة مميزة .",
+    "PurchaseChannels" : "شراء قناة",
+    "AllStores" : "جميع المحلات",
+    "AppDesc1" : "تحميل ai-kun التطبيق ، وفتح حقبة جديدة من التنظيف الذكية ، وكسر قيود المسافة ، التطبيق العالمي للتحكم عن بعد ، في متناول اليد",
+    "AI-KwunApp" : "منظمة العفو الدولية - كون التطبيق",
+    "SearchPlace" : "موقع البحث",
+    "AppDesc2" : "تتمتع متعة التحكم عن بعد ، 100 ٪ تغطية كاملة",
+    "AuthorizedAgents" : "دودة غريبة وكيل معتمد",
+    "CompanyStoreAddress" : "شركة المخازن"
+  },
+  "Kwun-B11L" : "PhiCleaner™ E11L",
+  "Kwun-B63G" : "PhiCleaner™ E63G",
+  "home" : {
+    "convertRoofsToBIPV" : "تحويل كل سقف في bipv",
+    "product" : {
+      "cleanJobOpportunityB32L" : "تنظيف وعاء الأرز الذهبي -- واحدة مزدوجة مع Kwun ®， فريق صغير يجعل الكثير من المال",
+      "highTiltWashKingB33H" : "PhiCleaner™ E33H غسلها بالماء ملك كبير مع زاوية ميل - قهر ارتفاع كومة محطة توليد الكهرباء",
+      "moneyMakingHero" : "كسب المال",
+      "floatingPowerStation" : "محطة الطاقة العائمة",
+      "storyOfKwun" : "كوون ®  قصة",
+      "liberateManpowerEnableSustainableCleaningForPowerStation" : "تحرير القوى العاملة ، وتمكين محطات الطاقة النظيفة المستدامة",
+      "commercialRoofs" : "سقف تجاري",
+      "powerGenerationKing" : "ملك الكهرباء - المطر في الوقت المناسب",
+      "conquerorOfResidentialRoofs" : "الفاتح من سقف المنزل",
+      "economicPracticalDefender" : "الاقتصادية والعملية المدافعين",
+      "challengerOfWaterWashingLimits" : "حد الغسيل تشالنجر",
+      "kwunCanFacilitateConstructionOfMoreFloatingPowerStationsOnWater" : "Kwun يمكن بناء المزيد من محطات الطاقة العائمة على سطح الماء",
+      "technologyFusedWithBeauty" : "التكنولوجيا في الولايات المتحدة",
+      "safety" : "أمن .",
+      "powerStationGodOfWealthB22L" : "PhiCleaner™ E22L محطة توليد الكهرباء الله الثروة - سنة كاملة من الكهرباء",
+      "kwunClassroom" : "حشرة غريبة الفصول",
+      "highPilePowerStation" : "كومة عالية محطة توليد الكهرباء",
+      "moneyMakingKing" : "جعل المال الملك -- اليشم يونيكورن",
+      "kwunCanTransformAnyCommercialRoofToBIPV" : "Kwun يمكن بناء أي سقف الصناعية والتجارية في bipv",
+      "purchaseChannels" : "شراء قناة",
+      "efficiencyBoosterB22H" : "PhiCleaner™ E22H التآزر قطعة أثرية - يوم ممطر ذكي تماما ، الإطار المناسب نظيفة",
+      "serviceAndSupport" : "الخدمات والدعم",
+      "powerGenerationHero" : "قوة الرجل الحكيم",
+      "makePVModulesSpotless" : "جعل وحدة الكهروضوئية نظيفة كما جديدة",
+      "universalKing" : "الملك العالمي - ليوبارد رئيس",
+      "followerOfCuttingEdgeTechnology" : "أتباع التكنولوجيا المتطورة",
+      "cleanFrameChampion" : "تنظيف الحدود الملك ، والقضاء على البقع الساخنة ، وكسر من خلال إصدار منطقة محظورة",
+      "greenEnvironmentalProtection" : "غرين",
+      "kwunEmpowerVariousPVScenarios" : "كوون ®  تمكين مجموعة متنوعة من المشاهد الضوئية",
+      "goldenSpeedStationGuardian" : "سرعة الذهب ، وحماية محطة توليد الكهرباء",
+      "cleaningAceB32H" : "PhiCleaner™ E32H نظيفة القاتل الصولجان - ليلة ممطرة يوم العمل ، في جميع الأحوال الجوية دون منافس",
+      "cleaningAdvocateForPVQuality" : "تنظيف جيد قبل الطقس الجيد \" دعاة \" جودة التنظيف الضوئية",
+      "cleaningGoldBowlB32L" : "تنظيف وعاء الأرز الذهبي -- واحدة مزدوجة مع Kwun ®， فريق صغير يجعل الكثير من المال",
+      "kwunCanBuildHighPilePowerStationsAnywhere" : "Kwun يسمح كومة عالية لتوليد الطاقة في أي مكان",
+      "exclusiveCleanTechnology" : "acfsp التكنولوجيا النظيفة ®； sctcd ®"
+    },
+    "autoChargingStandardModel" : "التلقائي شحن نوع قياسي",
+    "householdGenius" : "القطع الأثرية المنزلية",
+    "nightOwl" : "بومة الليل",
+    "wealthFlowsInEveryDesign" : "جعل المال",
+    "independentIndividualDistributedOperation" : "عملية توزيع مستقل",
+    "businessKing" : "ملك الصناعة والتجارة",
+    "kwun" : "كوون ®",
+    "series123" : "كوون ®  1 سلسلة 2 سلسلة 3",
+    "classicThreeMusketeers" : "الفرسان الثلاثة الكلاسيكية",
+    "intelligentModel" : "نموذج ذكي تماما",
+    "furtherUnderstanding" : "كذلك فهم",
+    "nightRainyStreetSweeper" : "ليلة ممطرة زبال"
+  },
+  "help" : {
+    "menuList" : [ {
+      "title" : "جميع الفئات"
+    }, {
+      "subMenu" : [ {
+        "name" : "عملية مستقلة"
+      }, {
+        "name" : "حالة العمل"
+      }, {
+        "name" : "حالة الجهاز"
+      }, {
+        "name" : "نوع العنصر"
+      } ],
+      "title" : "أسئلة وأجوبة"
+    } ],
+    "helpList" : [ {
+      "helpTitle" : "ما هي أنواع من المكونات الضوئية ؟",
+      "text" : "كامل أو نصف قطعة ، 2 / 3 / 4 / 5 / 6 / mbb البوابة الرئيسية ، نوع البطارية m2 / g1 / m4 / m6 / m10 / g12 ، عدد 60 أو 72pcs المكونات في نفس الاتجاه . تسجيل دخول محددة https://www.kwunphi.com/kwun/supported-module عرض دعم أنواع المكونات ."
+    }, {
+      "helpTitle" : "ما هي القيود المفروضة على البيئة المحيطة الضوئية ؟",
+      "text" : "b33h يتطلب سلسلة الكهروضوئية مشاهد مع إمالة أقل من أو يساوي 20 درجة ( فرشاة جافة ) أو 15 درجة ( غسل ) ، b32l b22h / / b22l b22h يتطلب سلسلة الكهروضوئية مشاهد مع إمالة أقل من أو يساوي 15 درجة ( فرشاة جافة ) أو 10 درجة ( غسل المياه ) ، b11l يتطلب سلسلة الكهروضوئية مشاهد مع إمالة أقل من أو يساوي 10 درجة ( فرشاة جافة ) أو 5 درجة ( غسل المياه ) . إن b22l / b22h يدعم وحدات الضوئية مع تباعد أقل من 4 سم ، فرق الارتفاع أقل من 4 سم ، b33h / b32l / b32h يدعم وحدات الضوئية مع تباعد أقل من 4 سم ، فرق الارتفاع أقل من 3 سم ، b11l يدعم وحدات الضوئية مع تباعد أقل من 4 سم ، فرق الارتفاع أقل من 1 سم . الميل البيانات في نهاية المطاف يعتمد على خصائص الملوثات ."
+    }, {
+      "helpTitle" : "ما ينبغي أن نولي الاهتمام إلى سلسلة متعددة خط mbb نوع الضوئية مجموعة ؟",
+      "text" : "1 . mbb العامة التقصير حجم البطارية m6 ( 166mm ) ، يمكن تخصيص نوع المشهد من خلال التطبيق ، يمكن تعيين واحد من أربعة أحجام البطارية المشتركة mbb m4 ( 162mm ) ، m6 ( 166mm ) ، m10 ( 182mm ) و g12 ( 210mm ) . افتراضيا ، نوع ب ( 1050mm ) لا تنطبق على جميع السيناريوهات mbb . انظر \" رقم 5 \" في \" استخدام أجزاء \" في هذا الجدول للحصول على مزيد من التفاصيل حول مطابقة نوع الأسطوانة فرشاة مع مكونات البطارية ."
+    }, {
+      "helpTitle" : "ما هو الفرق بين كامل و نصف قطعة من سلسلة الكهروضوئية ؟",
+      "text" : "المصنع الافتراضي مجموعة كاملة من مكونات الفيلم ، إذا كنت تستخدم في نصف مكونات المشهد ، تحتاج إلى استخدام التطبيق وضع مخصص لتحديد نوع العنصر نصف الفيلم واسطة ."
+    }, {
+      "helpTitle" : "ما هي كفاءة التنظيف ؟",
+      "text" : "كفاءة التنظيف يتأثر بعوامل مختلفة ، مثل نوع العنصر ، وضع الكلمات ، مجموعة تخطيط سلسلة زاوية الميل ، الخ ."
+    }, {
+      "helpTitle" : "يمكن استخدام الطقس الرطب ؟",
+      "text" : "يمكن أن تستخدم في يوم ممطر ، ولكن يرجى الرجوع إلى دليل التعليمات بدقة وفقا لمستوى هطول الأمطار ."
+    }, {
+      "helpTitle" : "كيف يمكن تنظيف المكونات التي لم يتم تنظيفها لفترة طويلة و التي تراكمت بشكل كبير من الرماد ؟",
+      "text" : "إذا كان الغبار المتراكم ، يجب استخدام وسائل الإعلام النظيفة ، بما في ذلك ولكن لا تقتصر على المياه النظيفة والمذيبات ، الخ ."
+    }, {
+      "helpTitle" : "الجدار والأنابيب وغيرها من العقبات في نهاية العلوي من سلسلة الكهروضوئية في حدود 50 سم",
+      "text" : "استخدام التطبيق الخاص بك تعيين \" مجموعة مسلسل عدد الحد \" وظيفة البرمجيات لتخصيص أول خط سلسلة ( أعلى ) من دون تنظيف ، إشارة محددة إلى دليل استخدام التطبيق في دليل التعليمات ."
+    }, {
+      "helpTitle" : "ماذا عن عدم كفاية طاقة البطارية في عملية التشغيل الذاتي ؟",
+      "text" : "إذا كانت البطارية غير كافية في عملية التشغيل الذاتي ، وانخفاض الجهد رحلة العودة وظيفة يتم تشغيلها ، الجهاز سوف تدخل في انخفاض الجهد رحلة العودة واسطة والعودة إلى نقطة البداية ."
+    }, {
+      "helpTitle" : "يمكن أن تدعم نقطة تجديد وظيفة ؟",
+      "text" : "دعم نقطة التجديد . بعد انقطاع العمل ، الجهاز تلقائيا يحفظ موقع المقاطعة ، وسوف تلقائيا تخطي منطقة نظيفة افتراضيا في المرة القادمة تبدأ ، والعودة إلى أقرب موقع آخر انقطاع العمل والبدء في التنظيف ."
+    }, {
+      "helpTitle" : "ماذا عن الندى ؟",
+      "text" : "مكونات بيئة العمل سوف يكون بعض الرطوبة ، عندما تواجه حالة الندى ، الجهاز سوف بنشاط تحديد الرطوبة المفرطة في المنطقة و تخطي ."
+    }, {
+      "helpTitle" : "هل هناك أي نصائح بعد التنظيف ؟",
+      "text" : "بعد الانتهاء من عملية التنظيف ، التطبيق سوف يكون \" تنظيف \" تلميح ."
+    }, {
+      "helpTitle" : "هل هناك أي وضع التشغيل الليلي ؟",
+      "text" : "دعم التشغيل الذاتي ليلا ونهارا ."
+    }, {
+      "helpTitle" : "كيفية التعامل مع وحدة الضوئية بعد الشيخوخة ؟",
+      "text" : "بسبب تدهور الشيخوخة أداء وحدة الضوئية ، من الصعب استعادة تأثير بعد التنظيف ، لا يمكن العودة إلى الحالة الأولية ، يمكن أن تتوقف عن استخدام الصيانة ."
+    }, {
+      "helpTitle" : "كيفية عرض نوع من وحدة الضوئية ؟",
+      "text" : "عرض قائمة دعم أنواع المكونات : التطبيق الصفحة الرئيسية \" مساعدة \" - دعم قائمة المكونات \" عرض دعم أنواع المكونات ."
+    }, {
+      "helpTitle" : "يمكنك تنظيف بعض المناطق فقط ؟",
+      "text" : "تنظيف المنطقة يمكن أن تكون مجموعة من التطبيقات والمعدات فقط تنظيف المنطقة المحددة ."
+    }, {
+      "helpTitle" : "كيفية تعيين طريقة التنظيف ؟",
+      "text" : "هناك نوعان من تنظيف الوضع العالمي و الجزء ، في الوضع العالمي ، الجهاز سوف تعمل على تنظيف المنطقة بأكملها وفقا للمعايير المحددة ، في وضع الجزء ، يمكن تقسيم المنطقة ووضع معايير التنظيف ."
+    }, {
+      "helpTitle" : "كيفية تعيين الحد الأقصى لعدد المجموعات المسلسل ؟",
+      "text" : "من خلال \" إعدادات \" في التطبيق -- > - > - > - \" المتقدمة \" مجموعة الحد من عدد من التسلسلات ، الجهاز تلقائيا تحديد أعلى السلسلة عندما لا تكون نظيفة ."
+    }, {
+      "helpTitle" : "كيفية تعيين عرض التنظيف في وضع التنظيف ؟",
+      "text" : "استخدام \" إعدادات \" في التطبيق -- > - > - \" المتقدمة \" تنظيف العرض \" دعم أربعة خيارات تنظيف العرض ."
+    }, {
+      "helpTitle" : "كيفية تعيين سرعة التنظيف ؟",
+      "text" : "من خلال تطبيق \" إعدادات \" -- > - > - \" متقدمة \" سرعة التنظيف \" الإعدادات ، ودعم أربعة سرعة التنظيف الاختيار ."
+    }, {
+      "helpTitle" : "تنظيف الروبوت يمكن تفكيكها ؟",
+      "text" : "المكونات القياسية مع سيارة شحن الكنز ، من السهل استبدال يمكن أن تستمر في العمل ، عملية محددة يمكن الرجوع إلى \" تعليمات الاستخدام ."
+    }, {
+      "helpTitle" : "يمكن تنظيف الرأس الدوارة فرشاة استبدال ؟",
+      "text" : "يمكن استبدالها . تنظيف الرأس و استبدال فرشاة المتداول ، عملية محددة يمكن الرجوع إلى \" تعليمات الاستخدام ."
+    }, {
+      "helpTitle" : "كيفية استبدال فرشاة المتداول ؟",
+      "text" : "في ظل حالة من التوقف ، الدوارة فرشاة كليب هو استدارة في موقف المقابلة ، الأسطوانة فرشاة غطاء الحماية هو تفكيكها ، الأسطوانة فرشاة هو رفع و دفعت بها ، الغطاء الواقي هو إغلاق بعد الأسطوانة فرشاة جديدة يتم تحميلها ، وبالتالي ضمان أن مشبك من الغطاء الواقي هو مثبت في تحامل الأخدود ."
+    }, {
+      "helpTitle" : "يمكن تنظيف الشعر الخشن في الجزء السفلي من الرأس محل نفسه ؟",
+      "text" : "تنظيف الشعر في الجزء السفلي من الرأس لا ينصح باستبدال . إذا كنت بحاجة إلى استبدال ، يرجى الاتصال بالشركة المصنعة أو خدمة ما بعد البيع ."
+    }, {
+      "helpTitle" : "يمكن مكشطة في الجزء السفلي من آلة التنظيف يتم استبدالها من قبل نفسك ؟",
+      "text" : "مكشطة في الجزء السفلي من آلة التنظيف لا ينصح باستبدال . إذا كنت بحاجة إلى استبدال ، يرجى الاتصال بالشركة المصنعة أو خدمة ما بعد البيع ."
+    }, {
+      "helpTitle" : "كيفية الحفاظ على نظافة ؟",
+      "text" : "1 . في عملية استخدام آلة التنظيف ، ينبغي أن تحقق بانتظام تنظيف الرأس فرشاة المتداول ارتداء ، إذا كان هناك لبس واضح ينبغي استبدالها في الوقت المناسب ."
+    }, {
+      "helpTitle" : "كيفية الحفاظ على تنظيف الرأس و فرشاة المتداول ؟",
+      "text" : "1 . تنظيف الرأس و فرشاة المتداول بعد فترة من الزمن ، ينبغي أن تكون دورية لتنظيف الغبار والأوساخ ."
+    }, {
+      "helpTitle" : "كيفية حل المشاكل في عملية الاستخدام ؟",
+      "text" : "إذا كنت تواجه مشاكل في استخدام ، يمكنك الرجوع إلى \" تعليمات الاستخدام \" استكشاف الأخطاء وإصلاحها ، إذا كانت المشكلة لا يمكن حلها ، يمكنك الاتصال بالشركة المصنعة أو خدمة ما بعد البيع للحصول على المساعدة ."
+    }, {
+      "helpTitle" : "ما هو نوع من طريقة شحن روبوت التنظيف يدعم ؟",
+      "text" : "روبوت التنظيف يدعم كلا من الطاقة الشمسية الكهروضوئية شحن و شحن الشبكة ."
+    }, {
+      "helpTitle" : "كيف حول الشحن و وقت العمل تنظيف الروبوت ؟",
+      "text" : "وقت الشحن و وقت العمل سوف تتأثر شدة الضوء ، طريقة الشحن ، وتنظيف واسطة ، الخ ."
+    }, {
+      "helpTitle" : "يمكن تنظيف الروبوت العمل أثناء الشحن ؟",
+      "text" : "أثناء الشحن ، تنظيف الروبوت تلقائيا إيقاف العمل من أجل شحن ."
+    }, {
+      "helpTitle" : "كيف روبوت تنظيف العمل عندما يكون هناك نقص في الضوء ؟",
+      "text" : "تنظيف الروبوت قد توقف عن العمل عندما يكون الضوء غير كافية ، حتى لا تؤثر على التشغيل العادي و شحن ."
+    }, {
+      "helpTitle" : "يمكن تنظيف الروبوت تعمل عن بعد ؟",
+      "text" : "تنظيف الروبوت يدعم التحكم عن بعد من خلال التطبيق ، ولكن لا يمكن أن تعمل من خلال وحدة تحكم عن بعد العادية ."
+    }, {
+      "helpTitle" : "كيفية تحميل وتثبيت تطبيقات الروبوت الأنظف ؟",
+      "text" : "يمكنك البحث عن اسم التطبيق من تنظيف الروبوت في التطبيق المتجر ( على سبيل المثال ، متجر تطبيقات جوجل بلاي ، الخ ) و تحميل وتثبيت ."
+    }, {
+      "helpTitle" : "كيف روبوت تنظيف التطبيق ربط وربط ؟",
+      "text" : "1 . تحميل وتثبيت تطبيق تنظيف الروبوت ."
+    }, {
+      "helpTitle" : "كيفية ترقية البرامج الثابتة تنظيف الروبوت ؟",
+      "text" : "تنظيف الروبوت ترقية البرامج الثابتة يمكن أن تتم عادة من خلال التطبيق ، فتح التطبيق والدخول في خيارات الإعداد ، والعثور على ترقية البرامج الثابتة أو خيارات مماثلة ، وفقا للتعليمات من أجل الترقية ."
+    }, {
+      "helpTitle" : "هل تنظيف الروبوت دعم التحكم الصوتي ؟",
+      "text" : "بعض تنظيف الروبوتات يمكن أن تدعم التحكم في الصوت ، وعادة ما تحتاج إلى أن تكون متصلا إلى جهاز مساعد ذكي متوافق ( مثل الأمازون أليكسا ، جوجل مساعد ، وما إلى ذلك ) ."
+    }, {
+      "helpTitle" : "هل تنظيف الروبوت دعم رسم الخرائط والملاحة ؟",
+      "text" : "بعض من التنظيف المتقدمة الروبوتات قد دعم رسم الخرائط والملاحة وظائف ، من خلال رسم الخرائط في التطبيق الخاص بك ، ومن ثم تحديد المناطق النظيفة والمسارات . دعم محددة يمكن الرجوع إلى وصف المنتج أو المعلومات الرسمية ."
+    }, {
+      "helpTitle" : "هو روبوت التنظيف ذكي وظيفة تجنب عقبة ؟",
+      "text" : "معظم روبوت التنظيف الحديثة مجهزة ذكي وظيفة تجنب عقبة ، من خلال أجهزة الاستشعار ، وكاميرات الفيديو وغيرها من البيئة المحيطة ، لتجنب الاصطدام و السقوط . ميزات محددة يمكن الرجوع إلى وصف المنتج أو المعلومات الرسمية ."
+    }, {
+      "helpTitle" : "يمكن تنظيف الروبوت تتكيف مع مختلف الأرض ؟",
+      "text" : "روبوت التنظيف يمكن أن تتكيف مع أنواع مختلفة من الأرضيات ، مثل الأرضيات الصلبة ، والسجاد ، وما إلى ذلك ، ولكن القدرة على التكيف من نماذج مختلفة قد تختلف ، يمكن الرجوع إلى تعليمات المنتج أو المعلومات الرسمية ."
+    }, {
+      "helpTitle" : "يمكن تنظيف الروبوت التعرف على العقبات على الأرض ؟",
+      "text" : "تنظيف الروبوتات عادة ما تكون قادرة على تحديد العقبات على الأرض من خلال أجهزة الاستشعار ، وبالتالي تجنب الاصطدام أو تجاوز العقبات . القدرة على تحديد محددة يمكن الرجوع إلى وصف المنتج أو المعلومات الرسمية ."
+    } ],
+    "Search" : "استعلم عن",
+    "PleaseEnterYourQuestion" : "من فضلك أدخل سؤالك",
+    "numberOfResults" : "تم العثور على { num }"
+  },
+  "nav.solution" : "حل .",
+  "comingSoon" : "يرجى نتطلع إلى",
+  "service" : {
+    "ContactAfter-salesReplacement" : "الاتصال بعد تطبيق جديد",
+    "KwunCare" : "ك سي ®  خدمات القيمة المضافة",
+    "WonderfulWorkVideos" : "فيديو رائع ، تجلب لك المال معا",
+    "TestTheMachineNow" : "آلة الاختبار الفوري",
+    "remote-experience" : {
+      "serviceContent" : [ {
+        "title" : "يرجى تحميل وتثبيت التطبيق",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/download_app.png",
+          "router" : "/app",
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "مدير عمليات المسح الضوئي رمز ثنائي الأبعاد",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/wechat_rolin.png",
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "الحصول على حساب مؤقت و كلمة السر عن بعد",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/login_app.png",
+          "title" : "",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "رابعا ، عرض آلة التحكم عن بعد عن طريق الهاتف الفيديو الصغيرة",
+        "content" : [ {
+          "imgUrl" : "https://file.kwunphi.com/kwunphi/images/remote/zh/watch.jpg",
+          "title" : "",
+          "value" : ""
+        } ]
+      } ],
+      "serviceName" : "بعد اختبار آلة"
+    },
+    "ApplyNow" : "طلب فوري",
+    "WelcomeToUse" : "مرحبا بكم في الخدمة والدعم",
+    "OnlineVideoTutorials" : "حشرة غريبة الفصول",
+    "GetManual" : "الحصول على دليل المستخدم ، تعليمات الاستخدام ، دليل البدء السريع وغيرها من الوثائق الرسمية ، معلومات المنتج",
+    "After-salesPolicy" : "سياسة ما بعد البيع",
+    "ReviewDocumentation" : "عرض الوثيقة حل المشكلة",
+    "ReviewAfter-SalesPolicy" : "سياسة ما بعد البيع وشروط الخدمة",
+    "ExperienceTheMachineRemotely" : "بعد تجربة الجهاز ، على الخط السيطرة على Kwun ® نظيف",
+    "afterSalesPolicy" : {
+      "serviceContent" : [ {
+        "title" : "خدمة ما بعد البيع الداخلي",
+        "content" : [ {
+          "title" : "اتصل بنا",
+          "value" : "العملاء الاتصال لدينا قسم خدمة ما بعد البيع عن طريق الهاتف أو البريد الإلكتروني أو على الانترنت منصة الخدمة ، وردود الفعل على الجهاز ."
+        }, {
+          "title" : "مشكلة تأكيد",
+          "value" : "لدينا خدمة ما بعد البيع فريق الاتصال العملاء في غضون 24 ساعة لمعرفة تفاصيل المشكلة والتحقق من الامتثال لشروط خدمة ما بعد البيع ."
+        }, {
+          "title" : "حل .",
+          "value" : "اعتمادا على الوضع ، ونحن نقدم الحلول التالية :"
+        }, {
+          "title" : "الخيار الأول",
+          "value" : "مشكلة جودة المنتج : في فترة الضمان ، إذا كان هناك مشكلة نوعية غير البشرية ، ونحن نأخذ جميع المسؤوليات ."
+        }, {
+          "title" : "الخيار الثاني",
+          "value" : "التسليم في الوقت المحدد : التأكد من أن المنتج هو تسليمها إلى المكان المحدد في الوقت المطلوب من قبل العملاء ."
+        }, {
+          "title" : "البرنامج الثالث",
+          "value" : "مظهر المنتج الضرر أو غيرها من المشاكل : إصلاح أو استبدال أو تقديم منتج جديد تماما في الوقت المناسب ."
+        }, {
+          "title" : "وعد جديد",
+          "value" : "خلال فترة الضمان ، إذا كان نفس المعدات ، نفس نوعية المشكلة ثلاث مرات متتالية من الصيانة لا يمكن استخدامها بشكل صحيح ، ونحن ملتزمون استبدال المعدات الجديدة من نفس النوع ."
+        }, {
+          "title" : "خدمة ما بعد البيع المحتملة",
+          "value" : "في تصميم المعدات خدمة الحياة ، ونحن ملتزمون بتوفير المصنع الأصلي قطع غيار أصيلة لضمان الاستخدام العادي للمعدات ."
+        }, {
+          "title" : "التدريب والتفتيش",
+          "value" : "بعد قبول المعدات في العملية العادية ، تعيين مهندس محترف لتدريب العملاء على الصيانة والتشغيل . إرسال الموظفين الفنيين بانتظام للتحقق من حالة تشغيل المعدات وحل المشاكل ."
+        }, {
+          "title" : "وعد جديد",
+          "value" : "خلال فترة الضمان ، إذا كان نفس المعدات ، نفس نوعية المشكلة ثلاث مرات متتالية من الصيانة لا يمكن استخدامها بشكل صحيح ، ونحن ملتزمون استبدال المعدات الجديدة من نفس النوع ."
+        }, {
+          "title" : "وعد جديد",
+          "value" : "خلال فترة الضمان ، إذا كان نفس المعدات ، نفس نوعية المشكلة ثلاث مرات متتالية من الصيانة لا يمكن استخدامها بشكل صحيح ، ونحن ملتزمون استبدال المعدات الجديدة من نفس النوع ."
+        } ]
+      }, {
+        "title" : "التزام الخدمة",
+        "content" : [ {
+          "title" : "جودة المنتج الالتزام",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "تصنيع واختبار المنتجات وفقا للمعايير الوطنية ."
+        }, {
+          "title" : "",
+          "value" : "من خلال اختبار المهنية ، وضمان أن المنتج يلبي متطلبات التصميم ."
+        }, {
+          "title" : "",
+          "value" : "فترة الضمان في الذاكرة من غير مشاكل الجودة ، ونحن نتحمل جميع المسؤوليات ."
+        }, {
+          "title" : "وعد التسليم",
+          "value" : "يتم تسليم المنتجات إلى الموقع المحدد في الوقت المطلوب من قبل العملاء ."
+        }, {
+          "title" : "ظهور مشكلة الضرر",
+          "value" : "العثور على المشاكل بعد الخروج من مربع ، وإصلاح ، استبدال أو تقديم منتجات جديدة في الوقت المناسب ."
+        }, {
+          "title" : "خدمة جديدة",
+          "value" : "خلال فترة الضمان ، نفس المعدات ، نفس نوعية المشكلة ثلاث مرات متتالية من الصيانة لا يمكن أن تستخدم عادة ، ونحن ملتزمون استبدال نفس النوع من المعدات الجديدة ."
+        } ]
+      }, {
+        "title" : "طريقة الخدمة",
+        "content" : [ {
+          "title" : "خدمة الهاتف",
+          "value" : "العملاء مباشرة التشاور التقني مع الموظفين التقنيين من خلال خدمة الهاتف"
+        }, {
+          "title" : "",
+          "value" : "الهاتف وقت الاستجابة : 1 ساعة التغذية المرتدة من الأسئلة العامة ، 8 ساعات لحل المشكلة . حل المشاكل المعقدة في غضون 3 أيام عمل ."
+        }, {
+          "title" : "بعد خدمة أوتا",
+          "value" : "موظفي الخدمات التقنية في الشركة يمكن التحكم عن بعد ، والصيانة ، من خلال الخدمات التقنية عن بعد أوتا ، على الفور حل المشكلة ."
+        }, {
+          "title" : "",
+          "value" : "البريد الإلكتروني : kwunphi.com الدعم { @"
+        }, {
+          "title" : "",
+          "value" : "موقع الخدمات التقنية : https://www.kwunphi.com/downloads"
+        }, {
+          "title" : "الخدمات المنزلية",
+          "value" : "في حالة أن الهاتف و الخدمة عن بعد لا يمكن حل المشكلة ، شركتنا يمكن ترتيب الموظفين التقنيين لخدمة من الباب إلى الباب ."
+        }, {
+          "title" : "زمن الاستجابة",
+          "value" : "شنتشن في غضون 2 ساعة ، 12 ساعة في مقاطعة قوانغدونغ ، 48 ساعة خارج مقاطعة قوانغدونغ ."
+        }, {
+          "title" : "",
+          "value" : "ونحن ملتزمون بدعم لكم من خلال خدمة ما بعد البيع عالية الجودة ، والحفاظ على المعدات الخاصة بك دائما تعمل بكفاءة ، والعمل معكم من أجل مستقبل أفضل !"
+        } ]
+      } ],
+      "serviceName" : "سياسة ما بعد البيع"
+    },
+    "HotService" : "خدمة شعبية",
+    "OfficialAfterSalesService" : "معلومات العلامة التجارية ، والمنتجات التعليمية الرسمية خدمة ما بعد البيع",
+    "lightningFastReplacement" : {
+      "serviceContent" : [ {
+        "title" : "سياسة جديدة",
+        "content" : [ {
+          "title" : "وقد تم إضافة برنامج تبادل سريع للغاية ، ويمكن للمستخدمين التمتع خدمة تبادل سريع للغاية",
+          "value" : ""
+        }, {
+          "title" : "",
+          "value" : "1 . آلة شراء أقل من سنة واحدة ؛"
+        }, {
+          "title" : "",
+          "value" : "2 . المظهر ، هيكل ، الأجزاء الداخلية سليمة ، دون تعديل ، تفكيك ، فتح ، وما إلى ذلك ، دون أي ضرر غير بشري ® ' 3 ` ثلاث مجموعات من أحكام ضمان / إصلاح النوعية المحدودة؛"
+        }, {
+          "title" : "",
+          "value" : "3 - تكاليف الصيانة التراكمية في 25 ٪ من سعر السوق من هذا النموذج ."
+        }, {
+          "title" : "إذا كان الجهاز الخاص بك يلبي الشروط المذكورة أعلاه ، يمكنك التمتع المقابلة فرصة جديدة في الوقت المحدد ، مما يتيح لك تجربة استخدام أكثر دواما وذات جودة عالية .",
+          "value" : ""
+        } ]
+      }, {
+        "title" : "عملية جديدة",
+        "content" : [ ]
+      }, {
+        "title" : "خطة جديدة",
+        "content" : [ {
+          "title" : "",
+          "value" : "المستخدمين في شراء Kwun ® يمكنك أيضا شراء خدمات جديدة بسرعة فائقة ، بما في ذلك 1 فرصة جديدة ، في كل مرة مدة الخدمة سنة واحدة ."
+        } ]
+      } ],
+      "serviceName" : "سرعة جديدة"
+    },
+    "liveOnlineHelp" : {
+      "serviceContent" : [ {
+        "title" : "أولا ، نحن نأخذ الاستجابة السريعة والمهنية التوجيه عن بعد باعتبارها جوهر ، لتوفير لكم مع كفاءة خدمات ما بعد البيع .",
+        "content" : [ {
+          "title" : "خدمة الهاتف",
+          "value" : "لا تتردد في الاتصال لدينا خدمة ما بعد البيع الخط الساخن ، مع الموظفين المهنية والتقنية لإجراء تبادل مباشر والتشاور ."
+        }, {
+          "title" : "برامج الاتصالات خدمة الرسم البياني",
+          "value" : "من خلال برامج المراسلة الفورية مع فريق ما بعد البيع لدينا صورة تبادل المعلومات ، مريحة وسريعة ."
+        }, {
+          "title" : "خدمة توصيل الفيديو",
+          "value" : "بالنسبة للمشاكل المعقدة ، ونحن نقدم خدمة توصيل الفيديو لضمان الاتصال في الوقت الحقيقي والتوجيه ."
+        } ]
+      }, {
+        "title" : "عملية تطبيق العميل",
+        "content" : [ {
+          "title" : "اتصل بنا",
+          "value" : "الاتصال على الفور مع قسم خدمة ما بعد البيع لدينا إذا كان لديك أي مشاكل في الاستخدام ."
+        }, {
+          "title" : "تفاصيل الاتصال",
+          "value" : "الاتصال على الخط الساخن بعد البيع : 40086861"
+        }, {
+          "title" : "الاتصال الثاني",
+          "value" : "برامج الدردشة على الانترنت الاتصال : مساعد ما بعد البيع microsignal - hiahiahia222888"
+        }, {
+          "title" : "أسئلة الاتصال :",
+          "value" : "لدينا فريق خدمة ما بعد البيع سوف تحصل على اتصال معكم بسرعة للحصول على مزيد من التفاصيل حول المشكلة وتقديم الحلول ."
+        }, {
+          "title" : "التوجيه عن بعد",
+          "value" : "اعتمادا على تعقيد المشكلة ، ونحن سوف توفر المهنية التوجيه عن بعد عن طريق الهاتف ، برامج الدردشة والرسومات ، أو الفيديو ."
+        }, {
+          "title" : "",
+          "value" : "لدينا فريق ما بعد البيع سوف توفر لك مع خدمات عالية الجودة ، لضمان أن المعدات الخاصة بك دائما تعمل بكفاءة ، في أي وقت لمواجهة التحديات المختلفة ."
+        } ]
+      } ],
+      "serviceName" : "بث الإسعافات الأولية"
+    },
+    "Search" : "استعلم عن",
+    "KwunPhiWeChatOfficialAccount" : "حشرة غريبة رقم الجمهور",
+    "moreService" : "المزيد من الخدمات",
+    "ApplyOnlineConsignment" : "إرسال طلب إصلاح على الانترنت مجانا من الباب إلى الباب",
+    "ProfessionalEngineersProvideOnlineGuidance" : "مهندس محترف على الانترنت التوجيه ، المشكلة القائمة",
+    "GoToDownloadCenter" : "الذهاب مباشرة إلى مركز تحميل",
+    "ServicePhone" : "رقم الخدمة : 4008786861",
+    "RemoteRepair" : "الصيانة عن بعد",
+    "GoNow" : "الذهاب فورا",
+    "downloadCenter" : "مركز تحميل",
+    "Expand" : "تكشفت",
+    "DocumentationManuals" : "الوثائق والكتيبات",
+    "contact-us" : "اتصل بنا",
+    "ContactAfter-salesToReplacement" : "الاتصال بعد طلب استبدال آلة ، أول استخدام بعد إصلاح",
+    "LightningFastReplacement" : "سرعة جديدة",
+    "HumanCustomerService" : "تحتاج إلى مساعدة ؟ هناك دليل خدمة العملاء ، وأكثر من ذلك .",
+    "PleaseEnterQuestion" : "من فضلك أدخل سؤالك",
+    "OnlineCustomerService" : "خدمة العملاء على الانترنت",
+    "VarietyGuaranteeServices" : "مجموعة متنوعة من خدمات الأمن ، الأمن العام",
+    "HotlineService" : "خدمة الخط الساخن",
+    "Notices" : {
+      "Notify" : "إخطار",
+      "EventsAnnouncements" : "الأنشطة والإعلانات",
+      "Notice-content-08" : "ونحن نقدر اختيارك لخدمتنا . نحن سنحاول باستمرار أن يزوّد [ قوليتي سرفيس ] خبرة ويخلق تجربة جيّدة لأنّ أنت .",
+      "Notice-content-07" : "وسوف نتابع دائما القوانين واللوائح التي تحمي حقوقك والخصوصية . شعرت إن أنت تتلقّى أيّ أسئلة حوالي نا خدمة أو سياسة , رجاء حرّة أن اتّصل بنا .",
+      "Notice-content-09" : "وسوف نتابع دائما القوانين واللوائح التي تحمي حقوقك والخصوصية . شعرت إن أنت تتلقّى أيّ أسئلة حوالي نا خدمة أو سياسة , رجاء حرّة أن اتّصل بنا .",
+      "Notice-content-04" : "ونحن نقدر خصوصيتك و ملتزمة بحماية المعلومات الشخصية الخاصة بك . يرجى الرجوع إلى سياسة الخصوصية لمعرفة كيفية جمع واستخدام وحماية البيانات الخاصة بك .",
+      "Notice-content-03" : "من أجل تلبية الاحتياجات الخاصة بك على نحو أفضل ، ونحن نسعى جاهدين لتوسيع محتوى خدماتنا . يرجى نتطلع إلى الخدمة الجديدة التي سوف تجلب لك المزيد من الراحة .",
+      "Notice-content-06" : "استنادا إلى ملاحظات المستخدمين ، ونحن نعمل على تحسين تجربة دعم العملاء . ونحن سوف نبذل قصارى جهدنا لضمان أن تحصل على مساعدة مرضية في الوقت المناسب أثناء الاستخدام .",
+      "Notice-content-05" : "نحن جدّا يشرّف أن يزوّد أنت مع [ هيغقوليتي سرفيس ] . رجاء شعرت حرّة أن يزور موقعتنا أن يحصل ال [ سرفيس ينفورمأيشن ] محدّثة وتحديثات .",
+      "Notice" : "تذكير",
+      "Notice-content-10" : "تعليقاتكم مهمة جدا بالنسبة لنا ! إذا كان لديك أي اقتراحات أو ملاحظات ، يرجى الاتصال بنا من خلال قنوات دعم العملاء .",
+      "Notice-content-02" : "ويسرنا أن أحيطكم علما بأن لدينا تحديث سياستنا الخدمة . يرجى الرجوع إلى أحدث وثائق سياسة الخدمة للحصول على مزيد من التفاصيل .",
+      "Notice-content-01" : "في الآونة الأخيرة ، ظروف الإضاءة ممتازة ، الاستفادة الكاملة من الطقس الجيد ، تنظيف الألواح الضوئية !"
+    },
+    "Mandarin" : "بوتونغهوا",
+    "DownloadOfficialSoftwareTools" : "تحميل برامج أو أدوات رسمية مثل تعديل المعلمة ، رمز التبديل ، الأشعة تحت الحمراء للتصوير الحراري ، الخ .",
+    "ServiceInformationSupport" : "طلب خدمة ودعم المعلومات",
+    "remoteExperience" : "بعد اختبار آلة",
+    "SubstituteMachineApplication" : "طلب بديل",
+    "DownloadApps" : "تحميل تطبيقات كوون ، كوون مول ، منتديات كوون وغيرها من التطبيقات الرسمية",
+    "substituteMachineApplication" : {
+      "serviceContent" : [ {
+        "title" : "نحن نعد",
+        "content" : [ {
+          "title" : "إرسال بديل في غضون 24 ساعة",
+          "value" : "بعد تلقي وتأكيد أن الجهاز لا يعمل بشكل صحيح ، وسوف نرسل لك بديل في غضون 24 ساعة لضمان استمرار العمل دون انقطاع ."
+        }, {
+          "title" : "فريق الصيانة المهنية",
+          "value" : "إذا فشل الجهاز ، لدينا فريق الصيانة المهنية سيتم تشخيص وإصلاح على الفور للتأكد من أن الجهاز الخاص بك سوف يعود إلى العمل في أقرب وقت ممكن . خلال فترة الصيانة ، ونحن سوف توفر آلات بديلة ، حتى أن خطة الإنتاج الخاصة بك هو دائما صخرة صلبة ."
+        } ]
+      }, {
+        "title" : "عملية التطبيق",
+        "content" : [ {
+          "title" : "اتصل بنا على الفور",
+          "value" : "إذا كان هناك أي مشكلة مع الجهاز ، يرجى الاتصال لدينا قسم خدمة ما بعد البيع على الفور . يمكنك الرد عن طريق الهاتف ، البريد الإلكتروني ، أو على الانترنت منصة الخدمة و طلب المعلومات الضرورية مثل نموذج الجهاز ."
+        }, {
+          "title" : "تأكيد سريع",
+          "value" : "لدينا فريق خدمة ما بعد البيع سوف تحصل على اتصال معكم في غضون فترة معقولة من الوقت لفهم الوضع خطأ ."
+        }, {
+          "title" : "استجابة سريعة",
+          "value" : "اعتمادا على الظروف ، ونحن سوف تقرر على الفور ما إذا كان إرسال فنيين للعمل في الموقع أو إرسال آلات بديلة لضمان تلبية الاحتياجات الخاصة بك في الوقت المناسب ."
+        }, {
+          "title" : "إرسال بديل",
+          "value" : "إذا كان الجهاز الخاص بك يحتاج إلى إصلاح ، ونحن سوف ترسل لهم في غضون 24 ساعة بعد تأكيد الطلب ."
+        }, {
+          "title" : "الصيانة السريعة",
+          "value" : "عند استلام البريد الإلكتروني الخاص بك ، ونحن سوف إجراء التشخيص والصيانة على الفور ، وتوفير بديل لضمان الإنتاج الخاص بك لن تتأثر ."
+        }, {
+          "title" : "اختبار الكمال",
+          "value" : "بعد الانتهاء من الصيانة ، ونحن سوف اختبار الجهاز للتأكد من أنه يعمل بشكل صحيح وإرسالها إلى يدك ."
+        } ]
+      } ],
+      "serviceName" : "طلب بديل"
+    },
+    "LearnMoreAboutTheOperation" : "تعلم المزيد من المعرفة العملية",
+    "SoftwareTools" : "البرمجيات والأدوات",
+    "LiveOnlineFirstAid" : "بث مباشر على الانترنت الإسعافات الأولية ، وتقديم المشورة وحل المشاكل",
+    "HelpCenter" : "مركز المساعدة",
+    "LiveFirstAid" : "بث الإسعافات الأولية",
+    "AI-KwunApp" : "منظمة العفو الدولية - كون التطبيق",
+    "hide" : "تراجع",
+    "Service&Support" : "الخدمات والدعم",
+    "ServicePeriod-02" : "من السبت إلى الأحد : 10 : 00-20 : 00 ( بتوقيت بكين )",
+    "ServicePeriod-01" : "من الاثنين إلى الجمعة : 9 : 00-21 : 00 ( بتوقيت بكين )",
+    "ServiceInformationQuery" : "kwunfhi الاتصال على الانترنت خدمة العملاء ، خدمة المعلومات الاستفسارات ، تعلم مهارات اللعب"
+  },
+  "series" : {
+    "ProductSeriesDisplay" : "عرض سلسلة من المنتجات",
+    "FindTheRightCleaningRobotForYou" : "البحث عن روبوت التنظيف التي تناسبك"
+  },
+  "nav.downloadsAndroid" : "تحميل النسخة اندرويد",
+  "maintenance" : {
+    "goldenNodeMaintenance" : "العقدة الذهبية صيانة",
+    "software" : "سوفت وير",
+    "lightBarrierBrush" : "التظليل فرشاة",
+    "driveWheel" : "عجلة القيادة",
+    "wholeDeviceBeautification" : "آلة الجمال",
+    "logoPlate" : "شعار العلامة التجارية",
+    "suctionCup" : "مصاصة",
+    "casing" : "الضميمة",
+    "kwunMaintenance" : "صيانة ثلاث نقاط",
+    "synchronousWheel" : "مزامنة عجلة",
+    "synchronousWheelLockingPlate" : "عجلة متزامن تحديد قطعة",
+    "nozzleBracket" : "فوهة قوس",
+    "caterpillarTrack" : "كاتربيلر",
+    "consumableParts" : "تستهلك قطعة",
+    "bspUnitFirmware" : "باهوجان ساماج وحدة البرامج الثابتة",
+    "positioningCorrection" : "موقع تصحيح",
+    "maintenanceTitle" : "صيانة",
+    "chassis" : "الشاسيه",
+    "silverNodeMaintenance" : "الفضة عقدة الصيانة",
+    "tianyunOSOperatingSystem" : "تيانيونوس ® نظام التشغيل",
+    "visualLocalizationModule" : "وحدة تحديد المواقع البصرية",
+    "replacement" : "تغيير جديد",
+    "rollingBrushMotorDriverModule" : "المتداول فرشاة محرك وحدة",
+    "rotaryPlatformAssembly" : "طاولة دوارة العامة",
+    "care" : "رعاية",
+    "desc" : [ "كوون ® سوء استخدام البيئة ، عملية مستمرة طويلة ، علميا الحفاظ على طبيعية ® وسوف تضمن الفوائد الاقتصادية . غريب علة الشركة تعتبر صيانة ما بعد البيع جزء مهم ، أقترح أن العملاء استخدام الأميال المتراكمة كل ثلاثة أشهر أو كل 300 كيلومتر على العودة إلى المصنع للحفاظ على الوقت ، مع الأخذ في الاعتبار خطة الصيانة المخصصة للعملاء المرونة في اختيار العودة إلى المصنع للحفاظ على . ولذلك ، فإن محتوى مختلف خطط الصيانة وضعت من قبل علة غريبة ، والتي صممت على أساس الوقت ، عدد الكيلومترات وعدد كبير من البيانات وراء الكواليس .", "الفكرة الأساسية من خطة الصيانة هو : كل ثلاثة أشهر أو استخدام الأميال كل 300 كيلومتر من الصيانة هو \" الذهب \" العقد ، وبعد ذلك كل ستة أشهر أو استخدام الأميال كل 600 كيلومتر من الصيانة المعروفة باسم \" الفضة \" العقد ، مثل مرة واحدة فقط في السنة \" النحاس الأحمر \" العقد ، واقترح أن لا تتجاوز 12 شهرا أو استخدام الأميال 1200 كيلومتر .", "علة غريبة صيانة مقسمة إلى ثلاث مجموعات ، يمكن للعملاء اختيار بحرية . فترة الضمان للعملاء أيضا أن يوصي خيار الصيانة ، مما يساعد على إطالة أمد الحياة من المعدات وتحسين استخدام الاقتصاد . خطة الصيانة على أساس الاستخدام التراكمي الأميال ( أو الوقت ) و وضع غريب علة وفقا لاختيار العملاء لتنفيذ الصيانة حسب الطلب ، بما في ذلك ولكن لا تقتصر على الصيانة المهنية ، والصيانة ، واستبدال ، وهلم جرا . ثلاثة سلسلة الصيانة هي :", "\" العقدة الذهبية \" صيانة مجموعة ( 1500 يوان / الوقت ) - تدريب العملاء على الحفاظ على عادات جيدة ، وإطالة أمد الحياة ، وزيادة الكفاءة ؛", "\" الفضة عقدة \" حزمة الصيانة ( 2800 يوان / مرة ) - تجنب القلق من العملاء الاستهلاكية ، سهلة ، وتوفير المال .", "\" النحاس الأحمر عقدة \" الحفاظ على حزمة ( 4900 يوان / الوقت ) -- تجنب العملاء خارج البعد القلق ، يطير إلى كسب المال ؛", "محتويات محددة من ثلاث مجموعات من الصيانة هي :" ],
+    "repair" : "إصلاح",
+    "cleaningForceCalibration" : "تصحيح قوة التنظيف",
+    "batteryExplosionProofCasing" : "انفجار غلاف البطارية",
+    "batteryHandle" : "بطارية مقبض",
+    "communicationModuleAssembly" : "وحدة الاتصالات العامة",
+    "dustCover" : "الغبار يغطي",
+    "powerModuleAssembly" : "وحدة الطاقة العامة",
+    "radiator" : "المشعاع",
+    "bristleBrush" : "فرشاة",
+    "overcurrentPipeline" : "تدفق الأنابيب",
+    "airFilter" : "فلتر الهواء",
+    "ai-KwunOperatingSoftware" : "برامج تشغيل آي كون",
+    "rollerBrushMotor" : "المتداول فرشاة للسيارات",
+    "servoMotor" : "محرك سيرفو",
+    "wheelAxle" : "محور العجلة",
+    "waterSprayNozzle" : "فوهة الرذاذ",
+    "suctionAssembly" : "الامتزاز العامة",
+    "startButton" : "مفتاح بدء التشغيل",
+    "airFilterElement" : "فلتر الهواء عنصر",
+    "bspUnitDriverModule" : "باهوجان ساماج وحدة القيادة",
+    "suctionSteeringAssembly" : "الامتزاز الجمعية التوجيهية",
+    "redCopperNodeMaintenance" : "النحاس الأحمر عقدة الصيانة",
+    "wearResistantParts" : "أجزاء دائمة",
+    "idlerWheel" : "دفع عجلة",
+    "rollerBrushBracket" : "المتداول فرشاة قوس",
+    "deviceBatteryTopCover" : "غطاء البطارية",
+    "powerTrainAssembly" : "السلطة العامة",
+    "aiModuleAssembly" : "منظمة العفو الدولية وحدة الجمعية"
+  },
+  "comprehensive" : {
+    "comprehensiveTitle" : "كوون ® معلومات شاملة",
+    "comprehensive" : "كوون ® معلومات شاملة"
+  },
+  "customer" : {
+    "hi" : "مرحبا مرحبا",
+    "submit" : "قدم",
+    "subscribeUs" : "اشترك معنا",
+    "enquireNow" : "استشارة فورية",
+    "serviceHotline" : "خدمة الخط الساخن",
+    "getTheLatestInformation" : "الحصول على أحدث معلومات المنتج لأول مرة",
+    "subscribeSuccess" : "الاشتراك بنجاح",
+    "pleaseEnterQuestion" : "سعيد جدا لخدمتك ، الرجاء إدخال سؤالك",
+    "onlineMessage" : "رسالة على الانترنت ، والتشاور التغذية المرتدة",
+    "communicateOnline" : "الاتصال عبر الإنترنت",
+    "thankYouSubscribe" : "شكرا لك على الاهتمام والدعم",
+    "pleasureServe" : "سعيد جدا لخدمتك",
+    "pleaseEnterYourEmail" : "الرجاء إدخال البريد الإلكتروني الخاص بك",
+    "close" : "غلق",
+    "send" : "أرسل"
+  }
+}
